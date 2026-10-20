@@ -1,0 +1,61 @@
+name: Ibb Result Merger Smoke Test
+
+on:
+  push:
+    branches: ["ibb-merge-smoke-test"]
+    paths:
+      - ".github/workflows/ibb-merge-smoke-test.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  verify-merger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Merge real engine smoke outputs
+        run: |
+          set -euo pipefail
+          cp ibb-maps-scraper/smoke_skill1.csv ibb-maps-scraper/ibb_skill1_results.csv
+          cp ibb-maps-scraper/smoke_skill2.csv ibb-maps-scraper/ibb_skill2_results.csv
+          python3 ibb-maps-scraper/merge_results.py
+
+      - name: Validate JSON, CSV and deduplication report
+        run: |
+          python3 - <<'PY'
+          import csv, json
+          from pathlib import Path
+          root = Path("ibb-maps-scraper")
+          report = json.loads((root / "scrape_report.json").read_text(encoding="utf-8"))
+          rows = json.loads((root / "ibb_city_complete_database.json").read_text(encoding="utf-8"))
+          with (root / "ibb_city_complete_database.csv").open(encoding="utf-8-sig", newline="") as f:
+              csv_rows = list(csv.DictReader(f))
+          raw_count = report["current_run_rows_before_deduplication"]
+          assert raw_count == 32, f"Expected 32 input rows, got {raw_count}"
+          assert 0 < len(rows) <= 32, f"Unexpected deduplicated row count: {len(rows)}"
+          assert len(csv_rows) == len(rows), f"CSV/JSON mismatch: {len(csv_rows)} vs {len(rows)}"
+          assert all(r.get("name") for r in rows), "At least one row has no normalized business name"
+          assert any(r.get("phone") for r in rows), "No phone numbers were normalized"
+          assert any(r.get("latitude") and r.get("longitude") for r in rows), "No coordinates were normalized"
+          assert report["final_unique_rows"] == len(rows), "Report total does not match JSON records"
+          print(json.dumps({
+              "status": "PASS",
+              "raw_rows": raw_count,
+              "unique_rows": len(rows),
+              "duplicates_collapsed": report["duplicate_rows_collapsed_in_this_merge"],
+              "csv_rows": len(csv_rows),
+              "has_names_phones_coordinates": True
+          }, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit merger test outputs
+        run: |
+          set -euo pipefail
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A ibb-maps-scraper/ibb_skill1_results.csv ibb-maps-scraper/ibb_skill2_results.csv ibb-maps-scraper/ibb_city_complete_database.csv ibb-maps-scraper/ibb_city_complete_database.json ibb-maps-scraper/scrape_report.json
+          git commit -m "Record verified real-data merge smoke test [skip ci]"
+          git push origin "HEAD:$GITHUB_REF_NAME"
