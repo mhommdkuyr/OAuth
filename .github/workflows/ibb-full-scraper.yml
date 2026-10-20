@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       batch_size:
-        description: "Spatial cells this run (1–8; leave at 8 for normal operation)"
+        description: "Spatial cells this run (1–4; smaller batches resume faster after interruption)"
         required: true
-        default: "8"
+        default: "4"
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "17 * * * *"
   push:
     branches: ["main"]
     paths:
@@ -21,6 +21,7 @@ on:
       - "ibb-maps-scraper/README.md"
 
 permissions:
+  actions: read
   contents: write
 
 concurrency:
@@ -32,13 +33,56 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 360
     permissions:
+      actions: read
       contents: write
     env:
-      BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.batch_size || '8' }}
+      BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.batch_size || '4' }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Restore the latest checkpoint from the previous artifact if needed
+        id: restore_checkpoint
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CURRENT_RUN_ID: ${{ github.run_id }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          target="ibb-maps-scraper"
+          mkdir -p "$target"
+          if [[ -s "$target/deep_scan_state.json" ]]; then
+            echo "A committed checkpoint already exists; no artifact recovery needed."
+            exit 0
+          fi
+          echo "No committed checkpoint exists. Searching prior run artifacts to recover the last database and tile cursor."
+          candidates="$(gh run list --repo "$GITHUB_REPOSITORY" --workflow "Ibb Deep Resumable Census" --limit 30 --json databaseId,conclusion,status --jq '.[] | select(.conclusion != null) | .databaseId' 2>/dev/null || true)"
+          recovered=0
+          while IFS= read -r candidate; do
+            [[ -n "$candidate" ]] || continue
+            [[ "$candidate" == "$CURRENT_RUN_ID" ]] && continue
+            restore_dir="$(mktemp -d)"
+            if gh run download "$candidate" --repo "$GITHUB_REPOSITORY" --name "ibb-deep-census-batch-$candidate" --dir "$restore_dir" >/dev/null 2>&1               && [[ -s "$restore_dir/deep_scan_state.json" ]]               && [[ -s "$restore_dir/ibb_city_complete_database.json" ]]; then
+              echo "Recovering durable data and checkpoint from run $candidate."
+              for file in                 ibb_city_complete_database.csv                 ibb_city_complete_database.json                 scrape_report.json                 deep_scan_state.json                 ibb_skill1_results.csv                 ibb_skill2_results.csv                 ibb_osm_results.csv                 website_enrichment_cache.json; do
+                if [[ -f "$restore_dir/$file" ]]; then cp -f "$restore_dir/$file" "$target/$file"; fi
+              done
+              if [[ -d "$restore_dir/deep_scan_tiles" ]]; then
+                mkdir -p "$target/deep_scan_tiles"
+                cp -a "$restore_dir/deep_scan_tiles/." "$target/deep_scan_tiles/"
+              fi
+              rm -rf "$restore_dir"
+              recovered=1
+              break
+            fi
+            rm -rf "$restore_dir"
+          done <<< "$candidates"
+          if [[ "$recovered" != "1" ]]; then
+            echo "::warning::No prior checkpoint artifact was found. Starting from committed repository data."
+          else
+            echo "Checkpoint recovery completed."
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,8 +93,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [[ ! "$BATCH_SIZE" =~ ^([1-8])$ ]]; then
-            echo "::error::batch_size must be an integer from 1 to 8."
+          if [[ ! "$BATCH_SIZE" =~ ^([1-4])$ ]]; then
+            echo "::error::batch_size must be an integer from 1 to 4."
             exit 1
           fi
           python3 -m py_compile \
@@ -250,6 +294,9 @@ jobs:
           set -euo pipefail
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          # Docker (root inside the container) may leave Gosom resume metadata unreadable to the runner.
+          # Make tracked outputs readable before staging; otherwise the entire checkpoint commit fails.
+          sudo chown -R "$(id -u):$(id -g)" ibb-maps-scraper || true
           git add -A ibb-maps-scraper
           if git diff --cached --quiet; then
             echo "No state or database changes to commit."
