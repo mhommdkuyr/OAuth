@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       grid_size:
-        description: "Grid size for the Mahanaicoach engine (1–10; larger grids take much longer)"
+        description: "Spatial grid per dimension (1–10); 4 means 16 sequential tiles per query and may take several hours"
         required: true
-        default: "1"
+        default: "4"
   push:
     branches: ["main"]
     paths:
@@ -30,9 +30,9 @@ jobs:
     permissions:
       contents: write
     env:
-      # A 4x4 grid multiplied by 20 queries creates 320 sequential jobs and often exceeds the runner limit.
-      # Manual dispatch can override this; push-triggered runs default to one cell for a bounded verification run.
-      GRID_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.grid_size || '1' }}
+      # Deep pass: 4x4 overlapping spatial tiles per query. Tile jobs are sequential to avoid raising concurrency against Google Maps.
+      # Exact 40 m sampling is not supported by this engine; each tile search has a minimum radius of about 1 km.
+      GRID_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.grid_size || '4' }}
 
     steps:
       - name: Checkout repository
@@ -57,7 +57,7 @@ jobs:
           echo "Using grid size: $GRID_SIZE"
 
       - name: "Engine 1 — start Mahanaicoach Docker API and scrape grid"
-        timeout-minutes: 200
+        timeout-minutes: 300
         continue-on-error: true
         shell: bash
         run: |
@@ -102,7 +102,7 @@ jobs:
           fi
 
       - name: "Engine 2 — run gosom CLI against Ibb radius"
-        timeout-minutes: 130
+        timeout-minutes: 45
         continue-on-error: true
         shell: bash
         run: |
