@@ -247,7 +247,14 @@ def main():
    row[k]=d.get(k,"")
   for k in ("instagram","facebook","linkedin"):
    if not good(row.get(k)) and good(d.get(k)): row[k]=d[k]
-  if not good(row.get("email")) and good(d.get("website_emails")): row["email"]=d["website_emails"]
+  if not good(row.get("email")) and good(d.get("website_emails")):
+   row["email"]=", ".join(d["website_emails"]) if isinstance(d["website_emails"],list) else str(d["website_emails"])
+  if not good(row.get("phone")) and good(d.get("website_phones")):
+   row["phone"]=d["website_phones"][0] if isinstance(d["website_phones"],list) else str(d["website_phones"])
+  if not good(row.get("opening_hours")) and good(d.get("website_opening_hours")):
+   row["opening_hours"]=d["website_opening_hours"]
+  if not good(row.get("address")) and good(d.get("website_address")):
+   row["address"]=d["website_address"]
   photo_urls=[]; sources=[]
   t=row.get("thumbnail")
   if good(t) and str(t).startswith(("https://","http://")): photo_urls.append(t); sources.append("maps_thumbnail")
