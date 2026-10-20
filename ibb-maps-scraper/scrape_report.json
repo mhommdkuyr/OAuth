@@ -1,14 +1,14 @@
 {
-  "run_id": "39360358887",
-  "generated_at_utc": "2026-10-20T02:42:29.033102+00:00",
+  "run_id": "39360548768",
+  "generated_at_utc": "2026-10-20T02:44:35.363285+00:00",
   "city": "Ibb, Yemen",
   "grid_size": "4",
-  "previous_database_rows": 0,
+  "previous_database_rows": 32,
   "mahanaicoach_rows_this_run": 16,
   "gosom_rows_this_run": 16,
   "current_run_rows_before_deduplication": 32,
-  "new_unique_rows_added": 32,
-  "final_unique_rows": 32,
-  "duplicate_rows_collapsed_in_this_merge": 0,
+  "new_unique_rows_added": 0,
+  "final_unique_rows": 27,
+  "duplicate_rows_collapsed_in_this_merge": 37,
   "coverage_note": "Best-effort collection, not a certified complete census. Search limits, geocoding boundaries, rate limits, query language and changing listings may omit places."
 }
