@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       grid_size:
-        description: "Grid size for the Mahanaicoach engine (1–10)"
+        description: "Grid size for the Mahanaicoach engine (1–10; larger grids take much longer)"
         required: true
-        default: "4"
+        default: "1"
   push:
     branches: ["main"]
     paths:
@@ -29,7 +29,9 @@ jobs:
     permissions:
       contents: write
     env:
-      GRID_SIZE: ${{ inputs.grid_size || '4' }}
+      # A 4x4 grid multiplied by 20 queries creates 320 sequential jobs and often exceeds the runner limit.
+      # Manual dispatch can override this; push-triggered runs default to one cell for a bounded verification run.
+      GRID_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.grid_size || '1' }}
 
     steps:
       - name: Checkout repository
