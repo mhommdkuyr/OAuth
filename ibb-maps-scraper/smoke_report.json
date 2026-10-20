@@ -1,0 +1,12 @@
+{
+  "run_id": "39360014753",
+  "generated_at_utc": "2026-10-20T02:39:44.230554+00:00",
+  "city": "Ibb, Yemen",
+  "query_count": 1,
+  "engine1_step_outcome": "success",
+  "engine2_step_outcome": "success",
+  "engine1_rows": 16,
+  "engine2_rows": 16,
+  "total_rows_before_deduplication": 32,
+  "note": "One-query operational smoke test only; not a full city census."
+}
