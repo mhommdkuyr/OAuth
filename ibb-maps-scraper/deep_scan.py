@@ -476,6 +476,9 @@ def advance_stage_if_ready(state: dict[str, Any]) -> None:
 def run_batch(batch_size: int, target: int) -> None:
     state = load_state(target)
     state["batch_runs"] = int(state.get("batch_runs", 0)) + 1
+    state["last_batch_tiles"] = []
+    state["last_batch_successful_tiles"] = 0
+    state["last_batch_errors"] = []
     if state.get("scan_complete"):
         print(f"Spatial scan already ended with status={state.get('scan_status')}; web enrichment can continue.", flush=True)
         collect_openstreetmap(state)
@@ -537,6 +540,7 @@ def run_batch(batch_size: int, target: int) -> None:
         save_state(state)
 
     rows_added = aggregate_current_batch(this_batch, state)
+    state["last_batch_successful_tiles"] = len(this_batch)
     state["last_batch_rows"] = rows_added
     state["last_batch_finished_at_utc"] = utc_now()
     state["projected_unique_records"] = project_unique_count()
@@ -558,7 +562,7 @@ def run_batch(batch_size: int, target: int) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--mode", choices=("batch","needs-gosom","mark-gosom","status"), default="batch")
+    ap.add_argument("--mode", choices=("batch","needs-gosom","mark-gosom","status","cleanup-batch"), default="batch")
     ap.add_argument("--batch-size", type=int, default=int(os.getenv("BATCH_SIZE", "10")))
     ap.add_argument("--target", type=int, default=DEFAULT_TARGET)
     args = ap.parse_args()
@@ -576,6 +580,24 @@ def main() -> int:
         return 0
     if args.mode == "status":
         print(json.dumps(state, ensure_ascii=False, indent=2))
+        return 0
+    if args.mode == "cleanup-batch":
+        removed = 0
+        for key in state.get("last_batch_tiles", []):
+            try:
+                grid_part, tile_part = key.split(":", 1)
+                path = tile_path(int(grid_part), int(tile_part))
+                if path.exists():
+                    path.unlink()
+                    removed += 1
+            except Exception as exc:
+                print(f"Could not clean tile {key}: {exc}", flush=True)
+        # Clean empty tile folders; completed state and merged database remain the durable checkpoint.
+        for directory in sorted(TILES_ROOT.glob("grid_*")):
+            try: directory.rmdir()
+            except OSError: pass
+        save_state(state)
+        print(f"Cleaned {removed} tile scratch files after merge", flush=True)
         return 0
     run_batch(args.batch_size, args.target)
     return 0
