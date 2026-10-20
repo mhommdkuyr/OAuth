@@ -34,7 +34,7 @@ API_BASE = os.getenv("SCRAPER_BASE_URL", "http://127.0.0.1:8080").rstrip("/")
 API_KEY = os.getenv("SCRAPER_API_KEY", "")
 UA = "IbbCensusBot/1.0 (+https://github.com/mhommdkuyr/OAuth)"
 # Several increasingly dense passes; the cursor is persisted by grid-size and tile number.
-GRID_STAGES = [10, 15, 20, 25]
+GRID_STAGES = [10, 15, 20, 25, 30]
 MAX_ATTEMPTS = 3
 DEFAULT_TARGET = 10_000
 RAW_FIELDS = [
