@@ -26,6 +26,7 @@ ALIASES = {
 FIRST = ["name","category","address","phone","email","website","google_maps_url",
          "latitude","longitude","rating","review_count","opening_hours","place_id","source_engine"]
 EMPTY = {"", "none", "null", "nan", "n/a", "na"}
+PLUS_CODE_RE = re.compile(r"(?<![A-Z0-9])([23456789CFGHJMPQRVWX]{4,8}\+[23456789CFGHJMPQRVWX]{2,3})(?![A-Z0-9])", re.I)
 
 def good(v):
     return v is not None and (not isinstance(v, str) or v.strip().casefold() not in EMPTY)
@@ -50,7 +51,6 @@ def read_csv(path, source):
     for raw in rows:
         if any(good(v) for v in raw.values()):
             row = normalize(raw)
-            row.setdefault("source_engine", source)
             if not good(row.get("source_engine")) or row.get("source_engine") == "unknown":
                 row["source_engine"] = source
             result.append(row)
@@ -69,35 +69,109 @@ def read_previous():
 def cleankey(value):
     s = unicodedata.normalize("NFKC", str(value or "")).casefold().strip()
     s = re.sub(r"[\u064B-\u065F\u0670]", "", s)
+    # Arabic variants commonly used in business listings.
+    s = s.translate(str.maketrans({"أ":"ا","إ":"ا","آ":"ا","ى":"ي","ة":"ه"}))
     return " ".join(re.sub(r"[^\w]+", " ", s, flags=re.UNICODE).split())
 
-def key(row):
-    for k in ("place_id", "cid", "data_id"):
-        if good(row.get(k)):
-            return "id:" + cleankey(row[k])
-    if good(row.get("google_maps_url")):
-        return "url:" + str(row["google_maps_url"]).strip().rstrip("/").casefold()
-    name, addr = cleankey(row.get("name") or row.get("title")), cleankey(row.get("address"))
-    phone = re.sub(r"\D+", "", str(row.get("phone") or ""))
-    if name and addr: return "name-address:" + name + "|" + addr
-    if name and phone: return "name-phone:" + name + "|" + phone
-    try:
-        if name: return f"name-coords:{name}|{float(row['latitude']):.4f}|{float(row['longitude']):.4f}"
-    except (KeyError, TypeError, ValueError): pass
-    if name: return "name-category:" + name + "|" + cleankey(row.get("category"))
-    return "unidentified:" + str(id(row))
+def row_keys(row, index):
+    """Return multiple independent keys so an ID-bearing row can match one without that ID."""
+    keys = set()
+    name = cleankey(row.get("name") or row.get("title"))
+    if not name:
+        return {"unidentified:" + str(index)}
 
-def merge(groups):
-    by_key, collapsed = {}, 0
-    for raw in groups:
-        row, k = normalize(raw), key(normalize(raw))
-        if k not in by_key:
-            by_key[k] = row
-        else:
-            collapsed += 1
+    for field in ("place_id", "cid", "data_id"):
+        value = row.get(field)
+        if good(value):
+            keys.add("id:" + cleankey(value))
+
+    url = row.get("google_maps_url") or row.get("link")
+    if good(url):
+        url = re.sub(r"[?#].*$", "", str(url).strip()).rstrip("/").casefold()
+        if url:
+            keys.add("url:" + url)
+
+    phone = re.sub(r"\D+", "", str(row.get("phone") or ""))
+    if len(phone) >= 7:
+        keys.add("name-phone:" + name + "|" + phone)
+
+    address = str(row.get("address") or "")
+    addr_key = cleankey(address)
+    if addr_key:
+        keys.add("name-address:" + name + "|" + addr_key)
+        for match in PLUS_CODE_RE.finditer(address):
+            code = cleankey(match.group(1))
+            keys.add("name-pluscode:" + name + "|" + code)
+
+    try:
+        lat, lon = float(row.get("latitude")), float(row.get("longitude"))
+        if -90 <= lat <= 90 and -180 <= lon <= 180:
+            keys.add(f"name-coords:{name}|{lat:.4f}|{lon:.4f}")
+    except (TypeError, ValueError):
+        pass
+
+    category = cleankey(row.get("category"))
+    # Only use this weak fallback if the row has no usable location or contact information.
+    strong_prefixes = ("id:", "url:", "name-phone:", "name-address:", "name-pluscode:", "name-coords:")
+    if category and not any(k.startswith(strong_prefixes) for k in keys):
+        keys.add("name-category:" + name + "|" + category)
+    return keys or {"unidentified:" + str(index)}
+
+def merge_records(previous, current):
+    """Merge rows using union-find across every matching candidate key; returns rows and counts."""
+    records = [normalize(r) for r in previous] + [normalize(r) for r in current]
+    old_count = len(previous)
+    parent = list(range(len(records)))
+    rank = [0] * len(records)
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(a, b):
+        ra, rb = find(a), find(b)
+        if ra == rb:
+            return
+        if rank[ra] < rank[rb]:
+            ra, rb = rb, ra
+        parent[rb] = ra
+        if rank[ra] == rank[rb]:
+            rank[ra] += 1
+
+    key_owner = {}
+    for i, row in enumerate(records):
+        for candidate in row_keys(row, i):
+            if candidate in key_owner:
+                union(i, key_owner[candidate])
+            else:
+                key_owner[candidate] = i
+
+    groups = {}
+    for i in range(len(records)):
+        groups.setdefault(find(i), []).append(i)
+
+    merged_rows, new_unique = [], 0
+    for members in sorted(groups.values(), key=lambda m: m[0]):
+        combined, sources = {}, set()
+        for i in members:
+            row = records[i]
+            source = str(row.get("source_engine") or "").strip()
+            if source and source.casefold() not in EMPTY:
+                sources.update(s.strip() for s in re.split(r"[;,]", source) if s.strip())
             for field, value in row.items():
-                if good(value): by_key[k][field] = value
-    return list(by_key.values()), collapsed
+                if field == "source_engine" or not good(value):
+                    continue
+                # Preserve the first non-empty canonical value, but fill blanks with later data.
+                if not good(combined.get(field)):
+                    combined[field] = value
+        combined["source_engine"] = ";".join(sorted(sources, key=str.casefold)) if sources else "unknown"
+        merged_rows.append(combined)
+        if any(i >= old_count for i in members) and not any(i < old_count for i in members):
+            new_unique += 1
+
+    return merged_rows, len(records) - len(merged_rows), new_unique
 
 def as_cell(v):
     return json.dumps(v, ensure_ascii=False, separators=(",", ":")) if isinstance(v, (dict,list,tuple)) else ("" if v is None else str(v))
@@ -110,9 +184,7 @@ def atomic_text(path, text):
 def main():
     previous = read_previous()
     a, b = read_csv(S1, "mahanaicoach"), read_csv(S2, "gosom")
-    old_keys = {key(r) for r in previous}
-    rows, collapsed = merge([*previous, *a, *b])
-    added = len({key(r) for r in rows} - old_keys)
+    rows, collapsed, added = merge_records(previous, [*a, *b])
     columns = list(FIRST)
     extras = sorted(set().union(*(r.keys() for r in rows)) - set(columns)) if rows else []
     columns += extras
@@ -121,16 +193,20 @@ def main():
     with tmp.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore")
         w.writeheader()
-        for r in rows: w.writerow({k: as_cell(r.get(k, "")) for k in columns})
+        for r in rows:
+            w.writerow({k: as_cell(r.get(k, "")) for k in columns})
     os.replace(tmp, OUT_CSV)
     report = {
         "run_id": os.getenv("GITHUB_RUN_ID", "local"),
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
-        "city": "Ibb, Yemen", "grid_size": os.getenv("GRID_SIZE", "4"),
+        "city": "Ibb, Yemen",
+        "grid_size": os.getenv("GRID_SIZE", "4"),
         "previous_database_rows": len(previous),
-        "mahanaicoach_rows_this_run": len(a), "gosom_rows_this_run": len(b),
+        "mahanaicoach_rows_this_run": len(a),
+        "gosom_rows_this_run": len(b),
         "current_run_rows_before_deduplication": len(a) + len(b),
-        "new_unique_rows_added": added, "final_unique_rows": len(rows),
+        "new_unique_rows_added": added,
+        "final_unique_rows": len(rows),
         "duplicate_rows_collapsed_in_this_merge": collapsed,
         "coverage_note": "Best-effort collection, not a certified complete census. Search limits, geocoding boundaries, rate limits, query language and changing listings may omit places."
     }
