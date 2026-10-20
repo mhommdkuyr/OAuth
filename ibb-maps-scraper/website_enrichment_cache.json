@@ -1540,8 +1540,8 @@
   "snapchat.com": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T19:54:20.350054+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-20T22:58:01.175827+00:00"
   },
   "maps.app.goo.gl": {
     "status": "robots_disallowed",
@@ -1582,10 +1582,37 @@
     }
   },
   "iutt.edu.ye": {
-    "status": "fetch_error:URLError",
+    "status": "ok",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T19:54:52.950246+00:00"
+    "final_url": "https://iutt.edu.ye/",
+    "checked_at_utc": "2026-10-20T22:58:29.235417+00:00",
+    "attempts": 2,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://iutt.edu.ye/wp-content/uploads/2026/01/IMG_1512-768x512.jpg",
+        "https://iutt.edu.ye/",
+        "https://iutt.edu.ye/wp-content/uploads/2026/02/main-logo.png",
+        "https://iutt.edu.ye/wp-content/uploads/2026/10/844359776_18101031734638811_23081747983331904_n-768x513.jpg",
+        "https://iutt.edu.ye/wp-content/uploads/2026/10/842422339_18100841894638811_7293434174367460838_n-768x513.jpg",
+        "https://iutt.edu.ye/wp-content/uploads/2026/10/840052170_18100728905638811_9201255710901533475_n-2-768x513.jpg",
+        "https://iutt.edu.ye/wp-content/uploads/2026/10/840287494_18100730315638811_3024664756957757533_n-768x513.jpg",
+        "https://iutt.edu.ye/wp-content/uploads/2026/10/839179630_18100590596638811_3527333853200748691_n-768x513.jpg",
+        "https://iutt.edu.ye/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-4.17.27-PM-768x959.jpeg",
+        "https://iutt.edu.ye/wp-content/uploads/2025/12/6-0١-2-scaled.png",
+        "https://iutt.edu.ye/wp-content/uploads/2025/12/The-BIZZ-2018.png",
+        "https://iutt.edu.ye/wp-content/uploads/2025/12/WorldCOB-Elite-Member.png"
+      ],
+      "instagram": "https://www.instagram.com/iutt_yemen",
+      "facebook": "https://www.facebook.com/TWINTECH.UNIVERSITY",
+      "linkedin": ""
+    }
   },
   "eduislamic.com": {
     "status": "ok",
@@ -2012,5 +2039,549 @@
       "facebook": "https://www.facebook.com/ALBADIA.YEMEN/",
       "linkedin": ""
     }
+  },
+  "baitaryalyemen.blogspot.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://baitaryalyemen.blogspot.com/",
+    "checked_at_utc": "2026-10-20T22:58:32.420587+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG13J0-Tlgsqcy4KTZJkfHRd6FlusnTNrdybbXUFeVPySCr3cSDXMNfKTSOydrGUg1FKyGLN0VVh2hV9fCG3XgHa6QzqVg9unczEp0Qags5ynrElwIsXk_XJLFyO_TiUpDCdGehO1MWec/s0-e90-rw/byw-og-imag.webp",
+        "https://baitaryalyemen.blogspot.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhWSTiEvbu4M1AtZsoH0R5ix8VSg8bkGOJd9jJ1C7BxFNomj6l3dSY82zJ033_guYsuavoYIHo4fN-dMtDTIff6P4ZTIC6qPxRbTuUAR0UXrF_4QyuKwo3tzqcKn2b0QYC6jsrIp3rsJA/s150/bw-logo.png",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjtDCKitCDmxUzLewb57qd3PjLf7alnjmlZt8k9GXRETKG3pAVo-8J-FLJhBDA34bWDIKzFvHrFkSsKQAAIqXHzYKtti_oAU79xxMUgpN1OR01kMUtJ544wc_ooZ8SgSQjKsddV_BHZbeLVw1JkwwRByNIKfXf7EvEK319NIV-Pw1EHQn3z0UakIwz4=s0-rw-e90",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFuXAvENK_3jolk_0CVkUfP-qUwbdsJnxoyj6Xuvwa1dMPFJp4Gfr7_OwK83N3l9QbF36O95eTcRX6l6WIlWvcNOpV-I-bfeKRHf1FOPtsdeqGXDT96whLU8o6uUK81wgrrzshhebOt4/w72-h72-p-k-no-nu/goat1.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_HDaApadkofec6ZSNGIbs9bf44FSfBsKIe6fMbPWWYn2IB4Qj63WvtnEH8yjLPctZ8XGLei4PwQat4957dCVNRxsswnX2g-hZcwJLdpurmrbHI1jgbQbO5It0YlM18YRqcUoNelZPlo/w72-h72-p-k-no-nu/breeding-goats.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6eCO93IM6QTOVMg5c8gXHWZSA8Xvhclnc_fOowv2bTFETBzv3sJfHNAc5NkERft6OBpp9ZJmcp1Z4NkE-UYC2I7M2ZQRe-Qr4-zt_Y1UHoLrNgQn9vUaXrlgVKF2QBaOtzHuzksokFKQ/w72-h72-p-k-no-nu/protecting-bees.webp",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOY6gV050n5Ns6NFSI82eHlkTe49Q5S2WU5GDSbXrrWCpwH40t2w87fx46PbevMe0y44KuuFk3xZ8Y5NlTAxlh4633Mvz77taUjhQ4HwPR6QXmjMSrQhLt7sjL-TqhNGkrbX2a5-iKXQ/w72-h72-p-k-no-nu/Liver-sheep-infected.jpg",
+        "https://baitaryalyemen.blogspot.com/p/contact-us.html"
+      ],
+      "instagram": "https://www.instagram.com/vet_yem.n                ",
+      "facebook": "https://www.facebook.com/baitaryweb",
+      "linkedin": "https://www.linkedin.com/in/b-y-258187183                "
+    }
+  },
+  "sarvetpoultry.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://sarvetpoultry.com/",
+    "checked_at_utc": "2026-10-20T22:58:37.826692+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "+967 1 442 047"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://sarvetpoultry.com/wp-content/uploads/2021/06/9cdbb11c-37aa-405a-8595-7534efedce21.jpg",
+        "https://sarvetpoultry.com/",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/07/cropped-cropped-sarvet-logo-06-105x82.png",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/06/4b274ba5-1589-4bd1-958e-f9be2561f1dd.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/06/b3dbbe0e-d4dc-41f9-afb4-aa6abf1e31e5.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/06/services.jpeg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/06/7e162608-d53e-4864-9fff-d6033cd969d9.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/06/b0f0e7e0-4450-484f-8e00-de47b3538318.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/05/science-day3-300x225.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/05/intraco-300x225.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/05/bioAmro-300x225.jpg",
+        "https://sarvetpoultry.com/wp-content/uploads/2021/05/meeting-300x225.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/sarvet/?ref=page_internal",
+      "linkedin": ""
+    }
+  },
+  "alhmydy.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T22:58:38.882814+00:00"
+  },
+  "alqahoomstores.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "http://www.alqahoomstores.com/",
+    "checked_at_utc": "2026-10-20T22:58:40.519708+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@alqahoomstores.com",
+        "sales@alqahoomstores.com",
+        "purchase@alqahoomstores.com"
+      ],
+      "website_phones": [
+        "+967771594614"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://www.alqahoomstores.com/",
+        "http://www.alqahoomstores.com/image/sliders/1.jpg",
+        "http://www.alqahoomstores.com/image/sliders/2.jpg",
+        "http://www.alqahoomstores.com/image/sliders/3.jpg",
+        "http://www.alqahoomstores.com/image/sliders/4.jpg",
+        "http://www.alqahoomstores.com/image/sliders/5.jpg",
+        "http://www.alqahoomstores.com/image/sliders/6.jpg",
+        "http://www.alqahoomstores.com/image/uk.svg",
+        "http://www.alqahoomstores.com/image/logo.png",
+        "http://www.alqahoomstores.com/image/our-products/المبيدات.jpg",
+        "http://www.alqahoomstores.com/image/our-products/أسمدة.jpg",
+        "http://www.alqahoomstores.com/image/our-products/بدور.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/alqahoomstores/",
+      "linkedin": ""
+    }
+  },
+  "alameriexchange.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://alameriexchange.com/",
+    "checked_at_utc": "2026-10-20T22:58:42.216209+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Alameri Exchange Company",
+      "website_emails": [
+        "info@alameriexchange.com"
+      ],
+      "website_phones": [
+        "+9671625871",
+        "+967 1625871"
+      ],
+      "website_address": "Yemen - Sana'a - Main Center - Taiz Street - Bait Mayad - Street 16, Sanaa, YE",
+      "website_opening_hours": "{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Saturday\", \"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\"], \"opens\": \"08:30\", \"closes\": \"20:00\"}",
+      "website_latitude": "15.3694",
+      "website_longitude": "44.1910",
+      "website_images": [
+        "https://alameriexchange.com/assets/imeges/logo-en.png",
+        "https://alameriexchange.com/",
+        "https://alameriexchange.com/assets/imeges/cash.png",
+        "https://alameriexchange.com/assets\\imeges\\logo-only.png"
+      ],
+      "instagram": "https://www.instagram.com/alameriexchange",
+      "facebook": "https://www.facebook.com/alameriexchange",
+      "linkedin": ""
+    }
+  },
+  "majdtrading.store": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://majdtrading.store/",
+    "checked_at_utc": "2026-10-20T22:58:43.925673+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://majdtrading.store/",
+        "https://majdtrading.store/images/img_001.jpg",
+        "https://majdtrading.store/images/img_002.jpg",
+        "https://majdtrading.store/images/img_003.jpg",
+        "https://majdtrading.store/images/img_004.jpg",
+        "https://majdtrading.store/images/img_005.jpg",
+        "https://majdtrading.store/images/img_006.jpg",
+        "https://majdtrading.store/images/img_007.jpg",
+        "https://majdtrading.store/images/img_008.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alwafipharma.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://alwafipharma.com/ar",
+    "checked_at_utc": "2026-10-20T22:58:47.646861+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "name@company.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alwafipharma.com/ar"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "lotfalatabi.blogspot.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://lotfalatabi.blogspot.com/",
+    "checked_at_utc": "2026-10-20T22:58:49.043156+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://lotfalatabi.blogspot.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjarGYNLsOk1GiSRkrQOj35IBdeiXxa8ltonBdZPT4OheWczvUtglKpcIPHIvuQR3eHvsH1pKMfo-_3NnpWsj73oHRClWYD6mNH86kVkE_3ZJAZY7835_Bd1kZV791ERxO-tfGdnCZJWPeY/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUmCtm8kvIULKJqB6Y3j2O6cE5I9TqB9hb7EkREj9OIc90e_2rPMEUMQ6MqTg9RnJCN7JeJi12MX5HvwZJ-e65X_omBdnDirTqolEa6y9t9opCWW7beEsS0WXvqYUtOBqNBPSsV6oA9dH5/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A3.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3b0ZHBwjpCn0oKhP-PcfyyO8Xek_aj6EpXSVUhelHA6fx4hoyDdwtfwqCT-0f6yYrGWliSKE2167L4snu0WsFvDEeQPxFFUr1OnJXtC0mawFF3iwaRyJSBSIS2H0o7abn5wvYkFTRh5Y/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A9.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0x6KiMYDl-FOhPpit1FQ9Ah8C6ZLJMpvAeZWsV-49LNeEHfJSmMnChVABZNS9AMg3EK36dpRnzA8MloNHGzYhas9F2m2qrPgd0i0DA7yAm8qLm_xzUVZBE45ZCMKgX0fIqX8X6-tK9SSs/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A0%25D9%25A8%25D9%25A3%25D9%25A3.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ1FkagTA5wOsLaJNVW22PgEGpwjQKG55TE63Zb8KOuQ57TMD7uKiVYJIlaSNoB3Tnq24XobH9TMW5wMftQINpIwprDQS29qbIPs0L4FUxzCyd0wuTKVYbVRT69xLEQ3mLrgq7DdT3pbDi/s320/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A0%25D9%25A8%25D9%25A3%25D9%25A8.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbuHVBSBEJeZexaIqA3nNu2Bq5-S2sWki1SG4YOsmszp5iLvUG9Bhl0ly-waYWzex97e61bQt1cNK9LJSPFVMw3VM_rANfZfFRlhVNXvuZbk3jzdpjnomUp9WD-QS77nkSMcLCW2Zi9Tkk/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A0%25D9%25A8%25D9%25A4%25D9%25A0.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF7B58_sjEF0bWn2w7vwA7FReX1cNiqEbBau1aErVplI5kHRxHXeJPu40_r54BjVLoLCWmVYVrpV8kFx8e3e3OKLhkiH4HBSICMGFXiN0NhKYi4AB-eB1P1-TSy3dVZNH1oY8uSAIgISb7/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A1%25D9%25A5%25D9%25A2%25D9%25A3.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6oN_TA1aDMGyAZM_kWjt0fvKzArb3CTzOOaOE0t6EAC2JQs99h29EX9gK9p7V_VwISTmuHOVGstIPDWpymtwOUW9DjjQawPZcCfaHF8u0f8Cgtt0SOBMYfoK8RyIDhbKMiTr-w6C3MmdS/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A1%25D9%25A5%25D9%25A3%25D9%25A2.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnJARZcjs6l0k_SvJm5uj4twKcaM_5g2je54wbsSOWMoICfpAlk4lBdsF7GuzfmHzyiJP6w37ulb2iQrlFMo2IDByCPiDjJXX3Wxp-ttWgNqi7tfLiBXhWHjqzcDuGjX28stYuHBv4u7WH/s320/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A1%25D9%25A5%25D9%25A3%25D9%25A7.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinD-_Hf6eBPiGXTS-yaQkfofKMNkezr9VRVOGECjlP4BvR0bCTcFuzIT-3mt8liktHBoCMUwIJUkIXS73am932wem3mp8G8u3J4NcTfJMfU4buZzNTP5eRDwRAQ7M4tyWPUVr-U3TAwZah/s320/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A1%25D9%25A5%25D9%25A4%25D9%25A7.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh80Pz1XojLO0RPXFnwLbFN8T3ZL11BWOstkkhiQcEocOasFGdUuoiE77Z-PU31ZyZ55Z0MxU_Qnpgl7ZX6D6aw9FCYyMrhBMfSXkJZiaJDsqiqM_68l8alu7564kW9yYV5NwNg82TzxwHp/s1600/%25D9%25A2%25D9%25A0%25D9%25A1%25D9%25A8%25D9%25A0%25D9%25A8%25D9%25A2%25D9%25A2_%25D9%25A0%25D9%25A9%25D9%25A1%25D9%25A6%25D9%25A3%25D9%25A4.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "halabraqe.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.halabraqe.com/",
+    "checked_at_utc": "2026-10-20T22:58:50.948960+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.halabraqe.com/",
+        "https://www.halabraqe.com/hala.jpg"
+      ],
+      "instagram": "https://www.instagram.com/halabraqe/",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "dreamhoteladen.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://dreamhoteladen.com/",
+    "checked_at_utc": "2026-10-20T22:58:52.407138+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@dreamhoteladen.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://dreamhoteladen.com/",
+        "https://dreamhoteladen.com/icons/title.png",
+        "https://dreamhoteladen.com/icons/logo.jpg",
+        "https://dreamhoteladen.com/icons/whatsapp.svg",
+        "https://dreamhoteladen.com/icons/facebook.svg",
+        "https://dreamhoteladen.com/icons/instagram.svg",
+        "https://dreamhoteladen.com/icons/email.svg",
+        "https://dreamhoteladen.com/icons/location.svg"
+      ],
+      "instagram": "https://www.instagram.com/dreamhoteladen?igsh=OWU2eTJkb2RsbzZ5&utm_source=qr",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "kooora.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.kooora.com/",
+    "checked_at_utc": "2026-10-20T22:58:53.811768+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "KOOORA",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://assets.kooora.com/images/v3/kr_placeholder",
+        "https://www.kooora.com/",
+        "https://www.kooora.com/assets/images/kooora_logo.svg?v=1.119.0",
+        "https://www.kooora.com/assets/images/main-background.jpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/WIX5UEBE261AfbtZ0NTsh.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/FTFHJXNz0QodAZVFgBHWp.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/aeIYJYVg9wvoBSggwsv6R.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/EVkQKNAzefS38u47wN61S.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/l1tMugUxz1pGIwawM6fsp.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/CdcOjp-X5dS3P4qQ4R7Hk.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/n8X1DP5XO9SuFfkl6EUEz.png?quality=60&auto=webp&format=pjpg",
+        "https://cdn.sportfeeds.io/sdl/images/team/crest/small/6yJ-IoAb8qgBJltdF5PfI.png?quality=60&auto=webp&format=pjpg"
+      ],
+      "instagram": "https://www.instagram.com/kooora/",
+      "facebook": "https://www.facebook.com/kooora",
+      "linkedin": ""
+    }
+  },
+  "adrasy.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T22:58:56.400922+00:00"
+  },
+  "zakatyemen.net": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_403",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T22:58:57.544477+00:00"
+  },
+  "texasyementranslator.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T22:58:58.593160+00:00"
+  },
+  "malekcnr.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.malekcnr.com/",
+    "checked_at_utc": "2026-10-20T22:59:00.349359+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.malekcnr.com/هنا رابط الصورة",
+        "https://www.malekcnr.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxoPyzsE1Q-FQU7fgiXq5gBOYA0FxpqgIcZF6xFVkNy2KgyhusCqsjacY67mw0KBnRtObj94r-s_lBu0IL5gRdAR8-7vx6HFmpcdaSLRKJV5Ce-kNJilmfFuYozN0PvqSHdiwkac7Dj16MZrrLKcEYPgW33cdlTCVSPAkO7CPXJGbg050Ct88xuM8VgEOa/w1200-h630-p-k-no-nu/DV2027.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMZttQCOJSXsAfMviv77OiCB2vGk5Pjpc7FLpO67KVZh_PFFepejhymXY6N0DaNiRvYCd1iE4I1dbSn60f0mgPrfT_MD3Qehnl729eXrVKpQ-kz-m22a67ReCuvR_kqE6fDvjSme1JLGMor2161SS6uMgnlem7tKELH2Dx98pVCQnfyCMUCpgdI-clE27K/w1200-h630-p-k-no-nu/2026.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkQCwQ6cD6G25UhAdi-_wIzFAk6KcQRD1DzxEc1jzqG6R0mi1Wp2eoXUw7dfaXFs-sr39XvhY60o97Q2bbdLaodIRQtigybMqgbQ18NyhMavwiINnPxhXPBFrnkaq27vavFs60sHzi2ZdVZxmXhrpIW1jJIPILAdT__-wkGN_FIjw32qg5_LBqXx4m/w1200-h630-p-k-no-nu/DV20266.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHiVFKH3Fmb6seRsF8Y0Z9RR4y4J9tvftYYoGd-68gZaQRQqXf6lAiWNIuytECqO4_f09ydhSIQNrpSciKQ56G9uszDIwS-50xENDJjRvQUHrxfI9zfPTIMQvjek5v4VGtZqsDrWsqUWPiP2QwI65cLCFHF1qvjZsiUsSxV_GKpY7IlSoJfG2xGV8aoa8n/w1200-h630-p-k-no-nu/8105462%20copy.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfyX1jpjUL697ek8p61daTeYsp3d2VvLJZaO6IMs5GB-HwsewWIbIWUAEOwZ84zJSBzaQzgTfLvb5EEeRil91bTNACQSPMRDfW2x_M7vf2cp4WwBAXoFOR_DmsdPhZYhC8yWcHmco7XsLxzqDeULh83F85GXDMEBDBdet_O3TSJZn9aVONaEu9k2ZMyF7/w1200-h630-p-k-no-nu/%D8%A5%D8%B9%D9%84%D8%A7%D9%86%20%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%8A%D8%A7%D9%86%D8%B5%D9%8A%D8%A8%202025%20copy-min.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqHoaX9IEznf8V1g4yruCzQ9u5BWJfmrU30Zy9yMhT3J1z8nQ31SSqCN-2ArSOtJFs1wHHCHlqgfS3X-RIJeCL9OidxNht4K4Rnq0XCrzBnr5pBzR0QgaaPH6D39ZjHpWjRTUSVCrBEJDViX1kTxfbU_QDf_rWax3remDXbvyXyt1faMF8iYzNdToy5CKU/w1200-h630-p-k-no-nu/IMG_2407.jpeg",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgChphSl-82B7S8DOC8J6dFMmFdMmNaWCYXyX90m61izXWNQl3r4SmVYwhdM-GexsBFdMi-iIJk9KC_6VtA0epQUsXgX4XWqVaowsphBuInoHLGG55Tynbbsn1AptnR8k6OsxA1KWw2sm460lM2PT6W6Q2AH8fT-6HH7nxnT6CGZjvSyOzqGn63rQrVh2XV=w300"
+      ],
+      "instagram": "https://www.Instagram.com/MalekCnr",
+      "facebook": "https://www.facebook.com/MalekCnr",
+      "linkedin": ""
+    }
+  },
+  "ajyadgroup.net": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ajyadgroup.net/",
+    "checked_at_utc": "2026-10-20T22:59:07.935026+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@ajyadgroup.net"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ajyadgroup.net/",
+        "https://ajyadgroup.net/wp-content/uploads/2018/05/cropped-Logo-web-3.png",
+        "https://ajyadgroup.net/wp-content/uploads/2017/12/bg1-2.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2017/06/bg2-2.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2018/01/1.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2021/03/3-1.png",
+        "https://ajyadgroup.net/wp-content/uploads/2018/01/2.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2018/01/4-3.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2018/04/Sanaa.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2018/04/Aden.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2018/04/Marib.jpg",
+        "https://ajyadgroup.net/wp-content/uploads/2019/02/Taizz-123.png"
+      ],
+      "instagram": "",
+      "facebook": "http://facebook.com/ajyadgroup17",
+      "linkedin": ""
+    }
+  },
+  "kathirilaw.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://kathirilaw.com/",
+    "checked_at_utc": "2026-10-20T22:59:11.874024+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "alkathirilawfirm@gmail.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://kathirilaw.com/og-image.png",
+        "https://kathirilaw.com/",
+        "https://crpjulgnywcbsvdgehiw.supabase.co/storage/v1/object/public/article-images/1791133232733-rqzofq.png",
+        "https://crpjulgnywcbsvdgehiw.supabase.co/storage/v1/object/public/article-images/1790438713885-2p0haa.jpg",
+        "https://crpjulgnywcbsvdgehiw.supabase.co/storage/v1/object/public/article-images/1790438486313-4mlr40.jpg",
+        "https://kathirilaw.com/about",
+        "https://kathirilaw.com/walid.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "jalapco.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.jalapco.com/en/",
+    "checked_at_utc": "2026-10-20T22:59:24.254425+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.jalapco.com/en/",
+        "https://www.jalapco.com/images/menu-logo.jpg",
+        "https://www.jalapco.com/images/logo-en.png",
+        "https://www.jalapco.com/images/social/instgram.png",
+        "https://www.jalapco.com/images/social/facebook.png",
+        "https://www.jalapco.com/images/social/twiteer.png",
+        "https://www.jalapco.com/images/social/youtube.png",
+        "https://www.jalapco.com/images/excellence-en.png",
+        "https://www.jalapco.com/images/About Us en.png",
+        "https://www.jalapco.com/images/Admins2/1.abdullah.jpg",
+        "https://www.jalapco.com/images/Admins2/2.ameen.jpg",
+        "https://www.jalapco.com/images/Admins2/3.ibrahim.jpg"
+      ],
+      "instagram": "https://www.instagram.com/jalap.co/?hl=en",
+      "facebook": "https://www.facebook.com/Jalap.co/?ref=bookmarks",
+      "linkedin": ""
+    }
+  },
+  "alostora.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alostora.com/",
+    "checked_at_utc": "2026-10-20T22:59:26.420526+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alostora.com/",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiXZ3ERA2ewlgtg_u7br71z_zcgf-Bjn59dM9VhzoH1u9SmXZM-MqPADnx9VQRDIoUSfsWZojZmjZD-nHaVZY_frWpitXPJMfY8o-eiLlAfb6wKvP61r-gF30kyeggL6d8Y6upoPAGrzyBCN60Hg2r2p31ZoqCDIYfXYqJMgIjlnI9KqvoRpR-dgWprow=s1600",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi7MVNilEjF07WYQtgJ_2dbYzhxRDUY6KFTMQUzWOYBUhnMiF93_hAAfmUYyo7sjY5BlLKiFaN2-gLJAVzQoUuZqODsXNwOOB68wwVMMC_BgfiU7cl_kRYOkNlsQ9UkcZaMxl0U5DscomV27rzH-5gbZuLxqOJBTAdStFUpZl1xhcqS9GRWL7pynQSnw/w593-h324/3434343434343.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg33yGPd9CsfLDsSRhzqmoEYUsSorm1sFEuwfBTORYMOGuj8vLc5dKijCAE7rqPwhEvo51EPUvLwlW_Kk-rrBkKvY0wR-dCclg130sQf_87ermU2dYSy-lwPec0nZ78VIunU1Xt1DyzT-9GXMV4nRyPdc4fVQkd_KcSi0lI2NIfJmIJfXVNWhhPNrM0zw/w509-h253/105.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihrZxyN3-WnzVpIZouCPen8cTDyYafvB9VR6tOiDwHrYAjx7BD_9muZlAzqtLLGwiFEs3nGt6NngeAnQyQdn6AiQclfJ8WL049rkqhH2x_43t9iztT-BWizLAPOglK3vc45stQwVO1O1mzOeoJYDUuyUybD5LqrlXmKr0tu1MNq8XEGW69zl9anKDHuQ/w611-h304/104.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnpTVegfYnpArA6EmZIicKx3btr4T3tZj4_s7xI9Z_YBqU0dYfEdvdAIC6UZGiBbaceNIWMdxiv-IJMl2McYRtUKNL2EYMml8RIEkxLnMX8WZax0r4snr_vhFNv0Ts2U7AAezltUVriil5eTg4oMFP-tGl4ZaRUBexflulX1n8DBWHwPenURTVlz1ZPw/w561-h279/103.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FFMC7tnPcZYuDsIs4yY61JTVfj0-i5_Wxz8W5LZLuWLYbxUdPXn2NpjZbaHW6720epRRrCGyPAXUGBVfk_exOEzR1UqfzMLZnUrtUC3Hfe1Fx_S-32JLQ71ceAwzue0WVTzFHPjvtxW1nJhl5k8XhLUHRxOA_iE-TrIx9OmDiuyY1GRliNkE4-S2gQ/w543-h270/102.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOSZ-Q60G7N0utN5vXLlzNoweNVXsdgZpBVaUqEmEii-GpgNczELJVtbSdGTHWiVqZoDLQFJWsHqeeeL6eiRA2TU1LWt5nhyUz9VmIvLUnnqAURcGhm_8hZmP3NpaLgLy2bMRzSztVwlsOgsnm-9zT85XXW1uDq0Xx96UuCxP3sRNFnuxOWVJafczetA/w546-h271/101.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUEJZ7-7hze3dap3CFrLTkDQBqeO-Rjz_U9kZGbp7IhaZNXZP7NqkBAkrty7q6INjYcyH606a0QEKGAqQ8UnQQQkouT-ARL67tfgSm1sQ1WBKEVX7BkiL3_8KTjVAum9YnEi47xcw6ZsKJBHb00-98-3aqg1TWURQbrFWRRrvaJNiM50lJMEaWhxlwg/w559-h278/100.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi7MVNilEjF07WYQtgJ_2dbYzhxRDUY6KFTMQUzWOYBUhnMiF93_hAAfmUYyo7sjY5BlLKiFaN2-gLJAVzQoUuZqODsXNwOOB68wwVMMC_BgfiU7cl_kRYOkNlsQ9UkcZaMxl0U5DscomV27rzH-5gbZuLxqOJBTAdStFUpZl1xhcqS9GRWL7pynQSnw/w72-h72-p-k-no-nu/3434343434343.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg33yGPd9CsfLDsSRhzqmoEYUsSorm1sFEuwfBTORYMOGuj8vLc5dKijCAE7rqPwhEvo51EPUvLwlW_Kk-rrBkKvY0wR-dCclg130sQf_87ermU2dYSy-lwPec0nZ78VIunU1Xt1DyzT-9GXMV4nRyPdc4fVQkd_KcSi0lI2NIfJmIJfXVNWhhPNrM0zw/w72-h72-p-k-no-nu/105.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUEJZ7-7hze3dap3CFrLTkDQBqeO-Rjz_U9kZGbp7IhaZNXZP7NqkBAkrty7q6INjYcyH606a0QEKGAqQ8UnQQQkouT-ARL67tfgSm1sQ1WBKEVX7BkiL3_8KTjVAum9YnEi47xcw6ZsKJBHb00-98-3aqg1TWURQbrFWRRrvaJNiM50lJMEaWhxlwg/w72-h72-p-k-no-nu/100.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/Alostora4Computer",
+      "linkedin": ""
+    }
+  },
+  "storem.yrbso.app": {
+    "status": "http_404",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T22:59:28.730986+00:00"
+  },
+  "nano2soft.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.nano2soft.com/ar",
+    "checked_at_utc": "2026-10-20T22:59:33.373763+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@nano2soft.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.nano2soft.com/storage/app/uploads/public/602/19b/f75/60219bf75a561118846294.jpg",
+        "https://www.nano2soft.com/ar",
+        "https://www.nano2soft.com/storage/app/uploads/public/602/19b/e94/60219be94c764061383341.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/68f/ecb/6a6/68fecb6a6892c114594084.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/686/07d/46f/68607d46f2bb4753596151.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/66f/5c8/a5e/66f5c8a5e265c995683338.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/68f/ed0/c14/68fed0c14fcbd527820176.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/68f/ec7/16d/68fec716d9f40403100928.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/68f/ec2/55d/68fec255d97af658035188.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/5fb/bf5/778/thumb_4_200_180_0_0_crop.jpg",
+        "https://www.nano2soft.com/storage/app/uploads/public/5fb/bf8/283/thumb_5_200_180_0_0_crop.png",
+        "https://www.nano2soft.com/storage/app/uploads/public/5fb/bff/b7a/thumb_6_200_180_0_0_crop.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/in/dheia-ali-634558144"
+    }
+  },
+  "almohallel.yemoney.net": {
+    "status": "http_302",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T22:59:42.489094+00:00"
+  },
+  "cashmobily.yemoney.net": {
+    "status": "http_302",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T23:00:22.346535+00:00"
   }
 }
