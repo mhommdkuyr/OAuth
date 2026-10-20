@@ -1,4 +1,4 @@
-name: Ibb Result Merger Smoke Test
+name: Ibb Result Merger Smoke Test (Cross-engine dedupe regression)
 
 on:
   push:
