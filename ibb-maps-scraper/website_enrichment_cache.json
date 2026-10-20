@@ -241,8 +241,8 @@
   "business.google.com": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-20T10:03:10.893146+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-20T15:43:35.579689+00:00"
   },
   "midyafarab.com": {
     "status": "ok",
@@ -518,10 +518,26 @@
     "checked_at_utc": "2026-10-20T10:03:21.558570+00:00"
   },
   "arafat-dentalclinic.blogspot.com": {
-    "status": "http_429",
-    "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T10:03:23.726970+00:00"
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://arafat-dentalclinic.blogspot.com/",
+    "checked_at_utc": "2026-10-20T15:43:36.933396+00:00",
+    "attempts": 2,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://arafat-dentalclinic.blogspot.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   },
   "samsung.com": {
     "status": "ok",
@@ -562,8 +578,8 @@
   "althajah.com": {
     "status": "http_500",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T10:03:28.807468+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-20T15:43:38.487620+00:00"
   },
   "chat.whatsapp.com": {
     "status": "robots_disallowed",
@@ -762,8 +778,8 @@
   "brightenss.com": {
     "status": "http_302",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T10:03:52.448370+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-20T15:43:44.835557+00:00"
   },
   "royalhawks.net": {
     "status": "ok",
@@ -950,6 +966,475 @@
       "instagram": "",
       "facebook": "https://www.facebook.com/MSOHJIBLAH",
       "linkedin": ""
+    }
+  },
+  "t.me": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://t.me/ALhobishi",
+    "checked_at_utc": "2026-10-20T15:43:46.529066+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://cdn4.telesco.pe/file/pBDvAMEfOSWSynIrBTt5oMn5rX5qn4oJ2lYaf2h5FkjFNOa24bmJCgtXsl9J2J5hem76GfGgrGXjWd2lo5nYCXwtX8vgA-Mo7lsoriX2NPlgydr_JAXvE22O6wWZtts7MQMFY9ZchtrwjiQo7rhbmSPYo7tpdi-xR0whZq8jpq1fhRqRPoNMZWLNwKGHsPM4fWYt1TOvuB6zQamTzkPEGtO_Ie1Fghjd-5LF9T_eowmfzgeJGcb_b8ScUa5x_7k-VFhLDmqtvfpYwG1YDlE0q0DWuAoD2mbcTUiPKg22JWzU3k7fgXS179WcPcT3cP_JbqOiqpWSfVfQz98WY_ljxA.jpg",
+        "https://t.me/ALhobishi"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "45.251.154.212": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:43:55.539127+00:00"
+  },
+  "osos.shop": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:43:56.596044+00:00"
+  },
+  "toyotaparts.wuiltsite.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:44:07.607414+00:00"
+  },
+  "samialshaebi.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://samialshaebi.com/ar",
+    "checked_at_utc": "2026-10-20T15:44:11.543329+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "سامي الشعيبي للسفريات والسياحة ",
+      "website_emails": [],
+      "website_phones": [
+        "967736137333+"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://samialshaebi.com/images/processed/1200x628/3f78be44f7a541acbe0eeba635856217_1200x628.jpg",
+        "https://samialshaebi.com/ar",
+        "https://samialshaebi.com/images/processed/1600x600/3f78be44f7a541acbe0eeba635856217_1600x600.jpg",
+        "https://sys.samialshaebi.com/images//Setting/dd60be81ae454bb3a798864cec70a0b5.png",
+        "https://sys.samialshaebi.com/images/Page/6adac68ce2c741b6996fe0cc06a7d593.jpg",
+        "https://samialshaebi.com/ar/about"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "darb-al-salamah.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.darb-al-salamah.com/",
+    "checked_at_utc": "2026-10-20T15:44:12.838281+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "وكالة درب السلامة للسفريات والتأشيرات في اليمن",
+      "website_emails": [
+        "darbalsalamah2024@gmail.com"
+      ],
+      "website_phones": [
+        "+967777102120",
+        "+967778263826",
+        "+967715055622",
+        "+96777 826 3 826"
+      ],
+      "website_address": "صنعاء, YE",
+      "website_opening_hours": "Mo-Su 08:00-22:00",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.darb-al-salamah.com/images/logo.png",
+        "https://www.darb-al-salamah.com/",
+        "https://www.darb-al-salamah.com/images/visas-icon.webp",
+        "https://www.darb-al-salamah.com/images/tavellers-icon.webp",
+        "https://www.darb-al-salamah.com/images/passport-icon.webp",
+        "https://www.darb-al-salamah.com/images/transelation-iconn.png",
+        "https://www.darb-al-salamah.com/images/section-about.webp",
+        "https://www.darb-al-salamah.com/images/blog-toursim-card.webp",
+        "https://www.darb-al-salamah.com/images/blog-passport-1.webp",
+        "https://www.darb-al-salamah.com/images/blog-study-abroad.webp"
+      ],
+      "instagram": "https://www.instagram.com/d_r___s_t",
+      "facebook": "https://www.facebook.com/drbalsalamahTravel",
+      "linkedin": ""
+    }
+  },
+  "almorisi.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.almorisi.com/",
+    "checked_at_utc": "2026-10-20T15:44:27.181229+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "شركة المريسي للصرافة",
+      "website_emails": [
+        "info@almorisi.com"
+      ],
+      "website_phones": [
+        "8000500",
+        "+967778800073"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.almorisi.com/assets/images/settings/1779308777_6a0e18e982bdc_og_image.png",
+        "https://www.almorisi.com/",
+        "https://www.almorisi.com/assets/images/settings/1776759429_69e73285d975a_site_logo.svg",
+        "https://www.almorisi.com/assets/slider/b.jpeg",
+        "https://www.almorisi.com/assets/slider/a.jpeg",
+        "https://www.almorisi.com/assets/images/hero/1779348334_6a0eb36e81c1a_mobile.png",
+        "https://www.almorisi.com/assets/images/agencies/1773705437_69b898dd9f84b.png",
+        "https://www.almorisi.com/assets/images/agencies/1776931769_69e9d3b9932fc.png",
+        "https://www.almorisi.com/assets/images/agencies/1779738009_6a14a5996b87f.png",
+        "https://www.almorisi.com/assets/images/agencies/1776931756_69e9d3ac1c6fb.png",
+        "https://www.almorisi.com/assets/images/agencies/1773705374_69b8989e4ae5b.webp",
+        "https://www.almorisi.com/assets/images/logo2.png"
+      ],
+      "instagram": "https://www.instagram.com/almorisiex/",
+      "facebook": "https://www.facebook.com/almorisi.co",
+      "linkedin": ""
+    }
+  },
+  "zmzm.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ifixiti.wixsite.com/ifixiti/copy-of-home-19",
+    "checked_at_utc": "2026-10-20T15:44:28.673387+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "gaberelnaggar@gmail.com",
+        "8c4075d5481d476e945486754f783364@sentry.io"
+      ],
+      "website_phones": [
+        "+1 510 353 0333"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://static.wixstatic.com/media/b1cd13f9d4dfb1450bbb325285106177.png/v1/fit/w_2500,h_1330,al_c/b1cd13f9d4dfb1450bbb325285106177.png",
+        "https://ifixiti.wixsite.com/ifixiti/copy-of-home-19",
+        "https://static.wixstatic.com/media/11062b_e55321c53b02478b9bafa28958160488f000.jpg/v1/fill/w_288,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_e55321c53b02478b9bafa28958160488f000.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/messages/t/1112315835",
+      "linkedin": ""
+    }
+  },
+  "bamatraftravel.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_403",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:44:29.813644+00:00"
+  },
+  "mokasweets.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://mokasweets.com/",
+    "checked_at_utc": "2026-10-20T15:44:33.806883+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://mokasweets.com/moka-share2.jpg",
+        "https://mokasweets.com/",
+        "https://mokasweets.com/moka-assets/assets/images/moka-logo1.svg",
+        "https://mokasweets.com/moka-assets/assets/images/categories/backlava.jpg",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784447257.png",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784447145.png",
+        "https://admin.mokasweets.com/storage/categorise/moka_1579939648.png",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784446679.png",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784446594.png",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784572615.jpg",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784446308.png",
+        "https://admin.mokasweets.com/storage/categorise/moka_1784446123.png"
+      ],
+      "instagram": "https://instagram.com/mokasweets.yemen",
+      "facebook": "https://www.facebook.com/Mokasweets.Yemen",
+      "linkedin": ""
+    }
+  },
+  "nccfyemen.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://nccfyemen.org/branches/ibb",
+    "checked_at_utc": "2026-10-20T15:44:43.096563+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "nccfibb.1@gmail.com"
+      ],
+      "website_phones": [
+        "+967780219214",
+        "0096704530803",
+        "00967770499957",
+        "0096701474949",
+        "00967775080110",
+        "00967775080066",
+        "00967779975662"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://nccfyemen.org/content/uploads/2023/12/فرع-إب.gif",
+        "https://nccfyemen.org/branches/ibb",
+        "https://nccfyemen.org/content/uploads/2024/12/nccf-final-logo-.png",
+        "https://nccfyemen.org/contact-us"
+      ],
+      "instagram": "https://www.instagram.com/nccfyemen/",
+      "facebook": "https://www.facebook.com/nccfyemen",
+      "linkedin": ""
+    }
+  },
+  "ibbuniv.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://www.ibbuniv.edu.ye/",
+    "checked_at_utc": "2026-10-20T15:44:47.385747+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "https://www.ibbuniv.edu.ye",
+        "contact@ibbuniv.edu.ye"
+      ],
+      "website_phones": [
+        "+088589-8745",
+        "(+04)04408069 – 04408183 / 00967"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://www.ibbuniv.edu.ye/",
+        "https://www.ibbuniv.edu.ye/frontend/images/logo-dark.png",
+        "https://www.ibbuniv.edu.ye/frontend/images/logo.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/التعلم-الالكتروني_17924374661.jpg",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/خدمة-الجمهور_17847186211.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/مجلة-الباحث-الجامعي_17830981931.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/بوابة-الطالب_17681439191.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/المؤتمرات-العلمية_17679961281.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/نتائج-القبول-والمفاضلة_17515605281.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/قريبا-نتائج-القبول-والمفاضلة_17825058741.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/توزيع-اختبارات-المفاضلة-2025_17513926791.png",
+        "https://www.ibbuniv.edu.ye/assets/advertisor_sliders/البريد-الإلكتروني_17507749071.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/www.ibbuniv.edu.ye/?locale=ar_AR",
+      "linkedin": ""
+    }
+  },
+  "aljazeeraibb.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://aljazeeraibb.edu.ye/ar",
+    "checked_at_utc": "2026-10-20T15:44:53.200993+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "dev@ronaforsoft.com",
+        "info@jazirauniversity.edu.ye",
+        "info@aljazeeraibb.edu.ye"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://aljazeeraibb.edu.ye/db_images/webdata/5XJ4IY2rLAml0ckxZVC1SkYkUvPvAZSVncvQeYU6.webp",
+        "https://aljazeeraibb.edu.ye/ar",
+        "https://aljazeeraibb.edu.ye/db_images/webdata/owa4lY0AQhRznAJFbUEPbl7Yfby1MMj6LCwqVmDr.webp",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/36bqMUcRG3VXIHuSKhLHgtYB7YPKmwPChfW0dU2L.webp",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/6hip7tkNcD3AhTWLgzscWvaDdAUhUOqeKkHyo1HE.webp",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/KkA0rxZ9lhpFDTLnSL8XIfnu5pXDkyAKGFIodsJi.webp",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/fuUF8g0IM5ca3AYJxaqmJEAiP0FSPqlAZ6XVnogo.webp",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/31gkaR7nTjyikoabDa38hbV5MlETnBTk3lGSYglx.jpg",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/rXqOB5LZllXJdKL7CCdkF1TFlqlszGMn5N9NJMi1.jpg",
+        "https://aljazeeraibb.edu.ye/db_images/Newws/pybNMgjd5nzNkoN555hPa3sDVqtbw96CWu77UxpD.jpg",
+        "https://aljazeeraibb.edu.ye/db_images/Colleges/A6LFqTuJBSQ7TYIeZCV0JdyEc6GNWbe2EN6Jcxzb.webp",
+        "https://aljazeeraibb.edu.ye/db_images/Colleges/E96DasG1gNPYH8DK6n9Xo4vVI4Muyz62fc4cBv6Z.webp"
+      ],
+      "instagram": "https://www.instagram.com/aljazeerauniversity",
+      "facebook": "https://www.facebook.com/aljazeerauniversity/",
+      "linkedin": "https://www.linkedin.com/in/aljazeerauniversity/"
+    }
+  },
+  "besatkhair.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "http://www.besatkhair.com/",
+    "checked_at_utc": "2026-10-20T15:44:55.307180+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://www.besatkhair.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alyamamh.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alyamamh.com/",
+    "checked_at_utc": "2026-10-20T15:44:56.586051+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alyamamh.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "ahmedqasha.wordpress.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ahmedqasha.wordpress.com/",
+    "checked_at_utc": "2026-10-20T15:44:58.047225+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "+967715567310"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ahmedqasha.wordpress.com/wp-content/uploads/2024/11/smartselect_d9a2d9a0d9a2d9a4d9a1d9a0d9a2d9a6_d9a1d9a4d9a5d9a9d9a3d9a3_gallery.jpg",
+        "https://ahmedqasha.wordpress.com/",
+        "https://ahmedqasha.wordpress.com/wp-content/uploads/2024/11/smartselect_d9a2d9a0d9a2d9a4d9a1d9a0d9a2d9a6_d9a1d9a4d9a5d9a9d9a3d9a3_gallery.jpg?w=640",
+        "https://ahmedqasha.wordpress.com/wp-content/uploads/2024/11/smartselect_d9a2d9a0d9a2d9a4d9a1d9a0d9a2d9a6_d9a1d9a4d9a5d9a9d9a3d9a3_gallery.jpg?w=1024",
+        "https://ahmedqasha.wordpress.com/wp-content/uploads/2024/11/image_editor_output_image-2019173114-17309030221348657750246222386740.jpg?w=1024",
+        "https://ahmedqasha.wordpress.com/wp-content/uploads/2024/11/140717963336388578089806.jpg?w=1024"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "lamsatalafia.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:44:59.092898+00:00"
+  },
+  "ard-alsaeedah.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.ard-alsaeedah.com/",
+    "checked_at_utc": "2026-10-20T15:45:04.332436+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.ard-alsaeedah.com/",
+        "https://www.ard-alsaeedah.com/background.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "45.233.173.43": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:45:13.343047+00:00"
+  },
+  "gcokgsxyqrcgd.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T15:45:14.388220+00:00"
+  },
+  "unicef.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.unicef.org/",
+    "checked_at_utc": "2026-10-20T15:45:16.899905+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.unicef.org/sites/default/files/styles/open_graph_image/public/UNI846333.webp.jpeg?itok=irYNkLNB",
+        "https://www.unicef.org/",
+        "https://www.unicef.org/sites/default/files/styles/logo/public/English_9.png.webp?itok=8H0Aa4or",
+        "https://www.unicef.org/sites/default/files/styles/inverse_logo/public/English-Inverse_39.png.webp?itok=iCH1Z0yX",
+        "https://www.unicef.org/sites/default/files/styles/smallest/public/DRC-UNI231370-hero.jpg.webp?itok=BnmZwZlt",
+        "https://www.unicef.org/sites/default/files/styles/smallest/public/UNI289186_alt.jpg.webp?itok=0UPDw_nw",
+        "https://www.unicef.org/sites/default/files/styles/media_banner/public/UNI846333.webp?itok=E8OeNRVO",
+        "https://www.unicef.org/sites/default/files/styles/hero_tablet/public/UNI846333.webp?itok=CUPESywI",
+        "https://www.unicef.org/sites/default/files/styles/hero_mobile/public/UNI846333.webp?itok=USBrwDPQ",
+        "https://www.unicef.org/sites/default/files/styles/large/public/20260916_Yemen_1.webp?itok=u4FSZvGr",
+        "https://www.unicef.org/sites/default/files/styles/large/public/UNI751091.webp?itok=ImYiMMRn",
+        "https://www.unicef.org/sites/default/files/styles/large/public/Screenshot%202026-10-15%20090626.webp?itok=gzAQ3ND1"
+      ],
+      "instagram": "https://www.instagram.com/unicef/",
+      "facebook": "https://www.facebook.com/unicef/",
+      "linkedin": "https://www.linkedin.com/company/unicef/"
     }
   }
 }
