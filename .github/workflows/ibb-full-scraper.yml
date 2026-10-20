@@ -16,6 +16,7 @@ on:
       - "ibb-maps-scraper/deep_scan.py"
       - "ibb-maps-scraper/enrich_web.py"
       - "ibb-maps-scraper/merge_results.py"
+      - "ibb-maps-scraper/test_census.py"
       - "ibb-maps-scraper/queries_ibb.txt"
       - "ibb-maps-scraper/README.md"
 
@@ -55,7 +56,9 @@ jobs:
           python3 -m py_compile \
             ibb-maps-scraper/deep_scan.py \
             ibb-maps-scraper/merge_results.py \
-            ibb-maps-scraper/enrich_web.py
+            ibb-maps-scraper/enrich_web.py \
+            ibb-maps-scraper/test_census.py
+          (cd ibb-maps-scraper && python3 -m unittest test_census.py -v)
           mkdir -p .work ibb-maps-scraper/deep_scan_tiles
           test -s ibb-maps-scraper/queries_ibb.txt
           echo "Queries: $(grep -cv '^[[:space:]]*$' ibb-maps-scraper/queries_ibb.txt)"
