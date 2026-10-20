@@ -20,7 +20,8 @@ permissions:
 
 concurrency:
   group: ibb-city-scraper-${{ github.ref }}
-  cancel-in-progress: false
+  # New commits replace stale long-running scans so the latest bounded workflow can start.
+  cancel-in-progress: true
 
 jobs:
   scrape-ibb:
