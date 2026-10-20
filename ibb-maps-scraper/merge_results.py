@@ -5,7 +5,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-S1, S2 = ROOT / "ibb_skill1_results.csv", ROOT / "ibb_skill2_results.csv"
+S1, S2, OSM_CSV = ROOT / "ibb_skill1_results.csv", ROOT / "ibb_skill2_results.csv", ROOT / "ibb_osm_results.csv"
+TILES_ROOT = ROOT / "deep_scan_tiles"
 OUT_JSON, OUT_CSV, REPORT = (ROOT / "ibb_city_complete_database.json",
                              ROOT / "ibb_city_complete_database.csv",
                              ROOT / "scrape_report.json")
@@ -29,7 +30,24 @@ EMPTY = {"", "none", "null", "nan", "n/a", "na"}
 PLUS_CODE_RE = re.compile(r"(?<![A-Z0-9])([23456789CFGHJMPQRVWX]{4,8}\+[23456789CFGHJMPQRVWX]{2,3})(?![A-Z0-9])", re.I)
 
 def good(v):
-    return v is not None and (not isinstance(v, str) or v.strip().casefold() not in EMPTY)
+    """True only for substantive values; treat empty serialized JSON as missing."""
+    if v is None or v is False:
+        return False
+    if isinstance(v, str):
+        s = v.strip()
+        if not s or s.casefold() in EMPTY:
+            return False
+        if s[:1] in "[{" and s[-1:] in "]}":
+            try:
+                return good(json.loads(s))
+            except (json.JSONDecodeError, RecursionError):
+                return True
+        return True
+    if isinstance(v, dict):
+        return any(good(x) for x in v.values())
+    if isinstance(v, (list, tuple, set)):
+        return any(good(x) for x in v)
+    return True
 
 def normalize(row):
     row = dict(row)
@@ -183,8 +201,14 @@ def atomic_text(path, text):
 
 def main():
     previous = read_previous()
-    a, b = read_csv(S1, "mahanaicoach"), read_csv(S2, "gosom")
-    rows, collapsed, added = merge_records(previous, [*a, *b])
+    a, b, osm = (read_csv(S1, "mahanaicoach"),
+                 read_csv(S2, "gosom"),
+                 read_csv(OSM_CSV, "openstreetmap"))
+    # Include any tiles left behind by an interrupted batch so a merge failure cannot lose data.
+    tile_rows = []
+    for tile_file in sorted(TILES_ROOT.glob("grid_*/*.csv")):
+        tile_rows.extend(read_csv(tile_file, "mahanaicoach"))
+    rows, collapsed, added = merge_records(previous, [*a, *b, *osm, *tile_rows])
     columns = list(FIRST)
     extras = sorted(set().union(*(r.keys() for r in rows)) - set(columns)) if rows else []
     columns += extras
@@ -203,8 +227,11 @@ def main():
         "grid_size": os.getenv("GRID_SIZE", "4"),
         "previous_database_rows": len(previous),
         "mahanaicoach_rows_this_run": len(a),
-        "gosom_rows_this_run": len(b),
-        "current_run_rows_before_deduplication": len(a) + len(b),
+        "gosom_rows_available": len(b),
+        "openstreetmap_rows_available": len(osm),
+        "current_batch_mahanaicoach_rows": len(a),
+        "recovery_tile_rows_available": len(tile_rows),
+        "current_sources_rows_before_deduplication": len(a) + len(b) + len(osm) + len(tile_rows),
         "new_unique_rows_added": added,
         "final_unique_rows": len(rows),
         "duplicate_rows_collapsed_in_this_merge": collapsed,
@@ -216,8 +243,9 @@ def main():
         "name", "phone", "email", "website", "category", "address", "rating", "review_count",
         "google_maps_url", "latitude", "longitude", "place_id", "plus_code", "opening_hours",
         "price_range", "reviews_per_rating", "reviews_link", "user_reviews", "user_reviews_extended",
-        "images", "thumbnail", "street_view_url", "descriptions", "about", "credit_cards_accepted",
-        "owner", "menu", "order_online", "reservations", "instagram", "facebook", "linkedin",
+        "images", "photo_urls", "website_images", "thumbnail", "street_view_url", "descriptions",
+        "about", "credit_cards_accepted", "owner", "menu", "order_online", "reservations",
+        "instagram", "facebook", "linkedin", "website_phone", "website_address", "website_opening_hours",
     ]
     coverage = {}
     for field in measured_fields:
@@ -234,7 +262,16 @@ def main():
         1 for row in rows if all(good(row.get(field)) for field in
                                   ("name","phone","email","website","category","address","rating","review_count"))
     )
-    report["collection_method"] = "Two sequential Google Maps scraper engines; website visits are used for public email/social-link enrichment; no proxy rotation configured."
+    report["source_row_counts"] = {
+        "mahanaicoach_batch": len(a),
+        "gosom_available": len(b),
+        "openstreetmap_available": len(osm),
+    }
+    report["source_engine_counts"] = {}
+    for row in rows:
+        source = str(row.get("source_engine") or "unknown")
+        report["source_engine_counts"][source] = report["source_engine_counts"].get(source, 0) + 1
+    report["collection_method"] = "Resumable spatial Google Maps batches plus public OpenStreetMap supplement and public-website enrichment; no proxy rotation configured."
     atomic_text(REPORT, json.dumps(report, ensure_ascii=False, indent=2) + "\n")
     print(json.dumps(report, ensure_ascii=False, indent=2))
     return 0

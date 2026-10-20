@@ -1,38 +1,40 @@
-name: Ibb City Full Scraper (Dual Engine)
+name: Ibb Deep Resumable Census
 
 on:
   workflow_dispatch:
     inputs:
-      grid_size:
-        description: "Spatial grid per dimension (1–10); 4 means 16 sequential tiles per query and may take several hours"
+      batch_size:
+        description: "Spatial cells this run (1–8; leave at 8 for normal operation)"
         required: true
-        default: "4"
+        default: "8"
+  schedule:
+    - cron: "17 */3 * * *"
   push:
     branches: ["main"]
     paths:
       - ".github/workflows/ibb-full-scraper.yml"
-      - "ibb-maps-scraper/queries_ibb.txt"
+      - "ibb-maps-scraper/deep_scan.py"
+      - "ibb-maps-scraper/enrich_web.py"
       - "ibb-maps-scraper/merge_results.py"
+      - "ibb-maps-scraper/test_census.py"
+      - "ibb-maps-scraper/queries_ibb.txt"
       - "ibb-maps-scraper/README.md"
 
 permissions:
   contents: write
 
 concurrency:
-  group: ibb-city-scraper-${{ github.ref }}
-  # New commits replace stale long-running scans so the latest bounded workflow can start.
-  cancel-in-progress: true
+  group: ibb-deep-resumable-census-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  scrape-ibb:
+  deep-census:
     runs-on: ubuntu-latest
     timeout-minutes: 360
     permissions:
       contents: write
     env:
-      # Deep pass: 4x4 overlapping spatial tiles per query. Tile jobs are sequential to avoid raising concurrency against Google Maps.
-      # Exact 40 m sampling is not supported by this engine; each tile search has a minimum radius of about 1 km.
-      GRID_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.grid_size || '4' }}
+      BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && inputs.batch_size || '8' }}
 
     steps:
       - name: Checkout repository
@@ -43,30 +45,38 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Validate inputs and clear stale raw outputs
+      - name: Validate code, input batch, and resumable state
         shell: bash
         run: |
           set -euo pipefail
-          if [[ ! "$GRID_SIZE" =~ ^([1-9]|10)$ ]]; then
-            echo "::error::grid_size must be an integer from 1 to 10."
+          if [[ ! "$BATCH_SIZE" =~ ^([1-8])$ ]]; then
+            echo "::error::batch_size must be an integer from 1 to 8."
             exit 1
           fi
-          mkdir -p .work ibb-maps-scraper
-          # Prevent a failed engine from making last run's raw CSV look like fresh output.
-          rm -f ibb-maps-scraper/ibb_skill1_results.csv ibb-maps-scraper/ibb_skill2_results.csv
-          echo "Using grid size: $GRID_SIZE"
+          python3 -m py_compile \
+            ibb-maps-scraper/deep_scan.py \
+            ibb-maps-scraper/merge_results.py \
+            ibb-maps-scraper/enrich_web.py \
+            ibb-maps-scraper/test_census.py
+          (cd ibb-maps-scraper && python3 -m unittest test_census.py -v)
+          mkdir -p .work ibb-maps-scraper/deep_scan_tiles
+          test -s ibb-maps-scraper/queries_ibb.txt
+          echo "Queries: $(grep -cv '^[[:space:]]*$' ibb-maps-scraper/queries_ibb.txt)"
+          echo "Batch size: $BATCH_SIZE"
 
-      - name: "Engine 1 — start Mahanaicoach Docker API and scrape grid"
-        timeout-minutes: 330
+      - name: Start the local Google Maps scraper API
+        id: engine_api
+        timeout-minutes: 15
         continue-on-error: true
         shell: bash
         run: |
           set -euo pipefail
-          git clone --depth 1 --branch master https://github.com/Mahanaicoach/google-maps-scraper-kit.git .work/google-maps-scraper-kit
+          git clone --depth 1 --branch master \
+            https://github.com/Mahanaicoach/google-maps-scraper-kit.git \
+            .work/google-maps-scraper-kit
           cd .work/google-maps-scraper-kit
           docker compose pull
           docker compose up -d
-
           healthy=0
           for attempt in $(seq 1 60); do
             if curl --fail --silent http://127.0.0.1:8080/api/v1/jobs >/dev/null; then
@@ -78,22 +88,24 @@ jobs:
           if [[ "$healthy" != "1" ]]; then
             docker compose ps || true
             docker compose logs --tail=120 || true
-            echo "::error::Mahanaicoach scraper API did not become healthy."
+            echo "::error::Scraper API did not become healthy."
             exit 1
           fi
+          echo "Scraper API healthy."
 
-          cd "$GITHUB_WORKSPACE"
-          python3 .work/google-maps-scraper-kit/scripts/scrape.py \
-            --keywords-file "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_ibb.txt" \
-            --city "Ibb, Yemen" \
-            --grid "$GRID_SIZE" \
-            --depth 5 \
-            --max-time 600 \
-            --socials \
-            --full \
-            --out "$GITHUB_WORKSPACE/ibb-maps-scraper/ibb_skill1_results.csv"
+      - name: Scan the next resumable spatial batch
+        id: deep_scan
+        timeout-minutes: 310
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 ibb-maps-scraper/deep_scan.py \
+            --mode batch \
+            --batch-size "$BATCH_SIZE" \
+            --target 10000
 
-      - name: Stop Engine 1 cleanly
+      - name: Stop local Google Maps scraper API
         if: always()
         shell: bash
         run: |
@@ -101,46 +113,137 @@ jobs:
             (cd .work/google-maps-scraper-kit && docker compose down -v) || true
           fi
 
-      - name: "Engine 2 — run gosom CLI against Ibb radius"
-        timeout-minutes: 20
+      - name: Complete or resume the supplemental Gosom pass
+        id: gosom
+        if: always()
+        timeout-minutes: 25
         continue-on-error: true
         shell: bash
         run: |
           set -euo pipefail
-          docker run --rm \
-            -v "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_ibb.txt:/queries.txt:ro" \
-            -v "$GITHUB_WORKSPACE/ibb-maps-scraper:/out" \
-            gosom/google-maps-scraper:v1.18.1 \
-            -input /queries.txt \
-            -results /out/ibb_skill2_results.csv \
-            -geo "13.9667,44.1833" \
-            -radius 15000 \
-            -zoom 16 \
-            -depth 5 \
-            -c 2 \
-            -email \
-            -exit-on-inactivity 5m
+          if python3 ibb-maps-scraper/deep_scan.py --mode needs-gosom; then
+            echo "Starting/resuming Gosom supplement."
+            if docker run --rm \
+              -v "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_ibb.txt:/queries.txt:ro" \
+              -v "$GITHUB_WORKSPACE/ibb-maps-scraper:/out" \
+              gosom/google-maps-scraper:v1.18.1 \
+              -input /queries.txt \
+              -results /out/ibb_skill2_results.csv \
+              -geo "13.9667,44.1833" \
+              -radius 15000 \
+              -zoom 16 \
+              -depth 5 \
+              -c 2 \
+              -email \
+              -resume \
+              -exit-on-inactivity 5m; then
+              python3 ibb-maps-scraper/deep_scan.py --mode mark-gosom
+            else
+              echo "::warning::Gosom did not finish; the next scheduled run will retry with -resume."
+            fi
+          else
+            echo "Gosom initial/resume pass is already marked complete."
+          fi
 
-      - name: Merge and deduplicate results
+      - name: Merge database, prior results, tiles, and OpenStreetMap
+        id: merge
         if: always()
+        continue-on-error: true
         shell: bash
         run: python3 ibb-maps-scraper/merge_results.py
 
-      - name: Upload raw results and database as an artifact
+      - name: Enrich public website contacts and photo URLs
+        id: enrich
+        if: always()
+        timeout-minutes: 25
+        continue-on-error: true
+        shell: bash
+        run: python3 ibb-maps-scraper/enrich_web.py --batch-size 25
+
+      - name: Verify output consistency and report coverage
+        id: verify
+        if: always()
+        shell: bash
+        env:
+          DEEP_SCAN_OUTCOME: ${{ steps.deep_scan.outcome }}
+          MERGE_OUTCOME: ${{ steps.merge.outcome }}
+          ENRICH_OUTCOME: ${{ steps.enrich.outcome }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import csv, json, os, sys
+          from pathlib import Path
+          root = Path("ibb-maps-scraper")
+          state_file = root / "deep_scan_state.json"
+          report_file = root / "scrape_report.json"
+          db_json = root / "ibb_city_complete_database.json"
+          db_csv = root / "ibb_city_complete_database.csv"
+          for f in (state_file, report_file, db_json, db_csv):
+              if not f.exists() or not f.stat().st_size:
+                  print(f"::error::Missing or empty required output: {f}")
+                  sys.exit(1)
+          state = json.loads(state_file.read_text(encoding="utf-8"))
+          report = json.loads(report_file.read_text(encoding="utf-8"))
+          records = json.loads(db_json.read_text(encoding="utf-8"))
+          with db_csv.open(encoding="utf-8-sig", newline="") as f:
+              csv_records = list(csv.DictReader(f))
+          if not isinstance(records, list) or len(records) == 0:
+              print("::error::The final database contains no usable rows.")
+              sys.exit(1)
+          if len(records) != len(csv_records):
+              print(f"::error::CSV/JSON row mismatch: {len(csv_records)} vs {len(records)}")
+              sys.exit(1)
+          deep_outcome = os.getenv("DEEP_SCAN_OUTCOME", "unknown")
+          if deep_outcome != "success" and not state.get("scan_complete"):
+              print(f"::error::Deep-scan step was {deep_outcome}; state preserved for retry.")
+              sys.exit(1)
+          if os.getenv("MERGE_OUTCOME") != "success":
+              print("::error::Database merger did not complete.")
+              sys.exit(1)
+          print(json.dumps({
+              "status": state.get("scan_status"),
+              "spatial_stage": state.get("grid_stages", [])[state.get("stage_index", 0)],
+              "completed_tiles": len(state.get("completed_tiles", {})),
+              "failed_tiles": len(state.get("permanently_failed_tiles", [])),
+              "last_batch_successful_tiles": state.get("last_batch_successful_tiles", 0),
+              "database_rows": len(records),
+              "csv_rows": len(csv_records),
+              "phone_coverage": report.get("field_coverage", {}).get("phone", {}).get("percent"),
+              "email_coverage": report.get("field_coverage", {}).get("email", {}).get("percent"),
+              "photo_url_records": report.get("records_with_any_photo_url", 0),
+              "website_enrichment": report.get("website_enrichment", {}),
+              "target_unique_records": state.get("target_unique_records", 10000),
+              "target_reached": state.get("target_reached", False),
+              "scan_complete": state.get("scan_complete", False)
+          }, ensure_ascii=False, indent=2))
+          if state.get("scan_status") == "planned_grids_exhausted_target_not_reached":
+              print("::warning::All planned grids exhausted below 10,000 records; this is not proof that all city businesses were found.")
+          PY
+
+      - name: Upload database, checkpoint, and batch audit files
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: ibb-scraper-results-${{ github.run_id }}
+          name: ibb-deep-census-batch-${{ github.run_id }}
           path: |
-            ibb-maps-scraper/ibb_skill1_results.csv
-            ibb-maps-scraper/ibb_skill2_results.csv
             ibb-maps-scraper/ibb_city_complete_database.csv
             ibb-maps-scraper/ibb_city_complete_database.json
             ibb-maps-scraper/scrape_report.json
+            ibb-maps-scraper/deep_scan_state.json
+            ibb-maps-scraper/ibb_skill1_results.csv
+            ibb-maps-scraper/ibb_skill2_results.csv
+            ibb-maps-scraper/ibb_osm_results.csv
+            ibb-maps-scraper/website_enrichment_cache.json
+            ibb-maps-scraper/deep_scan_tiles/**/*.csv
           if-no-files-found: warn
           retention-days: 30
 
-      - name: Commit updated database and reports
+      - name: Remove tile scratch files only after a successful merge
+        if: steps.merge.outcome == 'success'
+        shell: bash
+        run: python3 ibb-maps-scraper/deep_scan.py --mode cleanup-batch
+
+      - name: Commit checkpoint and database so the next scheduled run can resume
         if: always()
         shell: bash
         run: |
@@ -149,32 +252,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add -A ibb-maps-scraper
           if git diff --cached --quiet; then
-            echo "No repository changes to commit."
+            echo "No state or database changes to commit."
           else
-            git commit -m "Update Ibb businesses dataset [skip ci]"
+            git commit -m "Checkpoint Ibb deep census batch [skip ci]"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
-
-      - name: Verify this run produced usable records
-        if: always()
-        shell: bash
-        run: |
-          set -euo pipefail
-          if [[ ! -s ibb-maps-scraper/scrape_report.json ]]; then
-            echo "::error::No scrape report was generated."
-            exit 1
-          fi
-          python3 - <<'PY'
-          import json, sys
-          from pathlib import Path
-          p = Path("ibb-maps-scraper/scrape_report.json")
-          report = json.loads(p.read_text(encoding="utf-8"))
-          current = int(report.get("current_run_rows_before_deduplication", 0))
-          total = int(report.get("final_unique_rows", 0))
-          print(f"Rows from this run: {current}")
-          print(f"Unique records in database: {total}")
-          print(f"New unique records: {report.get('new_unique_rows_added', 0)}")
-          if current <= 0 or total <= 0:
-              print("::error::The run produced no usable business rows. Inspect engine logs and the report.")
-              sys.exit(1)
-          PY
