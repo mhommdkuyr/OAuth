@@ -19,7 +19,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ibb-city-scraper-\${{ github.ref }}
+  group: ibb-city-scraper-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
     permissions:
       contents: write
     env:
-      GRID_SIZE: \${{ inputs.grid_size || '4' }}
+      GRID_SIZE: ${{ inputs.grid_size || '4' }}
 
     steps:
       - name: Checkout repository
@@ -127,7 +127,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: ibb-scraper-results-\${{ github.run_id }}
+          name: ibb-scraper-results-${{ github.run_id }}
           path: |
             ibb-maps-scraper/ibb_skill1_results.csv
             ibb-maps-scraper/ibb_skill2_results.csv
@@ -149,7 +149,7 @@ jobs:
             echo "No repository changes to commit."
           else
             git commit -m "Update Ibb businesses dataset [skip ci]"
-            git push origin "HEAD:\${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
       - name: Verify this run produced usable records
