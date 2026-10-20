@@ -1,0 +1,955 @@
+{
+  "facebook.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:01:37.529994+00:00"
+  },
+  "alomqy.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.alomqy.com/ar",
+    "checked_at_utc": "2026-10-20T09:01:41.148482+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alomqy.com",
+        "https://www.alomqy.com/ar",
+        "https://www.alomqy.com/Images/Details/logo-white.png",
+        "https://www.alomqy.com/Images/Details/Alomqy_Logo.svg",
+        "https://www.alomqy.com/Uploads/HomePage/File5a3aea61-5869-4671-9b91-584d127c08ec.jpg",
+        "https://www.alomqy.com/Uploads/HomePage/File1cd1e221-482e-47d3-b6f8-5bba879a8cd5.jpg",
+        "https://www.alomqy.com/Uploads/HomePage/File09611325-97f5-4f50-b04f-58f1512c98ff.jpg",
+        "https://www.alomqy.com/Images/Services/branch_icon.svg",
+        "https://www.alomqy.com/Images/Tools/agent_page_header_icon.svg",
+        "https://www.alomqy.com/Images/Tools/external_agent_page_header_icon.svg",
+        "https://www.alomqy.com/Images/Services/apps_icon.svg",
+        "https://www.alomqy.com/Images/Services/other_services_icon.svg"
+      ],
+      "instagram": "https://www.instagram.com/AlomqyCo/",
+      "facebook": "https://www.facebook.com/AlomqyCo",
+      "linkedin": ""
+    }
+  },
+  "alzubairiex.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.alzubairiex.com/",
+    "checked_at_utc": "2026-10-20T09:01:44.731790+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@alzubairiex.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alzubairiex.com/",
+        "https://www.alzubairiex.com/assets/images/temp/logo.png",
+        "http://www.alzubairiex.com/uploads/slideshow/6a0322835855a179837351770c890e0e.jpg",
+        "http://www.alzubairiex.com/uploads/slideshow/2125507d94d0f6ed6b9626218f59cf3d.jpg",
+        "http://www.alzubairiex.com/uploads/slideshow/4a5c2da033f1f236248582767253430f.jpg",
+        "https://www.alzubairiex.com/uploads/slideshow/57e5fa38963555aa105d2a68a671157f.jpg",
+        "https://www.alzubairiex.com/uploads/slideshow/a21c31172f757acfe720fcf99c960d7b.jpg",
+        "https://www.alzubairiex.com/uploads/contents/2/4ee560128661249691552d48f0fdb85f.jpg",
+        "https://www.alzubairiex.com/uploads/contents/2/9983f680b9333d6a7f51dc7064f8e342.jpg",
+        "https://www.alzubairiex.com/uploads/contents/2/a924c7dbf640ade428c546210a99080d.jpg",
+        "https://www.alzubairiex.com/uploads/contents/2/9a3d468606e8c14d4e31da410721517f.jpg",
+        "http://www.alzubairiex.com/uploads/contents/2/ef9d0a50bf1d1ea35f8140e1ddad2042.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/alzubairi.exchange/",
+      "linkedin": ""
+    }
+  },
+  "sites.google.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://sites.google.com/view/24ac",
+    "checked_at_utc": "2026-10-20T09:01:45.992103+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://sites.google.com/sitesv-images-rt/AMxu72sfXZaIPUjwVtf3tZMECMLq890OaIIYb4IYHEBaU-yVEOCwFBbHH5vnktvhfppW6K6Oi9L1hetZdWq4MBdbRJbKiGrNtfFSOoXgoZMMl5gGbWYCChq2Ua5037xJj5kfStEC6ODysyT0gX7wHhKKtBE6ZABNtakdvdZNYDRO2MyAl3kgMRuUe4sPVw8aaPU=w16383",
+        "https://sites.google.com/view/24ac",
+        "https://sites.google.com/sitesv-images-rt/AMxu72vlq_dRQ8JXVkApb2La9_lUnHxKQWywUiRUEH1iHhuFHCsy9zknwFTPOtUl2WXhqUwSp0_9UXlRJmEnQiaSzdKsjRAwXqhAIYKxMJBlmZL1VyAiuhhY6R9pT_pwcud4UoWPjb2nO9Sk4ijtvMsE-HBTwDo-qaxO3K5jeIc5GKkJB0VtyZdPc_CU6v0ldu6png7Z0pHI5Qx0XAqrXvdSmrVRzrsxj08xfQ-FciopTAI=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72t9zGshUoaC3fVptw2slz1inIEWT0vmqB1Y8jDWGKGhgighe_bXf1_vU6_xpEMPhDLxpXq5KfdlRQAHHMbODyAwN8g7xHJqNTW-zEFGfFtXrR_lTipnYqFC_s-zZ9t0a01TyAfGH05sq4c8VOTSv4mba_sho-xYczRyf1dhCIuWgwLW1RrFG7mwsSKkiy-74FDeGloCMWK9Sk4auchp_tpusqUoTNTdsBP_tpH7GwM=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72tvM3fS1AadqaRDbD6JC8vJg9W7ecv61cV1FyWMBiZ_gzny5MH0IBdL8CPfkR5bJeU_R893XYpndSYZp70mZ57LM1zBi38QooYIpk9gHjbVM_09WVu0aXTPaLEBX51LQq6su8WSIYq6_-91jJ8TX_FgOu6eHCJHikHb_0iU5-9jBxZT3qw5ebMIBuI4QYO1BQgZygWdCZceYBkOSWRv7I4qKGkxIqBYCUdS3nHpi4s=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72sNR0Whz9_IHLWIx6Gp_n23jO3Ttq7s3N2aCHBwgyXiL7YF-JmEAk3UwNucY4S-x1KHUHAnARpZOhBnxC_a6wi2gRhf5dbLa4Ad7ybRG0desC6hgDlapvypaVY61rGV9k2fr01T5StNi8hTd91g9QI0tk7iAOtWjUCA1XLwW1nPA-JyvhVkEqmpteyZyfmddAz6VpOZJJrfxYSZQqaQJqz0IQ_DWpF70HximId6MoA=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72sBi0SkoKpqexOdnepXCqoKusbjlvI2JaOdSvpKZq0YKN41dh41I8VROoYBSKpGW9ucjStI7R5DrYed5dNcohKjndse-Ndy0ciYAv7waWwLtvJ974b0RiKZdVvMMTS7qZ73skf4XACgurP-xom8xfpfqaEJ2_5PIV0R_5cj8nuywEu7VoeVwATceY0NHRT77ld6eBUHrKpRbADsre8b4jrOYU7poPOHmXM_3JsT=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72tRK8OFSW1HUChGJRr-xL1aA0Fx5oGbuV1F4t-mL_yhloeYZVyoYDqv5CIiZrKO8jwt_LvrM-LIhuVqNHDN2TtB6V7twO27kLZIoPIor2OSBKDauQav_ApEXCVvwbCzZUHFsbp9DMxS7eYC4VPjaw8YCqoQ4cCxuasVOoNKPZX8H5-96f72Skub0_ZNrxY-N6OuuY_EegykRO1ecwI77nClq_PxCy96UAg7Pbpb=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72ujcobuXE5abvkbQxA-vDfK3JRj27mLDIyaZFpib5KkOnMGB-zL9cV5JtVzgrlAfCYXq418e06pkl3uMujrls1Vkdjqjd6rCze2_0EccBQ5nu_HSDYcfanZQ3GFqitnO4uuY0jndz2uh1Umh6WQk4Epp4EYkHlrgQST_WPtpMUH0LSx7Qc90xabvPECZqdet58WLzQSVYMXEZ1NQ3zImpNIgv4KA0fF3pBDwgIdL30=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72vvwLAOECn5smnY6OPgfGsoyAtHZkn0TAx_JOhtlvtko2sqNC3KrepXlQv1JpuTLOsxfh_9iPPxg3PUCRqy2p9cAU_BRfSlv6vVtrmrOLlGNf0TJXGV-wCM_C8988V38a0I96nzTQxskHYQXbJrhlHbP0_sR_g-K_DyChP9ZazTmWrNwixNcZt4rYPHgMg0SOamuzjbLkmDjq4pDIGPNFSGJS91M3gxeTQni-3S=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72ujh_I9l4jybAe3CLbmpc9YL3yjAFaxZmNnsW8iop2ikQsFlaRS1DFnTV0Twq292aneDTL_Qmsmyop0SByv-kqTV8Tr7qHGUW-9yAsRaF0TRbsUKaOtLouJONPPRZBDgRuYuYCW_v1dAQN9myNgr_u6UUG0trIVryWOmoHdzf0XHnAWYK5JWTOeEaqKiubqD0xFFWxBYnnC19fvsnghLUNRr3HbbYUvpbVp09qw2PY=w1280",
+        "https://sites.google.com/sitesv-images-rt/AMxu72sIf54Y_mKBE2kjoj--6oheAgv_3guKC3om4h8XTQHjLNakF0P0BrSeCVs0a-XVkeAJYUWsm5ipEW3Kd2fxQH7ituCv7IAWonUf8buYhpyu1gzHxxFN4Q8V9EeJy55vpnERQVDbZnQd_pR2t-L4pGrjrqjwcwzHB-oqYX_DxALB3BtyFJsD_6VYb8X4S9k-EBs8raWMjooX-gPaRm1_rTab2PaeUpc-o680pziY=w1280"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "speaknow-ye.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://speaknow-ye.com/",
+    "checked_at_utc": "2026-10-20T09:01:48.412775+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://speaknow-ye.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "google.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:01:49.460756+00:00"
+  },
+  "mbc415161.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:01:50.505185+00:00"
+  },
+  "zirconcad.cam": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.zirconcad.cam/",
+    "checked_at_utc": "2026-10-20T09:01:52.880062+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "ZirconCadCam",
+      "website_emails": [
+        "zirconibb@gmail.com"
+      ],
+      "website_phones": [
+        "777938352",
+        "774112259",
+        "+967774112259",
+        "+967777938352",
+        "770605604"
+      ],
+      "website_address": "Yemen, YE",
+      "website_opening_hours": "[{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Sunday\", \"Saturday\"], \"opens\": \"09:00\", \"closes\": \"20:00\"}]",
+      "website_latitude": "14.006717",
+      "website_longitude": "44.174773",
+      "website_images": [
+        "https://le-de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/opt/1763490503421-915bc841-1920w.png",
+        "https://www.zirconcad.cam/",
+        "https://de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A1%D9%A2%D9%A6_%D9%A1%D9%A7%D9%A1%D9%A7%D9%A2%D9%A7_%2812_x_12_cm%29.png",
+        "https://de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/FB_IMG_17606320631550742.jpg",
+        "https://de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/FB_IMG_1752094197554-f8b9eb96.jpg",
+        "https://de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/FB_IMG_1764346366825-4f67348b.jpg",
+        "https://de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A1%D9%A1%D9%A3-%D9%A1%D9%A3%D9%A2%D9%A5%D9%A4%D9%A8_Gallery.jpg",
+        "https://ZirconCad.cam/logo.png",
+        "https://le-de.cdn-website.com/390f2dc3fe064f919d226b68373614c4/dms3rep/multi/opt/1763490503421-180w.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE70tH5K8DcbjlCS1qdBpxtM2qFqNQ-HR2obAFam1L49WAktfpEm7mRyu8V0FHMAiHx7V5xctWio_SYzmiJPgyKCgB7cHfR_CRb9c8DNKHC_g_1r7NYSjbXKmkS0n3nQAv19f6WBKViOXy10HHKXks3WbLx3lJ8kO8_L9Zpd4pHL4OpQe8rJAbMX5SXl0/s1080/1763490503421.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPlM-LWj4PPgLvZ4__94tdIK-AV39AxFKIpsx_A7nr8G8xHQqOcCdveXq3hXMeQQIG3d5NVyil6RE5aF3-JY6sWCssY-2_6jI8wZ-6y4gCej9hB_lNnxY1nsRt3UTkPp-obiMFqXi76S523NS8Foz7rTNPq9UfLywPXNbA2eagrTRxNLwa6nS5ytIY6iY/s93/1752676031427.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8JmpwNNiCJ6hFC6qotY6SKIlLefej5uDeQl5pjrC8tNX9iGMS3qAgDE0q0_Ftgmgy8T9lRPDlaE7jecxdRQ9QR4LgI88S7uXfpU1CWe15NBud3Cjj_bHpG979_zW5F9qt5nSBT8P8x9aYf1qXAYluNv6-9uaNcNwm5CHpqWBzo5lhVbiVY4zk9OtqYk/s100/1752676065704.png"
+      ],
+      "instagram": "https://instagram.com/zircon_dental_cadcam",
+      "facebook": "https://facebook.com/ZirconCadCamCenter",
+      "linkedin": ""
+    }
+  },
+  "alsadah.co": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://2url.me/",
+    "checked_at_utc": "2026-10-20T09:01:55.132764+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://2url.me/wp-content/uploads/2025/09/lo-de-online-cap-nhat-top-10-nha-cai-choi-game-xo-so-uy-tin.webp",
+        "https://2url.me/",
+        "https://2url.me/banner_image/banners/79-1785057571353-bottom-zo88-480x50",
+        "https://2url.me/banner_image/banners/79-1785057579878-bottom-vic88-480x50"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "nashwanaa.github.io": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://nashwanaa.github.io/dr-nashwan-dental-clinic/",
+    "checked_at_utc": "2026-10-20T09:01:57.336551+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/logo/logo.png",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/clinic-hero.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/maxillofacial-specialty.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/implant-specialty.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/cosmetic-specialty.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/article-zygomatic.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/dr-nashwan-surgery.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/article-trigeminal.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/article-tmj.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/article-pain.jpg",
+        "https://nashwanaa.github.io/dr-nashwan-dental-clinic/assets/images/article-digital-dentistry.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "business.google.com": {
+    "status": "http_404",
+    "robots_status": "robots_ok",
+    "attempts": 2,
+    "checked_at_utc": "2026-10-20T10:03:10.893146+00:00"
+  },
+  "midyafarab.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://midyafarab.com/",
+    "checked_at_utc": "2026-10-20T09:02:10.298722+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://midyafarab.com/",
+        "https://l.cdn-fileserver.com/bping.php?cid=8CUHL418T&lper=100&gdpr=0&mspa=1&vgd_cdv=O3746&vgd_oreqf=one&vgd_wlstp=0&prid=8PR11258V&requrl=https%3A%2F%2Fmidyafarab.com&ssld=%7B%22QQNN%22%3A%22Pb%22%2C%22QQN75%22%3A%22Gm5O7mz%22%2C%22QQ8E%22%3A%22%22%2C%22QQQN%22%3A%22%2FK%22%2C%22QQl8E%22%3A%22%22%7D&vgd_rpth=%2Fola&vgd_oresf=one&vgd_setup=c21&lf=6&vgd_asn=8075&r=1792486930161&vgd_tsce=L1388&vgd_cage=19&vgd_l2type=dmola&crid=458144546&vi=1792486930941014021&hvsid=00001792486930160003391710729228&ugd=6&cc=US&sc=VA&wsip=170763173&wshp=0&vgd_len=559&vgd_end=1"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "api.whatsapp.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:11.398378+00:00"
+  },
+  "youtube.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.youtube.com/@Restaurants-Hadramout.tent.2",
+    "checked_at_utc": "2026-10-20T09:02:12.661988+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.youtube.com/@Restaurants-Hadramout.tent.2"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "wa.me": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:13.875562+00:00"
+  },
+  "maps.google.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:14.925104+00:00"
+  },
+  "aljaberhoney.netlify.app": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://aljaberhoney.netlify.app/",
+    "checked_at_utc": "2026-10-20T09:02:17.919739+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://aljaberhoney.netlify.app/images/hero-honey.jpg",
+        "https://aljaberhoney.netlify.app/",
+        "https://aljaberhoney.netlify.app/images/logo.jpg",
+        "https://aljaberhoney.netlify.app/images/drip-honey.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "instagram.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:19.068665+00:00"
+  },
+  "m.facebook.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:20.193691+00:00"
+  },
+  "alhamd-hospital.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.alhamd-hospital.com/ar",
+    "checked_at_utc": "2026-10-20T09:02:24.697898+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@nano2soft.com",
+        "contact@example.com"
+      ],
+      "website_phones": [
+        "٤٤٥١٦٦٥"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/651/b44/92d/651b4492da76e860766747.jpg",
+        "https://www.alhamd-hospital.com/ar",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/650/7f9/494/6507f9494a1be986491399.jpg",
+        "https://www.alhamd-hospital.com/themes/nano-themes/assets/media/various/about.jpg",
+        "https://www.alhamd-hospital.com/themes/nano-themes/assets/media/various/about-story.jpg",
+        "https://www.alhamd-hospital.com/themes/nano-themes/assets/media/various/about-goal.jpg",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/654/5f4/86b/6545f486bc347991005320.jpg",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/654/0a2/310/6540a2310ea8a442849487.jpg",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/654/5f3/9f8/6545f39f8b115570027580.jpg",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/613/ba6/12e/thumb_122_100_80_0_0_crop.jpg",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/612/d3f/ccb/thumb_114_100_80_0_0_crop.jpg",
+        "https://www.alhamd-hospital.com/storage/app/uploads/public/612/d42/5e5/thumb_115_100_80_0_0_crop.jpg"
+      ],
+      "instagram": "https://www.instagram.com/invites/contact/?i=1oh52e229ywga&utm_content=ofeem4z‎‏",
+      "facebook": "https://www.facebook.com/alhamdhospitalibb",
+      "linkedin": ""
+    }
+  },
+  "alydigital-u3bemhzm.manus.space": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://alydigital-u3bemhzm.manus.space/",
+    "checked_at_utc": "2026-10-20T09:02:26.529208+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Aldali Store | متجر الدالي",
+      "website_emails": [],
+      "website_phones": [
+        "+967780085554",
+        "+967775351267"
+      ],
+      "website_address": "شارع العدين - أمام بنك اليمن الدولي, إب, YE",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alydigital-u3bemhzm.manus.space/manus-storage/ald-logo-source_3ae4bf9c.jpg",
+        "https://alydigital-u3bemhzm.manus.space/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "whatsapp.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.whatsapp.com/channel/0029VaCpuCnJkK79JImVQL0M",
+    "checked_at_utc": "2026-10-20T09:02:29.183630+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://mmg.whatsapp.net/m1/v/t24/AQM38b0TlFlya7xuV_tUHXnOWo12c7mMy1qclKe0tOfMKGGiqUZVbK0e-WmGkOh_7YsFmyXNnQwyG5pD_hkGMj2sL5HcsOTu7brbiuSII6fUF4VIV65IBwPsWhAy6CMNR41YxRJ8n9CHbIRCEhkVNYERmSI86Jtq?_nc_gid=o3uWh7z9SV-tN_7QuXzKBw&_nc_oc=Adq2XFzrcUURDZwPjLtELRgEcS4Y3MsGrBZbhatf3jlqlbmS5GVEohgacTb-fdjX6dE&ccb=10-5&oh=01_Q5Aa5wEkkLz9nb6OzzJ06JsnpXWOWq3m-6Oh8f9EZx-U668Udw&oe=6AFEA160&_nc_sid=471a72",
+        "https://www.whatsapp.com/channel/0029VaCpuCnJkK79JImVQL0M",
+        "https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png",
+        "https://static.whatsapp.net/rsrc.php/yM/r/ys-5GPT4pwS.svg",
+        "https://static.whatsapp.net/rsrc.php/yJ/r/twC7frrXavH.svg",
+        "https://static.whatsapp.net/rsrc.php/v4/yO/r/rukeqTVNJDY.png",
+        "https://www.whatsapp.com/about"
+      ],
+      "instagram": "https://www.instagram.com/whatsapp/?hl=en",
+      "facebook": "https://www.facebook.com/brand/resources/whatsapp/whatsapp-brand",
+      "linkedin": ""
+    }
+  },
+  "almogammer.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://almogammer.com/",
+    "checked_at_utc": "2026-10-20T09:02:32.854037+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "المجمر للأجهزة الإلكترونية والمنظومات الشمسية",
+      "website_emails": [
+        "info@almogammer.com"
+      ],
+      "website_phones": [
+        "04411085",
+        "777291567",
+        "+967-04411085"
+      ],
+      "website_address": "اليمن - إب - شارع العدين, إب, اليمن",
+      "website_opening_hours": "السبت - الخميس: 8:00 ص - 10:00 م",
+      "website_latitude": "13.9670",
+      "website_longitude": "44.1830",
+      "website_images": [
+        "https://almogammer.com/logo.jpg",
+        "https://almogammer.com/",
+        "https://almogammer.com/storage/176/conversions/solar-panels-thumb.jpg",
+        "https://almogammer.com/storage/177/conversions/batteries-thumb.jpg",
+        "https://almogammer.com/storage/173/conversions/d-thumb.jpg",
+        "https://almogammer.com/storage/187/conversions/heaters-thumb.jpg",
+        "https://almogammer.com/storage/191/conversions/m-thumb.jpg",
+        "https://almogammer.com/storage/172/conversions/screens-thumb.jpg",
+        "https://almogammer.com/storage/199/conversions/electronics-home-thumb.jpg",
+        "https://almogammer.com/storage/261/conversions/Electrical-and-solar-thumb.jpg",
+        "https://almogammer.com/storage/174/conversions/phones-thumb.jpg",
+        "https://almogammer.com/storage/179/conversions/accessories-thumb.jpg"
+      ],
+      "instagram": "https://www.instagram.com/almogammer_2025/",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "altdamun.net": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:34.141739+00:00"
+  },
+  "heteeny.org": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T09:02:35.160247+00:00"
+  },
+  "aljazerabookshop.wordpress.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://aljazerabookshop.wordpress.com/",
+    "checked_at_utc": "2026-10-20T10:03:12.548826+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://aljazerabookshop.wordpress.com/wp-content/uploads/2024/09/image_editor_output_image1767954150-17260747788726953291369136528194.jpg",
+        "https://aljazerabookshop.wordpress.com/",
+        "https://aljazerabookshop.wordpress.com/wp-content/uploads/2024/09/image_editor_output_image1767954150-17260747788726953291369136528194.jpg?w=640",
+        "https://aljazerabookshop.wordpress.com/wp-content/uploads/2024/09/image_editor_output_image1767954150-17260747788726953291369136528194.jpg?w=775"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "46.158.18.246": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:21.558570+00:00"
+  },
+  "arafat-dentalclinic.blogspot.com": {
+    "status": "http_429",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:23.726970+00:00"
+  },
+  "samsung.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.samsung.com/us/",
+    "checked_at_utc": "2026-10-20T10:03:27.221884+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Samsung Electronics (America)",
+      "website_emails": [],
+      "website_phones": [
+        "+1-800-726-7864",
+        "1-800-726-7864"
+      ],
+      "website_address": "700 Sylvan Avenue, Englewood Cliffs, NJ 07632, USA",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png",
+        "https://www.samsung.com/us/",
+        "https://images.samsung.com/is/image/samsung/assets/us/gnb/09032025/GNB_TS12-Ultra_88x88.png?$LazyLoad_Home_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/gnb/09032025/GNB_TS12-Ultra_88x88.png?$ORIGIN_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/2602/gnb/02152026/GNB-Mobile-S26U-88x88.png?$LazyLoad_Home_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/2602/gnb/02152026/GNB-Mobile-S26U-88x88.png?$ORIGIN_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8_88x88_v2.png?$LazyLoad_Home_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8_88x88_v2.png?$ORIGIN_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8-U_88x88_v2.png?$LazyLoad_Home_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/f2607/gnb/GNB-L1_Shop_Galaxy-Z-Fold8-U_88x88_v2.png?$ORIGIN_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/gnb/flip8/Flip8_SCOM-148182_GNBIcon_88x88.png?$LazyLoad_Home_PNG$",
+        "https://images.samsung.com/is/image/samsung/assets/us/gnb/flip8/Flip8_SCOM-148182_GNBIcon_88x88.png?$ORIGIN_PNG$"
+      ],
+      "instagram": "https://www.instagram.com/samsungmobileusa/",
+      "facebook": "https://www.facebook.com/SamsungUS",
+      "linkedin": "https://www.linkedin.com/company/neurologica/"
+    }
+  },
+  "althajah.com": {
+    "status": "http_500",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:28.807468+00:00"
+  },
+  "chat.whatsapp.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:30.013800+00:00"
+  },
+  "abdulsalamalsane.wordpress.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://abdulsalamalsane.wordpress.com/",
+    "checked_at_utc": "2026-10-20T10:03:31.974454+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://i0.wp.com/abdulsalamalsane.wordpress.com/wp-content/uploads/2021/05/pexels-negative-space-134577.jpg?fit=1200%2C800&ssl=1",
+        "https://abdulsalamalsane.wordpress.com/",
+        "https://i0.wp.com/abdulsalamalsane.wordpress.com/wp-content/uploads/2021/05/pexels-negative-space-134577.jpg?fit=1200%2C800&ssl=1&w=640",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/ghg.jpg",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/gn.jpg?w=640",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/gn.jpg",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/kjjj-1.jpg?w=600",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/kjjj-1.jpg",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2021/05/pexels-igor-haritanovich-1695052.jpg?w=1024",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/unnamed-file-1.jpg?w=696",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/unnamed-file-1.jpg",
+        "https://abdulsalamalsane.wordpress.com/wp-content/uploads/2020/07/ghg-1.jpg?w=259"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "myaccount.google.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://accounts.google.com/v3/signin/identifier",
+    "checked_at_utc": "2026-10-20T10:03:33.764811+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://accounts.google.com/v3/signin/identifier"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "yemensaeedpharmacies.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://yemensaeedpharmacies.com/",
+    "checked_at_utc": "2026-10-20T10:03:35.445250+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://yemensaeedpharmacies.com/",
+        "https://yemensaeedpharmacies.com/templates/ysp1/images/looo.fw.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alnasserexchange.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://alnasserexchange.com/",
+    "checked_at_utc": "2026-10-20T10:03:38.217470+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@alnasserexchange.info"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alnasserexchange.com/",
+        "https://alnasserexchange.com/images/logo.png",
+        "https://alnasserexchange.com/images/7 (1) (1).png",
+        "https://alnasserexchange.com/Website/GetSliderImage/20",
+        "https://alnasserexchange.com/Website/GetSliderImage/21",
+        "https://alnasserexchange.com/Website/GetSliderImage/22",
+        "https://alnasserexchange.com/Website/GetSliderImage/16",
+        "https://alnasserexchange.com/Website/GetSliderImage/17",
+        "https://alnasserexchange.com/Website/GetSliderImage/18",
+        "https://alnasserexchange.com/Website/GetSliderImage/19",
+        "https://alnasserexchange.com/images/shape1.png",
+        "https://alnasserexchange.com/Website/GetNewsImage/5"
+      ],
+      "instagram": "https://www.instagram.com/alnasserex/",
+      "facebook": "https://www.facebook.com/ALNASSEREX",
+      "linkedin": "https://www.linkedin.com/company/alnasserex"
+    }
+  },
+  "43.250.104.44": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:39.407358+00:00"
+  },
+  "akayantravels.blog": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:40.580647+00:00"
+  },
+  "3linestaye.mystrikingly.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://3linestaye.mystrikingly.com/",
+    "checked_at_utc": "2026-10-20T10:03:43.992557+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "ثري لاينز - وكالة سفر",
+      "website_emails": [
+        "3linestaye@gmail.com"
+      ],
+      "website_phones": [
+        "00967772737107"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/13764519/261945_392027.png",
+        "https://3linestaye.mystrikingly.com/",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/1270913/896553_992931.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/13764519/811331_413123.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/13764519/655854_365723.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/13764519/927616_656607.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/13764519/403978_602183.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/13764519/86795_226837.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/13764519/105283_823526.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/13764519/190309_383617.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/13764519/924929_635199.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/13764519/55090_755677.jpeg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "thaman8.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:45.021836+00:00"
+  },
+  "g.page": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://accounts.google.com/v3/signin/identifier",
+    "checked_at_utc": "2026-10-20T10:03:47.423642+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://accounts.google.com/v3/signin/identifier"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "brightenss.com": {
+    "status": "http_302",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:03:52.448370+00:00"
+  },
+  "royalhawks.net": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://royalhawks.net/",
+    "checked_at_utc": "2026-10-20T10:03:59.639471+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "009671244437",
+        "01244437",
+        "780555164",
+        "781999164"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://royalhawks.net/",
+        "https://royalhawks.net/wp-content/uploads/2023/10/شعار-الصقور-removebg-preview-e1711376334732.png",
+        "https://royalhawks.net/wp-content/uploads/2024/03/unnamed.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alamintravelvip.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alamintravelvip.com/",
+    "checked_at_utc": "2026-10-20T10:04:01.167150+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCAhe6fbaOGz3sedTfdJP8HxD_X9VOOun3ZjTCJoqy6IDQSK7y_8hGfDKKCeIcFc1v6jwmGP6LmahPCSaPwjXRri-mZbAT_eXkFlTlDTwp8jbpidJsovEUTBuqTfQ_9PVXAFLzl-elfiwM78BVcLcBRPsiTrrL3l74L-t0S_Ww1uFzUSEwpHWsIGvW5jE/w1200-h630-p-k-no-nu/1001395570.jpg",
+        "https://www.alamintravelvip.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI6hy1rz4GoKIagvkZK23aOoPickA9hOnzirk5wmxxeVM4GR8Db8fUUWmdH1zOXkRrgu9eN2JPOG-lBat-r5K-qsdjTgiDk-Gc0I-Ypv92sYx06RyPtkz4erbqSCFG3h3pzcs88vHnz3M4CyGV69H_vpRf1blpaRT2C9QfCrS1IwuaxJMTfgNaDgN61mA/w1200-h630-p-k-no-nu/1001361250.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAfUNy3WDQ5i6GUIcmJALoumqulCpTp8DJfo6NTCe5CsrxX2ombWplwXkDlnT7hc4s0QrrAbxdRq-LIZpiOwYIGeN3Rldmr9tc99AbuKmEQ-2mGupzYSMtxRLBeMb7neuzQFm354oJR4Z0-UjAYXAHZNtQUZBrw954h5174TAUGEu4qp4RIlEIoCtZTNw/w1200-h630-p-k-no-nu/WA_1773088027055.jpeg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN0dv6AHpAYM7v6kuqxDe7SeylTDHnEnymO07jRn00EdCFuHZ5zYvjqy_tSxFsQJfWiE7_UG17Ax6FviJ7QN1BDgLB-VMXBRrgsJiIZ1FvAXk-a6bDLNf9SUL9KAfS9fkMPSW7bQRIiEwUY1NBHxW3y9SN4W-jjYKlIaPRKHzqQprpHdOK_s4xzKH54C8/w1200-h630-p-k-no-nu/1001316980.jpg",
+        "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vJhMvwNjQZ5G8HmKKHgAVBhZejtlgDfgdGYnbmY3zpRR3YJpOc0N2N-82i9MkpOArmN5yrsUHSSHORNkxV2rTUhb-z8Wwuutcy_kimugL7I3WVXQ=w1200-h630-n-k-no-nu",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXA91R9Cqhwu6xL3tLPIG-e6LJOkv1S6Jdl-JzS7TokJ_O5_BWBoZzpEUy-LZz7BvhZQUcyEzbxVnCnZL7Ztj3q88XuHl64UnUDyd8HNlAwl_Nt3iYTb2HHyTO3o8Zb6sBNI4wRYvRnpUVxLosKuKtp-LOGpHq2xrI5W828BWbY3Hg6cjrLVcV_X_iLAg/w1200-h630-p-k-no-nu/1001213012.png",
+        "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/w1200/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG6vtsN44D4NlvsM421kL-zXa_GjAkZlzZl7xAj6J84IRI5qYk1Cm-ulx76rmJAdYbvcOx6St9CdP1vlcAASlG1tKX7nyFhcIHju_9scIt8T3UPFBd4G4GVTqtffK1AhqXimHtlhq1qWUjxl8KropkPuDEtopyI0cWn3qFP5ve7NBbDlJE90WPXjzAywY/w1200-h630-p-k-no-nu/1001285751.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguMJ-hcBpTAgWSdtZh89BAjg6EZPweG6-cjTJPYNVQGAwDTPmgBpK5cS5k5i93bU-o-k1c2SMR2n6tFbFcHFpYuF0EKG5sa1Zik45sB4ZSKph185GX6q3qxiCE_ycbxIs8ey3cGC8dEfigl0J5w2fktTkE484FYjvF7fw2Mb_deFk5SXrUJzpNbfyFumU/w1200-h630-p-k-no-nu/1001226084.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitzlf2Ut2py7w0HfTjYdwkdmvjfcxdWUdXCjEYSCViES4c5HTRdOFQKXWwykL0Zn5AK6NIVv8PxKf2dEeUvRUr1tWebm_-REvVXI8a8-WbLd_kB5OJEHBRQi2itRC2DggD8PLAsdCmjFESya-GmIiYGFlF0vTSNtRqDfqh60JMGb0PyLgYTm6vhPx2SiA/w1200-h630-p-k-no-nu/1001058909.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0lHUCMI-auHGIjjg5Uwko42v0hsrFrVbCm8AHNszgqymuMwuqydV1gQy08Ck4TUvs5TYKHdAG9jkNXp-chTjWseWoH2WTeR_ta3qZ_HIjaqBDmSW0s3JF0u1q0eOP9WPmkLhyphenhyphenhRLoSyXFkxMfb6Ib6pcKPu-fh8Sk3DfKz1Ggjr_BvPzDkmctjsW2Dfc/w1200-h630-p-k-no-nu/1000931158.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alsabahimedical.alwaysdata.net": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://alsabahimedical.alwaysdata.net/reg/index.php",
+    "checked_at_utc": "2026-10-20T10:04:03.752248+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alsabahimedical.alwaysdata.net/reg/index.php",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1779397334_arch_6a0e3f6686f50.jpg",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1789389863_6aa7ec27e0515.jpg",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1788026652_6a931f1c8bf41.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1788980134_6aa1aba61915a.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1782945878_0_file_00000000e95072309e90d5fa3e506932.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1788980285_6aa1ac3dc7980.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1782945984_file_00000000d40c723098463eaaef0676b9.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1788980212_6aa1abf4dd59b.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1780276562_9516f580-5d51-11f1-af81-5f93c8d3dadd.jpg",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1788980429_6aa1accdcfdf7.png",
+        "https://alsabahimedical.alwaysdata.net/reg/assets/images/1788980522_6aa1ad2aacbc0.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "g.co": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_400",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:04:04.971890+00:00"
+  },
+  "twitter.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:04:06.100820+00:00"
+  },
+  "advancephysiojabali.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://advancephysiojabali.com/",
+    "checked_at_utc": "2026-10-20T10:04:07.723331+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "waljbli@yahoo.com",
+        "info@advancephysiojabali.com"
+      ],
+      "website_phones": [
+        "001800345678"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://advancephysiojabali.com/wp-content/uploads/2022/06/circle.png",
+        "https://advancephysiojabali.com/",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/07/img1-1.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2022/06/img4.jpg",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/07/4K5A0034.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/07/doctor.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/07/nerve.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2022/06/ser9.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/08/Untitled-1f-Recovered.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/07/Untitled-2-Recovered.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/07/Untitled-1.png",
+        "https://advancephysiojabali.com/wp-content/uploads/2025/08/Untitled-1-Recovered.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "altilalhotel.mystrikingly.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T10:04:09.560699+00:00"
+  },
+  "bifye.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://bifye.org/",
+    "checked_at_utc": "2026-10-20T10:04:13.631357+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@bifye.org",
+        "aden.bifye.org"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://bifye.org/wp-content/uploads/2023/02/IMG_8917.jpg",
+        "https://bifye.org/",
+        "https://bifye.org/wp-content/uploads/2024/11/شعار-المؤسسة-المفرغ-scaled.jpg",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2023/02/IMG_8917.jpg?fit=2400%2C1600&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2023/02/IMG_7835.jpg?fit=2400%2C1600&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2025/08/%D8%A7%D9%84%D8%B4%D8%B9%D8%A7%D8%B1.png?resize=370%2C249&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2024/01/WhatsApp-Image-2023-12-25-at-10.15.30-PM.jpeg?resize=370%2C249&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2023/03/selective-focus-special-glasses-checking-eyesight-%D9%86%D8%B3%D8%AE.jpg?resize=370%2C249&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2023/02/IMG_7508.jpg?fit=2400%2C1600&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2023/02/IMG_7508.jpg?w=2400&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2017/06/IMG_4197-scaled.jpg?fit=2560%2C1707&ssl=1",
+        "https://i0.wp.com/bifye.org/wp-content/uploads/2017/06/IMG_4197-scaled.jpg?w=2560&ssl=1"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/MSOHJIBLAH",
+      "linkedin": ""
+    }
+  }
+}
