@@ -144,7 +144,8 @@ def extract(url,body,parser):
    images.append(u)
   if len(images)>=12: break
  text=html.unescape(re.sub(r"<[^>]+>"," ",body))
- emails=list(dict.fromkeys([e.lower().strip(".,;:()[]<>") for e in re.findall(EMAIL_RE,text)]+[e.lower().strip() for e in EMAIL_RE.findall(" ".join(o.get("email","") if isinstance(o.get("email"),str) else "" for o in objs))]))
+ mailtos=[urllib.parse.unquote(href[7:].split("?")[0]).strip() for href,label in parser.links if href.lower().startswith("mailto:")]
+ emails=list(dict.fromkeys([e.lower().strip(".,;:()[]<>") for e in mailtos]+[e.lower().strip(".,;:()[]<>") for e in re.findall(EMAIL_RE,text)]+[e.lower().strip() for e in EMAIL_RE.findall(" ".join(o.get("email","") if isinstance(o.get("email"),str) else "" for o in objs))]))
  emails=[e for e in emails if len(e)<255 and not e.endswith((".png",".jpg",".jpeg",".webp",".svg"))][:8]
  phones=[]
  for href,_ in parser.links:
