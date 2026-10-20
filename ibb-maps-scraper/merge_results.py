@@ -6,6 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 S1, S2, OSM_CSV = ROOT / "ibb_skill1_results.csv", ROOT / "ibb_skill2_results.csv", ROOT / "ibb_osm_results.csv"
+TILES_ROOT = ROOT / "deep_scan_tiles"
 OUT_JSON, OUT_CSV, REPORT = (ROOT / "ibb_city_complete_database.json",
                              ROOT / "ibb_city_complete_database.csv",
                              ROOT / "scrape_report.json")
@@ -203,7 +204,11 @@ def main():
     a, b, osm = (read_csv(S1, "mahanaicoach"),
                  read_csv(S2, "gosom"),
                  read_csv(OSM_CSV, "openstreetmap"))
-    rows, collapsed, added = merge_records(previous, [*a, *b, *osm])
+    # Include any tiles left behind by an interrupted batch so a merge failure cannot lose data.
+    tile_rows = []
+    for tile_file in sorted(TILES_ROOT.glob("grid_*/*.csv")):
+        tile_rows.extend(read_csv(tile_file, "mahanaicoach"))
+    rows, collapsed, added = merge_records(previous, [*a, *b, *osm, *tile_rows])
     columns = list(FIRST)
     extras = sorted(set().union(*(r.keys() for r in rows)) - set(columns)) if rows else []
     columns += extras
@@ -225,7 +230,8 @@ def main():
         "gosom_rows_available": len(b),
         "openstreetmap_rows_available": len(osm),
         "current_batch_mahanaicoach_rows": len(a),
-        "current_sources_rows_before_deduplication": len(a) + len(b) + len(osm),
+        "recovery_tile_rows_available": len(tile_rows),
+        "current_sources_rows_before_deduplication": len(a) + len(b) + len(osm) + len(tile_rows),
         "new_unique_rows_added": added,
         "final_unique_rows": len(rows),
         "duplicate_rows_collapsed_in_this_merge": collapsed,
