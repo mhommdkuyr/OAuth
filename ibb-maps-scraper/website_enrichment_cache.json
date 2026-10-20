@@ -578,8 +578,8 @@
   "althajah.com": {
     "status": "http_500",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-20T15:43:38.487620+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-20T19:54:00.707104+00:00"
   },
   "chat.whatsapp.com": {
     "status": "robots_disallowed",
@@ -778,8 +778,8 @@
   "brightenss.com": {
     "status": "http_302",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-20T15:43:44.835557+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-20T19:54:06.095096+00:00"
   },
   "royalhawks.net": {
     "status": "ok",
@@ -1435,6 +1435,582 @@
       "instagram": "https://www.instagram.com/unicef/",
       "facebook": "https://www.facebook.com/unicef/",
       "linkedin": "https://www.linkedin.com/company/unicef/"
+    }
+  },
+  "yemenmedicinebank.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://yemenmedicinebank.org/",
+    "checked_at_utc": "2026-10-20T19:54:08.968929+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Welcome &mdash; Coming Soon",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://yemenmedicinebank.org/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "twinpharma-ye.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.twinpharma-ye.com/",
+    "checked_at_utc": "2026-10-20T19:54:13.182542+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@twinpharma-ye.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.twinpharma-ye.com/banner.webp",
+        "https://www.twinpharma-ye.com/",
+        "https://www.twinpharma-ye.com/logo.webp",
+        "https://www.twinpharma-ye.com/helmi.webp",
+        "https://www.twinpharma-ye.com/pharmaceutics.webp",
+        "https://www.twinpharma-ye.com/natruceutics.webp",
+        "https://www.twinpharma-ye.com/cosmatics.webp",
+        "https://www.twinpharma-ye.com/applainces.webp",
+        "https://www.twinpharma-ye.com/news1.webp",
+        "https://www.twinpharma-ye.com/news2.webp",
+        "https://www.twinpharma-ye.com/news3.webp",
+        "https://www.twinpharma-ye.com/about-us/"
+      ],
+      "instagram": "https://instagram.com/twinpharma.ye",
+      "facebook": "https://facebook.com/Twinpharma",
+      "linkedin": ""
+    }
+  },
+  "yementube.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:54:14.579223+00:00"
+  },
+  "alehsani.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alehsani.org/",
+    "checked_at_utc": "2026-10-20T19:54:18.776936+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@alehsani.org"
+      ],
+      "website_phones": [
+        "780048777"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://static.readdy.ai/image/f01d069de9648afc1fc061d75fe35c05/daa59d16a303ff2fb8a6159210f9d9eb.png",
+        "https://www.alehsani.org/",
+        "https://static.readdy.ai/image/f01d069de9648afc1fc061d75fe35c05/d975e4c7dacc210325730e312c1009a0.png",
+        "https://public.readdy.ai/ai/img_res/26689995452f14c8b79107c149887ba2.jpg",
+        "https://public.readdy.ai/ai/img_res/54b5cff31bc2441672aeff3e508b15ca.jpg",
+        "https://public.readdy.ai/ai/img_res/42874eca520ebd1cfd8c740008f7af99.jpg",
+        "https://public.readdy.ai/ai/img_res/fa1411e1ae79bf78a7c7c779f4121309.jpg",
+        "https://public.readdy.ai/ai/img_res/4f1ff1f8dae92d08d61caed13ecb456f.jpg",
+        "https://public.readdy.ai/ai/img_res/f6730130e0073de95d9e1f58b36612b8.jpg",
+        "https://public.readdy.ai/ai/img_res/36af39dbceecfe36f7728c2d94b93d52.jpg",
+        "https://public.readdy.ai/ai/img_res/b2d7883b3b334c8cf53d94a8bc38fa5b.jpg",
+        "https://public.readdy.ai/ai/img_res/0459a2da4e0917f3c2ac869082804c3f.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/alehsani.hospital/",
+      "linkedin": ""
+    }
+  },
+  "snapchat.com": {
+    "status": "http_404",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:54:20.350054+00:00"
+  },
+  "maps.app.goo.gl": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_400",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:54:21.439704+00:00"
+  },
+  "linktr.ee": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:54:22.616898+00:00"
+  },
+  "washeosa.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.washeosa.com/",
+    "checked_at_utc": "2026-10-20T19:54:27.866457+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "مغاسل واشيو",
+      "website_emails": [
+        "info@washeosa.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ksacdn4.mnasaticdn.com/uploads/vendor_logo_image/44/logo_44_1742457216.png",
+        "https://www.washeosa.com/",
+        "https://www.washeosa.com/about"
+      ],
+      "instagram": "https://www.instagram.com/washeosa/",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "iutt.edu.ye": {
+    "status": "fetch_error:URLError",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:54:52.950246+00:00"
+  },
+  "eduislamic.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://eduislamic.com/",
+    "checked_at_utc": "2026-10-20T19:54:58.962669+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "interislamicuniversity@gmail.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://eduislamic.com/",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-8-300x168.png",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-7-300x168.png",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-6-300x290.png",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-5-300x168.png",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-4-300x168.png",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-3-300x168.png",
+        "https://eduislamic.com/wp-content/uploads/2026/10/image-2-300x224.png",
+        "https://eduislamic.com/wp-content/uploads/2024/04/شعار-الجامعة-الإسلامية-مفرغ1-1-1024x862.png",
+        "https://eduislamic.com/about/"
+      ],
+      "instagram": "",
+      "facebook": "http://www.facebook.com/iiu.edu1443",
+      "linkedin": ""
+    }
+  },
+  "ust.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ust.edu.ye/",
+    "checked_at_utc": "2026-10-20T19:55:09.697604+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@ust.edu.ye"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ust.edu.ye/wp-content/uploads/2020/06/cropped-ustlogo.png",
+        "https://ust.edu.ye/",
+        "https://ust.edu.ye/wp-content/uploads/2020/06/ustlogo2.png",
+        "https://ust.edu.ye/wp-content/themes/eshkool/assets/images/sa-flag.png",
+        "https://ust.edu.ye/wp-content/uploads/2026/07/en22.jpg",
+        "https://ust.edu.ye/wp-content/uploads/2026/09/eng.jpg",
+        "https://ust.edu.ye/wp-content/uploads/2026/09/phd.jpg",
+        "https://ust.edu.ye/wp-content/uploads/2025/07/‏‏‏‏بنر-الموقع-برامج-الدراسات-العليا.png",
+        "https://ust.edu.ye/wp-content/uploads/2025/10/فتح-التسجيل-بنظام-التجسير-بانر.jpg.webp",
+        "https://ust.edu.ye/wp-content/uploads/2025/10/فتح-التسجيل-بنظام-التجسير-بانر.jpg",
+        "https://ust.edu.ye/wp-content/uploads/2026/04/accreditation.jpg",
+        "https://ust.edu.ye/wp-content/uploads/2023/07/بنر-الموقع.png"
+      ],
+      "instagram": "https://www.instagram.com/usteduy ",
+      "facebook": "https://www.facebook.com/USTeduY",
+      "linkedin": ""
+    }
+  },
+  "eiu.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://eiu.edu.ye/",
+    "checked_at_utc": "2026-10-20T19:55:16.395160+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "0096719671432222",
+        "00967781232222"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://eiu.edu.ye/images/fb-logo.jpg",
+        "https://eiu.edu.ye/",
+        "https://eiu.edu.ye/images/logo.png.webp",
+        "https://eiu.edu.ye/images/Loading_icon.svg",
+        "https://eiu.edu.ye/upimages/sliders/responsive/EIU2025-11-10-658702.jpg.webp",
+        "https://eiu.edu.ye/upimages/sliders/mobile/EIU2025-11-10-658702.jpg.webp",
+        "https://eiu.edu.ye/upimages/sliders/EIU2025-11-10-658702.jpg.webp",
+        "https://eiu.edu.ye/about",
+        "https://eiu.edu.ye/upimages/about/EIU-mul-img2022-05-19-9023.jpg"
+      ],
+      "instagram": "https://www.instagram.com/Eiuniversity",
+      "facebook": "https://www.facebook.com/Eiuniversity",
+      "linkedin": "https://www.linkedin.com/in/emiratesuniversity/"
+    }
+  },
+  "taiz.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://taiz.edu.ye/Taiz_University",
+    "checked_at_utc": "2026-10-20T19:55:42.873141+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://taiz.edu.ye/Taiz_University",
+        "https://taiz.edu.ye/App_Themes/taiz2/header.png",
+        "https://taiz.edu.ye/CONTROL/uploadS/31e035b4-c276-4419-87fc-526e970aec8a.jpg",
+        "https://taiz.edu.ye/CONTROL/uploadS/WhatsApp",
+        "https://taiz.edu.ye/CONTROL/uploadS/474762529_1004789598350445_5543423495842195739_n.jpg",
+        "https://taiz.edu.ye/CONTROL/uploadS/11111111111111",
+        "https://taiz.edu.ye/CONTROL/uploadS/698381748_1382871067208961_755605614444970786_n.jpg",
+        "https://taiz.edu.ye/CONTROL/uploadS/698639595_1381004777395590_852849542441712863_n.jpg",
+        "https://taiz.edu.ye/CONTROL/uploadS/690405442_1378007461028655_8197667955336197851_n.jpg",
+        "https://taiz.edu.ye/CONTROL/uploadS/696289870_13780022222227404361994_4889552274730181066_n.jpg",
+        "https://taiz.edu.ye/CONTROL/uploadS/‏‏2027TaizUniver1.png",
+        "https://taiz.edu.ye/CONTROL/uploadS/IMG-20260305-WA0024.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alnafisuni.edu.ye": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:55:43.913263+00:00"
+  },
+  "tu.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.tu.edu.ye/",
+    "checked_at_utc": "2026-10-20T19:56:04.261353+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "//dhamaruniversity@gmail.com",
+        "support@tu.edu.ye",
+        "info@tu.edu.ye"
+      ],
+      "website_phones": [
+        "+96706425573"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.tu.edu.ye/uploads/images/ThamarUniv.png",
+        "https://www.tu.edu.ye/",
+        "https://www.tu.edu.ye/images/logo.png",
+        "https://www.tu.edu.ye/uploads/images/30 عام عطاء متجدد.jpg",
+        "https://www.tu.edu.ye/uploads/images/photo_٢٠٢٥-٠٨-٢٦_٠٩-٢٦-٥٤.jpg",
+        "https://www.tu.edu.ye/uploads/images/598656-529384974.jpg",
+        "https://www.tu.edu.ye/uploads/images/IMG_0028.JPG",
+        "https://www.tu.edu.ye/uploads/images/30 عام جامعة ذمار-03.jpg",
+        "https://www.tu.edu.ye/uploads/images/ الجامعة-سمير-02.jpg",
+        "https://www.tu.edu.ye/uploads/images/IMG_20261018_183855_086.jpg",
+        "https://www.tu.edu.ye/uploads/images/539690227243272.jpg",
+        "https://www.tu.edu.ye/uploads/images/IMG_20261015_181626_398.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://m.facebook.com/tueduye/",
+      "linkedin": ""
+    }
+  },
+  "aden-univ.net": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.aden-univ.net/",
+    "checked_at_utc": "2026-10-20T19:56:07.309054+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.aden-univ.net/assets/images/logob.jpg",
+        "https://www.aden-univ.net/",
+        "https://www.aden-univ.net/assets/images/logo2.png",
+        "https://www.aden-univ.net/images/sliders/2.jpg",
+        "https://www.aden-univ.net/images/sliders/0.jpg",
+        "https://www.aden-univ.net/images/sliders/1.jpg",
+        "https://www.aden-univ.net/images/spots/studaffairs.jpg",
+        "https://www.aden-univ.net/images/spots/elearning.jpg",
+        "https://www.aden-univ.net/images/spots/elebrary.jpg",
+        "https://www.aden-univ.net/images/spots/dalel.jpg",
+        "https://www.aden-univ.net/UploadFiles/2026/Oct/thumb/thumb888e16d0-b4d8-4bf0-acef-f20ac8dc4f08.png",
+        "https://www.aden-univ.net/UploadFiles/2026/Oct/thumb/thumb6058d516-cd8d-4f02-a42a-2188bef9dca6.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/aden.univ",
+      "linkedin": ""
+    }
+  },
+  "liuyemen.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://ye.liu.edu.lb/LIUYE/",
+    "checked_at_utc": "2026-10-20T19:56:13.786639+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ye.liu.edu.lb/LIUYE/",
+        "https://ye.liu.edu.lb/images/logo1.png",
+        "https://ye.liu.edu.lb/images/sanaa campus.jpg",
+        "https://ye.liu.edu.lb/images/staff2025.png",
+        "https://ye.liu.edu.lb/images/liu2.jpg",
+        "https://ye.liu.edu.lb/images/Footer-logo-.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "gli-yemen.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://gli-yemen.com/find-result",
+    "checked_at_utc": "2026-10-20T19:56:20.736064+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "9674256366",
+        "+9674256366"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://gli-yemen.com/assets/img/logo-b-1200x630.jpeg",
+        "https://gli-yemen.com/find-result",
+        "https://gli-yemen.com/assets/img/logo-b-1200x630.jpeg?=v1",
+        "https://www.gli-yemen.com/file/2024/08/logo-b-scaled.jpg",
+        "https://www.gli-yemen.com/file/2024/07/gli-yemen-logo.png",
+        "https://gli-yemen.com/assets/img/gli_logo.png"
+      ],
+      "instagram": "",
+      "facebook": "https://facebook.com/GLI.Taiz/",
+      "linkedin": ""
+    }
+  },
+  "al-edu.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.nu.edu.ye/",
+    "checked_at_utc": "2026-10-20T19:56:24.482761+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@nu.edu.ye",
+        "#",
+        "info@.nu.edu.ye"
+      ],
+      "website_phones": [
+        "+01210104",
+        "+01210103",
+        "#",
+        "772464461"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://nu.edu.ye/new/wp-content/uploads/2013/07/cropped-Al-Nasser-Logo211-e1740291481258.png",
+        "https://www.nu.edu.ye/",
+        "https://rch.ypv.mybluehost.me/new/wp-content/uploads/2013/07/Al-Nasser-Logo211.png",
+        "https://nu.edu.ye/new/wp-content/uploads/2025/02/FB_IMG_1739197500639.jpg",
+        "https://www.nu.edu.ye/wp-content/uploads/2025/02/FB_IMG_1739197500639-270x180.jpg",
+        "https://nu.edu.ye/new/wp-content/uploads/2025/03/تنزيل-1.jpeg",
+        "https://www.nu.edu.ye/wp-content/uploads/2025/03/تنزيل-1-200x133.jpeg",
+        "https://www.nu.edu.ye/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+        "https://www.nu.edu.ye/wp-content/uploads/2025/10/IMG-20250713-WA0042.jpg",
+        "https://www.nu.edu.ye/wp-content/uploads/2025/10/IMG-20250713-WA0042-200x161.jpg",
+        "https://www.nu.edu.ye/wp-content/uploads/2025/03/FB_IMG_1724352547763-200x200.jpg",
+        "https://www.nu.edu.ye/wp-content/uploads/2025/03/FB_IMG_1741204381083-200x200.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/Alnasser.Yemen",
+      "linkedin": ""
+    }
+  },
+  "qau.edu.ye": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-20T19:56:26.316441+00:00"
+  },
+  "iqraacollege.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.iqraacollege.com/",
+    "checked_at_utc": "2026-10-20T19:56:28.945793+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "iqraa.college.edu@gmail.com"
+      ],
+      "website_phones": [
+        "+967775306333",
+        "04435545"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t8FxyH_xgVMXXLtfFq1rh2QOroyh4yvwTguRNvm0CWprhW9C_xkimkmhXP7994J0B6gZu3So_eWVvhoU8eS0jIPBhVkM68Tw3tLEfbn-cGCUcnLba-33Xo55Waq0qVXNgyRBaa4zmbWRJYSKZBpU0HTPHifTb7aoFVILkaXL7rMr1CHJQL0c6q9SlQFM4=w16383",
+        "https://www.iqraacollege.com/",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72utMyPRzgiHOy5CGYupEoa7Ih3mL6-eQO2UlGPPNoV-_ADjsi5Hql7GWcf9OJCl5EpywC6_GSK54-_yaYE5vi2qJsf_VCB8YYUbyF8fKB6jcTCswQ-a8zwolpSYZB6tC42LF9kdu_hdJMVpogF2f_1uVxarz0JENQkByPMoqkIJOclHS-4k45WdSzispmHKYai7wu8u8KiqWUmf-SmYnQ50tcBRZY0pE-MMRA=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72trSSz0DyJYAjFYsW_jt4jKLxZV-H1W3WxNDisGqdBC9l8cM-_jBmO9hzwbRDxuHX1H3-MPnvwvjwKXWdWVrpSn6E4m9FdJfI9Tn_-n44jJGmI3hLMP6Dbm9ZPVlDHna1KMWP9pkne2KyiNym0JKluOrZSg3cnpglrAzB7-gIHJQhrPg6eVYG2OJZmwsG8=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ta2SgEG5q6Egjp1Nl9AJcre3sGjGHIY1vzV1y4ccP6JBzGICOGq1emI_VUykM0TT-At8USfTPZOXmlD0brK38lb8MONfjSr2WyAQ8ir9JgqGCkEahJ7ypVMuqVi2x-d6BbCXGL12as4Tyc5Z5RB3l3RNfCr8UJgH305R59qQQC08BDuS43U39BJqmqnctY2wORB1I3ghnV3MMBeCE-G4r8A5KsKklU5sMcq1r74H0=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sUwyiVZIJ-3707__bPIylzWiaP7rX_VqtK02lB31BHDVDsAbOLzaTOK68qWz-Gh8fzHVuztl2B2cGCXLQc5SHlF4-kZPIzonhQKX9UAHwmxui5qxe5IfzPBrp6bg5dynwMQ3d7JV3UHHoabTfGVeoKVc3DiMT5PkI5z6BJHYWW14Mo_U6-Aswsfpjr=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tMoxwP8QAjsermHqlWkUiJr6I0fbCVYRsyz9pSNduTJvcXZwwDnxTMzP0RpVDxSuRm9Pr6k6s6DQWcStXVgbqOi44A493Sam7ePIZyf34O5WvW-VUV3Pb8CtkPbcvDU5UtY89Re6rb2lz-lkSZF797ufGfzyZdZ2QOC2KLa7BBeDS351dfLPzuD9tB=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tvKK30FC4Kki8Y82Rq3elXezI5o3YjKri4BWeR1tppid9ZG4Xgkm7fuX4vVS9RnA-6eSZbG2aOwQ64RcqEfhYSq288P-BifAh-Q_awyLV3czY9pPTQ3W6d-2Jknb_-Xd48QPEW0q5s9kMNtqLq-5OVlYcCavkwS3tF0Aal6Ij5H90-LGounEgVUJOBNUw=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ugxf8ZLwIw-qogLIKnWPGEW0-fioEGMvQJCKSSFGtoIA_ewRrmH9dQg2kdhF4AT-GbIb94uR1nCbOF0fUftqS2FO94Wd9oL5XUu-KtFU29itnTrp6L51EMCNxwX8Rau6ORE_9p9ocKoghUKEaPFKSvW_PEpCRmHgwSBELAQXADAaEt54oCkMq6p7K7=w1280",
+        "https://www.iqraacollege.com/about-us",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ulAYrP8rIw_wtGcB-VjwD1_tiWGbGC3IiX3TnQzPWB0F-D08GTQ7DJB_I76VgQd3U8Qi7g6GlJ2EUUHFm7L9bE2UzX-hq0Sur7creW9oxPzGLELq5wXoP-HmRiusZQHhcluvCXBnU_gR4hkjFARjj6aGobylcsTxg0Te4Oh2LrSfjs_IYAOCYu3Q=w1280",
+        "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tadmEhYX8tJoO07N7g4V2UOfEmSxoTjWzAjhZMUBn8zzJQlBLB-v_cjLagRa_PduASxT2LIDaRmcVPFxVBpybwlxj7hvewEjioREHvS9VnkeqkGQNMRSBlYUY4k-J-wP-Z340TG7jbW35J5Ss2C-Q-IFVeqFv3dN2wYdDSINO-Ds-VhW3GTDuxM39k8i16q7rryBCGHUQzMYSpgcPiQG5ucwTB0l5IPZOHkeOH2EM=w1280"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "aust.uni.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://aust.uni.ye/",
+    "checked_at_utc": "2026-10-20T19:56:31.251428+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@aust.uni.ye"
+      ],
+      "website_phones": [
+        "774343344"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://aust.uni.ye/images/logoandalusuniv2.jpg",
+        "https://aust.uni.ye/",
+        "https://aust.uni.ye/logo.png",
+        "https://aust.uni.ye/userimages/news/dfsndw1dgq825351145_1679180017576602_5523993966144703727_n.jpg",
+        "https://aust.uni.ye/userimages/news/hs5g7btzvf791197302_2389327851839722_5808456687057656333_n.jpg",
+        "https://aust.uni.ye/userimages/news/2sk9j3x6vb743852195_1584018000426138_8487027941607495173_n.jpg",
+        "https://aust.uni.ye/userimages/news/tt8sf2k9kz732857029_1565868385574433_4379931090778667941_n.jpg",
+        "https://aust.uni.ye/userimages/news/j64k95rkqg675450150_1496807899147149_417243131824972257_n.jpg",
+        "https://aust.uni.ye/userimages/news/9wv6b5jp7g670531568_1490439776450628_4819663157369157555_n (1).jpg",
+        "https://aust.uni.ye/userimages/news/yr49k5tkr2668787082_1485302066964399_5569651393409294316_n.jpg",
+        "https://aust.uni.ye/userimages/news/1chrxq3qmt667548857_1484212420406697_1586050140526189756_n.jpg",
+        "https://aust.uni.ye/userimages/news/ytrn584gc3599461407_1382145783946695_7965357521382409177_n.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/andalusuniv.net/",
+      "linkedin": ""
+    }
+  },
+  "albadia-ye.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.albadia-ye.com/",
+    "checked_at_utc": "2026-10-20T19:56:38.724045+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@albadia-ye.com",
+        "albadia-yemen@hotmail.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.albadia-ye.com/",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/03/logo3.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/03/logo4.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2019/08/Dectofero-green-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/04/firocin-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/07/Doctofero-5.25-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/03/london-pocket-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/03/exmi2-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/04/klashinkof-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2019/03/Granphool40-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/05/Modista-300x300.png",
+        "https://www.albadia-ye.com/wp-content/uploads/2020/07/Agro-Sonic2-300x300.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/ALBADIA.YEMEN/",
+      "linkedin": ""
     }
   }
 }
