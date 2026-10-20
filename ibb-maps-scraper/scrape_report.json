@@ -1,14 +1,180 @@
 {
-  "run_id": "39361984967",
-  "generated_at_utc": "2026-10-20T03:21:30.350302+00:00",
+  "run_id": "39365921596",
+  "generated_at_utc": "2026-10-20T06:39:03.733290+00:00",
   "city": "Ibb, Yemen",
-  "grid_size": "1",
-  "previous_database_rows": 0,
-  "mahanaicoach_rows_this_run": 413,
-  "gosom_rows_this_run": 643,
-  "current_run_rows_before_deduplication": 1056,
-  "new_unique_rows_added": 758,
-  "final_unique_rows": 758,
-  "duplicate_rows_collapsed_in_this_merge": 298,
-  "coverage_note": "Best-effort collection, not a certified complete census. Search limits, geocoding boundaries, rate limits, query language and changing listings may omit places."
+  "grid_size": "4",
+  "previous_database_rows": 758,
+  "mahanaicoach_rows_this_run": 1371,
+  "gosom_rows_this_run": 657,
+  "current_run_rows_before_deduplication": 2028,
+  "new_unique_rows_added": 1163,
+  "final_unique_rows": 1920,
+  "duplicate_rows_collapsed_in_this_merge": 866,
+  "coverage_note": "Best-effort collection, not a certified complete census. Search limits, geocoding boundaries, rate limits, query language and changing listings may omit places.",
+  "field_coverage": {
+    "name": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "phone": {
+      "filled": 1107,
+      "total": 1920,
+      "percent": 57.66
+    },
+    "email": {
+      "filled": 17,
+      "total": 1920,
+      "percent": 0.89
+    },
+    "website": {
+      "filled": 147,
+      "total": 1920,
+      "percent": 7.66
+    },
+    "category": {
+      "filled": 1915,
+      "total": 1920,
+      "percent": 99.74
+    },
+    "address": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "rating": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "review_count": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "google_maps_url": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "latitude": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "longitude": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "place_id": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "plus_code": {
+      "filled": 660,
+      "total": 1920,
+      "percent": 34.38
+    },
+    "opening_hours": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "price_range": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "reviews_per_rating": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "reviews_link": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "user_reviews": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "user_reviews_extended": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "images": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "thumbnail": {
+      "filled": 1349,
+      "total": 1920,
+      "percent": 70.26
+    },
+    "street_view_url": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "descriptions": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "about": {
+      "filled": 351,
+      "total": 1920,
+      "percent": 18.28
+    },
+    "credit_cards_accepted": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "owner": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "menu": {
+      "filled": 1920,
+      "total": 1920,
+      "percent": 100.0
+    },
+    "order_online": {
+      "filled": 6,
+      "total": 1920,
+      "percent": 0.31
+    },
+    "reservations": {
+      "filled": 0,
+      "total": 1920,
+      "percent": 0.0
+    },
+    "instagram": {
+      "filled": 19,
+      "total": 1920,
+      "percent": 0.99
+    },
+    "facebook": {
+      "filled": 66,
+      "total": 1920,
+      "percent": 3.44
+    },
+    "linkedin": {
+      "filled": 2,
+      "total": 1920,
+      "percent": 0.1
+    }
+  },
+  "output_column_count": 38,
+  "additional_fields_beyond_eight_core": 30,
+  "records_with_all_eight_core_fields": 15,
+  "collection_method": "Two sequential Google Maps scraper engines; website visits are used for public email/social-link enrichment; no proxy rotation configured."
 }
