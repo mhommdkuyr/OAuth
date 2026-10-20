@@ -46,6 +46,15 @@ class DeepCensusTests(unittest.TestCase):
         self.assertTrue("mahanaicoach" in first["source_engine"])
         self.assertTrue("gosom" in first["source_engine"])
 
+    def test_interrupted_batch_retries_unstarted_cells_before_advancing(self):
+        state = deep_scan.default_state(10000)
+        state["next_tile_index"] = 8
+        state["completed_tiles"] = {f"10:{i}": {"rows": 1} for i in range(6)}
+        state["attempts"] = {f"10:{i}": 1 for i in range(6)}
+        picks = deep_scan.candidate_tiles(state, 10, 4)
+        # Tiles 6 and 7 were preselected in the interrupted batch but never started.
+        self.assertEqual(picks, [6, 7, 8, 9])
+
     def test_openstreetmap_query_uses_bbox_and_named_features(self):
         query = deep_scan.osm_query([13.9, 14.0, 44.1, 44.2])
         self.assertIn('[out:json][timeout:90]', query)
