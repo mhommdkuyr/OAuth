@@ -394,7 +394,8 @@ def candidate_tiles(state: dict[str, Any], grid_size: int, batch_size: int) -> l
     # Retry transient failures first, but never repeat one tile more than once in this run.
     for i in range(min(int(state.get("next_tile_index", 0)), total)):
         key = f"{grid_size}:{i}"
-        if key not in completed and 0 < int(attempts.get(key, 0)) < MAX_ATTEMPTS:
+        # Include unstarted cells from an interrupted planned batch (attempts == 0), not only retries.
+        if key not in completed and int(attempts.get(key, 0)) < MAX_ATTEMPTS:
             picks.append(i)
             if len(picks) >= batch_size:
                 return picks
@@ -583,7 +584,10 @@ def main() -> int:
         return 0
     if args.mode == "cleanup-batch":
         removed = 0
-        for key in state.get("last_batch_tiles", []):
+        # All successfully completed tiles are already merged into the database. Cleaning the full
+        # completed set also removes scratch CSVs restored from a pre-cleanup failed-run artifact.
+        keys = set(state.get("completed_tiles", {}).keys()) | set(state.get("last_batch_tiles", []))
+        for key in keys:
             try:
                 grid_part, tile_part = key.split(":", 1)
                 path = tile_path(int(grid_part), int(tile_part))
