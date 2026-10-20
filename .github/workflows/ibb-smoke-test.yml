@@ -1,0 +1,134 @@
+name: Ibb Scraper Smoke Test
+
+on:
+  push:
+    branches: ["ibb-scraper-smoke-test"]
+    paths:
+      - ".github/workflows/ibb-smoke-test.yml"
+      - "ibb-maps-scraper/queries_smoke.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare
+        run: |
+          set -euo pipefail
+          mkdir -p .work ibb-maps-scraper
+          rm -f ibb-maps-scraper/smoke_skill1.csv ibb-maps-scraper/smoke_skill2.csv ibb-maps-scraper/smoke_report.json
+
+      - name: "Engine 1 — run a single-query grid smoke test"
+        id: engine1
+        timeout-minutes: 35
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth 1 --branch master https://github.com/Mahanaicoach/google-maps-scraper-kit.git .work/google-maps-scraper-kit
+          cd .work/google-maps-scraper-kit
+          docker compose pull
+          docker compose up -d
+          healthy=0
+          for attempt in $(seq 1 40); do
+            if curl --fail --silent http://127.0.0.1:8080/api/v1/jobs >/dev/null; then
+              healthy=1
+              break
+            fi
+            sleep 5
+          done
+          if [[ "$healthy" != "1" ]]; then
+            docker compose ps || true
+            docker compose logs --tail=80 || true
+            echo "Engine 1 API never became healthy."
+            exit 1
+          fi
+          cd "$GITHUB_WORKSPACE"
+          python3 .work/google-maps-scraper-kit/scripts/scrape.py             --keywords-file "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_smoke.txt"             --city "Ibb, Yemen"             --grid 1             --depth 1             --max-time 180             --no-email             --out "$GITHUB_WORKSPACE/ibb-maps-scraper/smoke_skill1.csv"
+
+      - name: Stop Engine 1
+        if: always()
+        run: |
+          if [[ -f .work/google-maps-scraper-kit/docker-compose.yml ]]; then
+            (cd .work/google-maps-scraper-kit && docker compose down -v) || true
+          fi
+
+      - name: "Engine 2 — run a single-query gosom smoke test"
+        id: engine2
+        timeout-minutes: 30
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -euo pipefail
+          docker run --rm             -v "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_smoke.txt:/queries.txt:ro"             -v "$GITHUB_WORKSPACE/ibb-maps-scraper:/out"             gosom/google-maps-scraper:v1.18.1             -input /queries.txt             -results /out/smoke_skill2.csv             -geo "13.9667,44.1833"             -radius 15000             -zoom 16             -depth 1             -c 1             -exit-on-inactivity 3m
+
+      - name: Count output rows and generate a report
+        if: always()
+        env:
+          RUN_ID: ${{ github.run_id }}
+          ENGINE1_OUTCOME: ${{ steps.engine1.outcome }}
+          ENGINE2_OUTCOME: ${{ steps.engine2.outcome }}
+        run: |
+          python3 - <<'PY'
+          import csv, json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          root = Path("ibb-maps-scraper")
+          def count(path):
+              if not path.exists() or not path.stat().st_size:
+                  return 0
+              try:
+                  with path.open(encoding="utf-8-sig", newline="") as f:
+                      return sum(1 for _ in csv.DictReader(f))
+              except Exception as e:
+                  print(f"Unable to read {path}: {e}")
+                  return 0
+          report = {
+              "run_id": os.getenv("RUN_ID", ""),
+              "generated_at_utc": datetime.now(timezone.utc).isoformat(),
+              "city": "Ibb, Yemen",
+              "query_count": 1,
+              "engine1_step_outcome": os.getenv("ENGINE1_OUTCOME", "unknown"),
+              "engine2_step_outcome": os.getenv("ENGINE2_OUTCOME", "unknown"),
+              "engine1_rows": count(root / "smoke_skill1.csv"),
+              "engine2_rows": count(root / "smoke_skill2.csv"),
+              "total_rows_before_deduplication": count(root / "smoke_skill1.csv") + count(root / "smoke_skill2.csv"),
+              "note": "One-query operational smoke test only; not a full city census."
+          }
+          (root / "smoke_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(json.dumps(report, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Upload smoke artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ibb-smoke-test
+          path: |
+            ibb-maps-scraper/smoke_skill1.csv
+            ibb-maps-scraper/smoke_skill2.csv
+            ibb-maps-scraper/smoke_report.json
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Commit smoke test results to this branch
+        if: always()
+        run: |
+          set -euo pipefail
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A ibb-maps-scraper/smoke_skill1.csv ibb-maps-scraper/smoke_skill2.csv ibb-maps-scraper/smoke_report.json
+          if git diff --cached --quiet; then
+            echo "No smoke outputs were produced."
+          else
+            git commit -m "Record Ibb scraper smoke-test results [skip ci]"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
