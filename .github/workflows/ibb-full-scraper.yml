@@ -1,0 +1,177 @@
+name: Ibb City Full Scraper (Dual Engine)
+
+on:
+  workflow_dispatch:
+    inputs:
+      grid_size:
+        description: "Grid size for the Mahanaicoach engine (1–10)"
+        required: true
+        default: "4"
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/ibb-full-scraper.yml"
+      - "ibb-maps-scraper/queries_ibb.txt"
+      - "ibb-maps-scraper/merge_results.py"
+      - "ibb-maps-scraper/README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ibb-city-scraper-\${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  scrape-ibb:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+    env:
+      GRID_SIZE: \${{ inputs.grid_size || '4' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate inputs and clear stale raw outputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! "$GRID_SIZE" =~ ^([1-9]|10)$ ]]; then
+            echo "::error::grid_size must be an integer from 1 to 10."
+            exit 1
+          fi
+          mkdir -p .work ibb-maps-scraper
+          # Prevent a failed engine from making last run's raw CSV look like fresh output.
+          rm -f ibb-maps-scraper/ibb_skill1_results.csv ibb-maps-scraper/ibb_skill2_results.csv
+          echo "Using grid size: $GRID_SIZE"
+
+      - name: "Engine 1 — start Mahanaicoach Docker API and scrape grid"
+        timeout-minutes: 200
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth 1 --branch master https://github.com/Mahanaicoach/google-maps-scraper-kit.git .work/google-maps-scraper-kit
+          cd .work/google-maps-scraper-kit
+          docker compose pull
+          docker compose up -d
+
+          healthy=0
+          for attempt in $(seq 1 60); do
+            if curl --fail --silent http://127.0.0.1:8080/api/v1/jobs >/dev/null; then
+              healthy=1
+              break
+            fi
+            sleep 5
+          done
+          if [[ "$healthy" != "1" ]]; then
+            docker compose ps || true
+            docker compose logs --tail=120 || true
+            echo "::error::Mahanaicoach scraper API did not become healthy."
+            exit 1
+          fi
+
+          cd "$GITHUB_WORKSPACE"
+          python3 .work/google-maps-scraper-kit/scripts/scrape.py \
+            --keywords-file "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_ibb.txt" \
+            --city "Ibb, Yemen" \
+            --grid "$GRID_SIZE" \
+            --depth 5 \
+            --max-time 600 \
+            --socials \
+            --full \
+            --out "$GITHUB_WORKSPACE/ibb-maps-scraper/ibb_skill1_results.csv"
+
+      - name: Stop Engine 1 cleanly
+        if: always()
+        shell: bash
+        run: |
+          if [[ -f .work/google-maps-scraper-kit/docker-compose.yml ]]; then
+            (cd .work/google-maps-scraper-kit && docker compose down -v) || true
+          fi
+
+      - name: "Engine 2 — run gosom CLI against Ibb radius"
+        timeout-minutes: 130
+        continue-on-error: true
+        shell: bash
+        run: |
+          set -euo pipefail
+          docker run --rm \
+            -v "$GITHUB_WORKSPACE/ibb-maps-scraper/queries_ibb.txt:/queries.txt:ro" \
+            -v "$GITHUB_WORKSPACE/ibb-maps-scraper:/out" \
+            gosom/google-maps-scraper:v1.18.1 \
+            -input /queries.txt \
+            -results /out/ibb_skill2_results.csv \
+            -geo "13.9667,44.1833" \
+            -radius 15000 \
+            -zoom 16 \
+            -depth 5 \
+            -c 2 \
+            -email \
+            -exit-on-inactivity 5m
+
+      - name: Merge and deduplicate results
+        if: always()
+        shell: bash
+        run: python3 ibb-maps-scraper/merge_results.py
+
+      - name: Upload raw results and database as an artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ibb-scraper-results-\${{ github.run_id }}
+          path: |
+            ibb-maps-scraper/ibb_skill1_results.csv
+            ibb-maps-scraper/ibb_skill2_results.csv
+            ibb-maps-scraper/ibb_city_complete_database.csv
+            ibb-maps-scraper/ibb_city_complete_database.json
+            ibb-maps-scraper/scrape_report.json
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Commit updated database and reports
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A ibb-maps-scraper
+          if git diff --cached --quiet; then
+            echo "No repository changes to commit."
+          else
+            git commit -m "Update Ibb businesses dataset [skip ci]"
+            git push origin "HEAD:\${GITHUB_REF_NAME}"
+          fi
+
+      - name: Verify this run produced usable records
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! -s ibb-maps-scraper/scrape_report.json ]]; then
+            echo "::error::No scrape report was generated."
+            exit 1
+          fi
+          python3 - <<'PY'
+          import json, sys
+          from pathlib import Path
+          p = Path("ibb-maps-scraper/scrape_report.json")
+          report = json.loads(p.read_text(encoding="utf-8"))
+          current = int(report.get("current_run_rows_before_deduplication", 0))
+          total = int(report.get("final_unique_rows", 0))
+          print(f"Rows from this run: {current}")
+          print(f"Unique records in database: {total}")
+          print(f"New unique records: {report.get('new_unique_rows_added', 0)}")
+          if current <= 0 or total <= 0:
+              print("::error::The run produced no usable business rows. Inspect engine logs and the report.")
+              sys.exit(1)
+          PY
