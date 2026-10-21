@@ -2534,8 +2534,8 @@
   "storem.yrbso.app": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T01:20:28.650321+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T06:41:35.347568+00:00"
   },
   "nano2soft.com": {
     "status": "ok",
@@ -2575,14 +2575,14 @@
   "almohallel.yemoney.net": {
     "status": "http_302",
     "robots_status": "robots_not_found",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T01:20:36.237211+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T06:41:44.225416+00:00"
   },
   "cashmobily.yemoney.net": {
     "status": "http_302",
     "robots_status": "robots_not_found",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T01:20:43.810877+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T06:41:53.150509+00:00"
   },
   "balsamcenters.com": {
     "status": "robots_disallowed",
@@ -2876,8 +2876,8 @@
   "amr.yemoney.net": {
     "status": "http_302",
     "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-21T01:21:25.643627+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T06:42:02.944249+00:00"
   },
   "maps.apple": {
     "status": "ok",
@@ -3069,5 +3069,538 @@
       "facebook": "https://www.facebook.com/codstanhq",
       "linkedin": ""
     }
+  },
+  "waheb.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.hugedomains.com/domain_profile.cfm",
+    "checked_at_utc": "2026-10-21T06:42:04.407652+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "1-303-893-0552"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
+        "https://www.hugedomains.com/domain_profile.cfm",
+        "https://static.hugedomains.com/images/hdv3-img/hd-header-logo-v3.svg",
+        "https://static.hugedomains.com/images/hdv3-img/phone-icon-white.png",
+        "https://static.hugedomains.com/images/hdv3-img/phone-icon.png",
+        "https://static.hugedomains.com/images/hdv3-img/favorite-header.png",
+        "https://static.hugedomains.com/images/hdv3-img/cart.png",
+        "https://static.hugedomains.com/images/hdv3-img/30daysmallico.png",
+        "https://static.hugedomains.com/images/hdv3-img/roket-side-ico.png",
+        "https://static.hugedomains.com/images/hdv3-img/safesmallico.png",
+        "https://static.hugedomains.com/images/hdv3-img/zero-side-ico.png",
+        "https://static.hugedomains.com/images/hdv3-img/mail-icon.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alhopishi.yoo7.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://alhopishi.rigala.net/",
+    "checked_at_utc": "2026-10-21T06:42:07.719988+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "محلات فايزعبدالله غانم الحبيشي",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://i.servimg.com/u/f45/17/35/61/70/3uouoo10.jpg",
+        "https://alhopishi.rigala.net/",
+        "https://i.servimg.com/u/f12/17/35/61/70/oooooo10.jpg",
+        "https://i.servimg.com/u/f45/17/35/61/70/th/img_0024.jpg",
+        "https://2img.net/i/fa/empty.gif"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "kicye.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://kicye.com/",
+    "checked_at_utc": "2026-10-21T06:42:12.576138+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "+9671513901",
+        "+9671510788"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://kicye.com/wp-content/uploads/2020/03/logo.png",
+        "http://kicye.com/",
+        "http://kicye.com/wp-content/uploads/2020/03/home_table_background_slider_1.jpg",
+        "http://kicye.com/wp-content/uploads/2020/03/home_table_background_slider_2.jpg",
+        "http://kicye.com/wp-content/uploads/2020/03/clean-pink-dentist-surgery-69686-1.jpg",
+        "http://kicye.com/about-us/",
+        "http://kicye.com/wp-content/uploads/2020/03/classic-close-up-draw-expensive-372748-1024x768.jpg",
+        "http://kicye.com/wp-content/uploads/2020/03/classic-close-up-draw-expensive-372748-200x150.jpg",
+        "http://kicye.com/wp-content/uploads/2020/03/brown-framed-eyeglasses-905163-1024x669.jpg",
+        "http://kicye.com/wp-content/uploads/2020/03/brown-framed-eyeglasses-905163-200x131.jpg",
+        "http://kicye.com/wp-content/uploads/2020/04/sun-natural-logo-200x200.jpg",
+        "http://kicye.com/wp-content/uploads/2020/03/sama-pharmaceutical-manufactring-Company-200x200.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/kazenye/",
+      "linkedin": ""
+    }
+  },
+  "integraltrd.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://www.integraltrd.com/",
+    "checked_at_utc": "2026-10-21T06:42:16.830980+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://www.integraltrd.com/",
+        "http://www.integraltrd.com/images/logo.jpg",
+        "http://www.integraltrd.com/images/arabic.png",
+        "http://www.integraltrd.com/images/Home_page-001.jpg",
+        "http://www.integraltrd.com/images/welcome_03.jpg",
+        "http://www.integraltrd.com/images/welcome_04.jpg",
+        "http://www.integraltrd.com/ar/images/welcome_06.jpg",
+        "http://www.integraltrd.com/images/location.jpg",
+        "http://www.integraltrd.com/about/integral-ltd/welcome-speech.html",
+        "http://www.integraltrd.com/images/ceo-massage.jpg",
+        "http://www.integraltrd.com/images/promotion1.jpg"
+      ],
+      "instagram": "",
+      "facebook": "http://www.facebook.com/itcscanner/",
+      "linkedin": ""
+    }
+  },
+  "sharebbrothers.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://sharebbrothers.com/ar",
+    "checked_at_utc": "2026-10-21T06:42:38.448671+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@sharebbrothers.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://sharebbrothers.com/images/logo1-2.png",
+        "https://sharebbrothers.com/ar",
+        "https://sharebbrothers.com/images/logo/logo2025-small-ar.png",
+        "https://sharebbrothers.com/media/mod_languages/images/en_gb.gif",
+        "https://sharebbrothers.com/images/slider25/07.jpg",
+        "https://sharebbrothers.com/images/slider25/08.jpg",
+        "https://sharebbrothers.com/images/slider25/01.jpg",
+        "https://sharebbrothers.com/images/slider25/02.jpg",
+        "https://sharebbrothers.com/images/slider25/03.jpg",
+        "https://sharebbrothers.com/images/slider25/04.jpg",
+        "https://sharebbrothers.com/images/slider25/05.jpg",
+        "https://sharebbrothers.com/images/slider25/06.jpg"
+      ],
+      "instagram": "https://www.instagram.com/shareb_brothers",
+      "facebook": "https://www.facebook.com/SHAREBBROTHERS/",
+      "linkedin": ""
+    }
+  },
+  "now-ye.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://now-ye.com/ar",
+    "checked_at_utc": "2026-10-21T06:42:41.952488+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@nano2soft.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://now-ye.com/storage/app/uploads/public/66a/62d/e59/66a62de59b209256515298.jpg",
+        "https://now-ye.com/ar",
+        "https://now-ye.com/storage/app/media/en_badge_web_generic.png",
+        "https://now-ye.com/storage/app/media/app-store.png",
+        "https://now-ye.com/storage/app/media/app_icon/apppure_apk_icon3.jpeg",
+        "https://now-ye.com/storage/app/media/download_app.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "yemenmobile.com.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://yemenmobile.com.ye/",
+    "checked_at_utc": "2026-10-21T06:42:53.974012+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "تطبيقات",
+      "website_emails": [
+        "info@yemenmobile.com.ye"
+      ],
+      "website_phones": [
+        "777777777"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://yemenmobile.com.ye/uploads/logo/logo_66a2bcaf7062b2-89265318.svg",
+        "https://yemenmobile.com.ye/",
+        "https://yemenmobile.com.ye/assets/img/img_bg_md.png"
+      ],
+      "instagram": "https://instagram.com/yemenmobileYe1",
+      "facebook": "https://facebook.com/yemenmobile.com.ye",
+      "linkedin": "https://linkedin.com/company/yemenmobile"
+    }
+  },
+  "saljah.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T06:42:55.038086+00:00"
+  },
+  "ktrah.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T06:42:56.080150+00:00"
+  },
+  "msf.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.msf.org/",
+    "checked_at_utc": "2026-10-21T06:43:01.425776+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.msf.org/themes/custom/msf_theme/ogimage.jpg",
+        "https://www.msf.org/",
+        "https://www.msf.org/sites/default/files/images/medical-activities.jpg",
+        "https://www.msf.org/sites/default/files/images/crisis-settings.jpg",
+        "https://www.msf.org/sites/default/files/images/in-focus.jpg",
+        "https://img.msf.org/AssetLink/7y40jk38w8rl1e00xgmy24bymgf2gw02.jpg",
+        "https://img.msf.org/AssetLink/65a3s172l82415e168783y855763j2dh.jpg",
+        "https://img.msf.org/AssetLink/308gt01tgbltkc02b66jkg7ru3d75apw.jpg",
+        "https://www.msf.org/themes/custom/msf_theme/src/kss/components/image/assets/bg-transparent.png",
+        "https://img.msf.org/AssetLink/5y824841s5054434jy8kj047b4f4t7jd.jpg",
+        "https://img.msf.org/AssetLink/pm3tf4mw8h8w18k55l72rn0cy30f2iha.jpg",
+        "https://img.msf.org/AssetLink/aqq3617i40aro4f23m8i352472t5503i.jpg"
+      ],
+      "instagram": "https://www.instagram.com/doctorswithoutborders/",
+      "facebook": "https://www.facebook.com/msfinternational/",
+      "linkedin": "https://www.linkedin.com/company/m-decins-sans-fronti-res-msf-/"
+    }
+  },
+  "zoom.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.zoom.com/",
+    "checked_at_utc": "2026-10-21T06:43:09.025899+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "+18887999666",
+        "18887999666",
+        "+1.888.303.1012"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/images/thumb.png",
+        "https://www.zoom.com/",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/ai-companion-icon.svg",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/app-store-icon.webp",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/play-store-icon.webp",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/icons/abcloseicon.png",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/meetings.jpg",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/my-notes-hp-card.webp",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/ZoomMate.webp",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/AI-suite.webp",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/phone.jpg",
+        "https://st1.zoom.us/homepage/20261014-1234/primary/dist/assets/zoommedia/web.jpg"
+      ],
+      "instagram": "https://www.instagram.com/zoom/",
+      "facebook": "https://www.facebook.com/zoom",
+      "linkedin": "https://www.linkedin.com/company/zoom/"
+    }
+  },
+  "wfp.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.wfp.org:443/",
+    "checked_at_utc": "2026-10-21T06:43:13.267009+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "UN World Food Programme (WFP)",
+      "website_emails": [
+        "wfp.media@wfp.org",
+        "raheela.mahomed@wfp.org",
+        "rene.mcguffin@wfp.org",
+        "nina.mccarthyhartman@wfp.org",
+        "martin.rentsch@wfp.org",
+        "nina.valente@wfp.org",
+        "caroline.vannespen@wfp.org",
+        "haolan.hong@wfp.org"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.wfp.org/sites/default/files/2021-10/Our-Work_WFP-Fredrik-Lerneryd.jpg",
+        "https://www.wfp.org:443/",
+        "https://cdn.wfp.org/guides/ui/assets/v0.0.1/logos/vertical/en/wfp-logo-vertical-white-en.svg",
+        "https://www.wfp.org:443/themes/custom/wfp_org/templates/patterns/menu/images/close--black.svg",
+        "https://www.wfp.org/sites/default/files/video/2026-10/WF11234417%20WFD2026_SSD_Mobile.mp4.mp4",
+        "https://www.wfp.org/sites/default/files/video/2026-10/WF11234418%20WFD2026_SSD_Desktop.mp4.mp4",
+        "https://www.wfp.org/sites/default/files/video/2026-10/WF11230630%20Yemen_October_Mobile_0.mp4",
+        "https://www.wfp.org/sites/default/files/video/2026-10/WF11230629%20Yemen_October_Desktop_0.mp4",
+        "https://www.wfp.org:443/sites/default/files/styles/hero_mobile_xs/public/2026-10/UA_Frontline_Photo3.webp?itok=YJxUullK",
+        "https://www.wfp.org:443/sites/default/files/styles/hero_mobile_xs/public/2026-10/UA_Frontline_Photo3.jpeg?itok=YJxUullK",
+        "https://www.wfp.org:443/sites/default/files/styles/max_width_300/public/images/news/WF11229021%2020260915_WFP_Mohamed%20Hinnawi_Gaza_Siham%20Al-Fayoumi%E2%80%99s%20Story%20%E2%80%93%20Supported%20by%20Canadian%20Assistance_INA6468_edited.webp?itok=xyTxoc1O",
+        "https://www.wfp.org:443/sites/default/files/styles/max_width_300/public/images/news/WF11229021%2020260915_WFP_Mohamed%20Hinnawi_Gaza_Siham%20Al-Fayoumi%E2%80%99s%20Story%20%E2%80%93%20Supported%20by%20Canadian%20Assistance_INA6468_edited.jpg?itok=xyTxoc1O"
+      ],
+      "instagram": "https://www.instagram.com/Worldfoodprogramme/",
+      "facebook": "https://www.facebook.com/WorldFoodProgramme",
+      "linkedin": "https://www.linkedin.com/company/world-food-programme"
+    }
+  },
+  "mfddoors.business.site": {
+    "status": "http_404",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T06:43:14.653867+00:00"
+  },
+  "mawdoo3.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://mawdoo3.com/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D9%85%D9%88%D9%82%D8%B9_%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A",
+    "checked_at_utc": "2026-10-21T06:43:17.546110+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://modo3.com/thumbs/fit630x300/30137/1437545701/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D9%85%D9%88%D9%82%D8%B9_%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A.jpg",
+        "https://mawdoo3.com/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D9%85%D9%88%D9%82%D8%B9_%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A",
+        "https://modo3.com/thumbs/fit630x300/30137/1437545701/إنشاء_موقع_إلكتروني.jpg",
+        "https://mawdoo3.com/assets/images/category-avatar.png",
+        "https://modo3.com/logo.gif",
+        "https://mawdoo3.com/About_Us",
+        "https://mawdoo3.com/assets/images/about-us/about-us-header.WebP",
+        "https://mawdoo3.com/assets/images/about-us/AI.svg",
+        "https://mawdoo3.com/assets/images/about-us/mawdoo3-ai.svg",
+        "https://mawdoo3.com/assets/images/about-us/arrow-right.svg",
+        "https://mawdoo3.com/assets/images/about-us/qalam.svg",
+        "https://mawdoo3.com/assets/images/about-us/media-news-1.WebP"
+      ],
+      "instagram": "https://instagram.com/Mawdoo3",
+      "facebook": "https://www.facebook.com/mawdoo3",
+      "linkedin": "https://www.linkedin.com/company/mawdoo3-com"
+    }
+  },
+  "gmail.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T06:43:18.618891+00:00"
+  },
+  "teleyemen.com.ye": {
+    "status": "http_404",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T06:43:24.820354+00:00"
+  },
+  "sababank.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://www.sababank.com/",
+    "checked_at_utc": "2026-10-21T06:43:27.195156+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://www.sababank.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alshaibany.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alshaibany.com/ar",
+    "checked_at_utc": "2026-10-21T06:43:30.936782+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Al-Shaibany Restaurants",
+      "website_emails": [
+        "u0022sanaa@alshaibany.com"
+      ],
+      "website_phones": [],
+      "website_address": "Riyadh, SA",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alshaibany.com/assets/images/logo1.png",
+        "https://www.alshaibany.com/ar",
+        "https://www.alshaibany.com/assets/images/al-shibani-background-01-01.png",
+        "https://www.alshaibany.com/assets/images/logo1-2.png",
+        "https://www.alshaibany.com/assets/images/logo4.png",
+        "https://www.alshaibany.com/storage/site/opt_69de2c455f9d17.14672274.webp",
+        "https://www.alshaibany.com/storage/site/opt_69de2c4575b1c2.03711503.webp",
+        "https://www.alshaibany.com/storage/site/opt_69de2c45b6acb4.27164532.webp",
+        "https://www.alshaibany.com/storage/about/opt_69e385f40d14e3.18875493.webp",
+        "https://www.alshaibany.com/storage/spaces/opt_69de2c4939ad31.20681785.webp",
+        "https://www.alshaibany.com/storage/spaces/opt_69de2c49ab1e79.37277745.webp",
+        "https://www.alshaibany.com/storage/spaces/opt_69de2c4a161a71.42888504.webp"
+      ],
+      "instagram": "https://instagram.com/alshaibani.corp",
+      "facebook": "https://www.facebook.com/Alshaibani1.Corp",
+      "linkedin": ""
+    }
+  },
+  "discoverasr.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.discoverasr.com/en/citadines/saudi-arabia/citadines-abha",
+    "checked_at_utc": "2026-10-21T06:43:33.151991+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Citadines Abha",
+      "website_emails": [
+        "enquiry.abha@-ascott.com",
+        "enquiry.abha@the-ascott.com"
+      ],
+      "website_phones": [
+        "+966 11 834 9647"
+      ],
+      "website_address": "King Fahed road, Abha 6567\t, Abha, SA",
+      "website_opening_hours": "",
+      "website_latitude": "18.2407009",
+      "website_longitude": "42.6072625",
+      "website_images": [
+        "https://www.discoverasr.com/content/dam/tal/common/assets/logos/Stay-Your-Way_Assets_Web_Discoverasr.com-Thumbnail-OG-Image_1200x630px.jpg",
+        "https://www.discoverasr.com/en/citadines/saudi-arabia/citadines-abha",
+        "https://www.discoverasr.com/content/dam/tal/media/images/properties/saudi-arabia/abha/citadines-abha/overview/SR_Cit-Abha_Saudi-Arabia_-Studio-DLX_Bedroom_2_HR_2880x860.jpg.transform/ascott-highres/image.jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/general/ia_pic/Brand%20logo%20ASR%202.svg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/homepage-banner/navigation-menu/EN.jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/brands/ascott10-100.jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/brands/The-Ascott/the-ascott-limited/web-13-01.jpg",
+        "https://www.discoverasr.com/content/dam/tal/lyf/brand%201%20(1).jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/brands/oakwood/Oakwood-discover-our-brands-header.jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/brands/The-Ascott/the-ascott-limited/Somerset2.jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/brands/The-Ascott/the-ascott-limited/web-11-01.jpg",
+        "https://www.discoverasr.com/content/dam/tal/media/images/brands/TUC2323-2-100.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "msharefalmoden.com.sa": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://msharefalmoden.com.sa/AboutUs",
+    "checked_at_utc": "2026-10-21T06:43:38.861070+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@msharefalmoden.com.sa"
+      ],
+      "website_phones": [
+        "+966534318383",
+        "0173700095",
+        "0172277279",
+        "+920007506"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://msharefalmoden.com.sa/AboutUs",
+        "https://msharefalmoden.com.sa/Content/ImagesLibirary/MainLibirayIMAG/logo1.PNG",
+        "https://msharefalmoden.com.sa/\\Content\\ImagesLibirary\\HotelGalleryIMG\\11.jpg",
+        "https://msharefalmoden.com.sa/Content/ImagesLibirary/HotelGalleryIMG/photo1702712309.jpeg",
+        "https://msharefalmoden.com.sa/\\Content\\ImagesLibirary\\HotelGalleryIMG\\22.jpg",
+        "https://msharefalmoden.com.sa/\\Content\\ImagesLibirary\\HotelGalleryIMG\\33.jpg",
+        "https://assets.salla.cloud/themes/default/assets/images/mada.png?v=v1.4.272",
+        "https://assets.salla.cloud/themes/default/assets/images/cc.png?v=v1.4.272",
+        "https://assets.salla.cloud/themes/default/assets/images/stcpay.png?v=v1.4.272",
+        "https://msharefalmoden.com.sa/ContactUs"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "shebahotel.com": {
+    "status": "http_404",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T06:43:41.159893+00:00"
   }
 }
