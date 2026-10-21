@@ -3416,8 +3416,8 @@
   "mfddoors.business.site": {
     "status": "http_404",
     "robots_status": "robots_not_found",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T12:25:13.037326+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T17:49:25.508442+00:00"
   },
   "mawdoo3.com": {
     "status": "ok",
@@ -3461,8 +3461,8 @@
   "teleyemen.com.ye": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T12:25:16.256146+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T17:49:28.336969+00:00"
   },
   "sababank.com": {
     "status": "ok",
@@ -3600,8 +3600,8 @@
   "shebahotel.com": {
     "status": "http_404",
     "robots_status": "robots_not_found",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T12:25:18.747871+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T17:49:29.971433+00:00"
   },
   "ryanaabha.com": {
     "status": "skipped_unsafe_url",
@@ -3911,8 +3911,8 @@
   "extrapharma.co.com": {
     "status": "http_403",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-21T12:26:27.704262+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T17:49:31.584887+00:00"
   },
   "alwatadpharma.com": {
     "status": "robots_disallowed",
@@ -4001,10 +4001,35 @@
     "checked_at_utc": "2026-10-21T12:26:38.615419+00:00"
   },
   "essam-net-2025.blogspot.com": {
-    "status": "http_429",
-    "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-21T12:26:40.659762+00:00"
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://essam-net-2025.blogspot.com/",
+    "checked_at_utc": "2026-10-21T17:49:34.235180+00:00",
+    "attempts": 2,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOkyVOpbaCyIhDtgYLq3Yk-6Q1pGPB8-yKlhv68w5Rr4rJrno2MZ4Q0rXo8t21OjEERxcSGtoAu6UL8WTQyo3fD6obiR9yMTXpclwZgWPvxUmCluje100vE43DVPcoi7d9w-o1bietdicDGDmaRSSmwDjlKkfNqjFFreTofz_xGW3UZ4RDOC-NHRt0gvo/w1280-h720-p-k-no-nu/22480.jpg",
+        "https://essam-net-2025.blogspot.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5dI1D821-7dRWd0XQEHYUFKs-_qvhq3i0omNxnrc4JTWsvqQrkSjseR7PZi6i3VvznOHPTiTetj3QdlUeDUB_kurZwszDheSEzcawooi78hlcfvnSi5AI_G4FCs_r3tNaNzkQobWv7guWGTWoQ-tDOoEznuZphv9sv53-nz__zzDzfFecTETteVX_wos/w1280-h720-p-k-no-nu/22455.png",
+        "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tLnIN_Z0BVVegDEZUYOZb3y7QOpl1DEAMq0TPfEFPPMS9g9tHzqfqfDi5YmbrfSoS-TZ5ccCOV7hNeqPLWKS322Hr9FLJXxbVxIhPSh-QvI9BV4evLln0AYV2022v1E1wsJRPQy2GyjHglI9ATJUc6R55ncRmfBnXfOWAn2KU6=w1280-h720-p-k-no-nu",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwsNA5CX9RzPjdODCR4hR2D-uoXj-11oG7Ut-fiIn3RTyJLnKBnYN2RNcFmdFVVH1zMNQuQ4a5pBYA1oPLsf8Q5xAAMLHvNyAmBH5-BcztIVur2MXOTFqZ2fvZxaBsbM1Bmjs2L8B0zd8-n7sCgD2D51O7cLrhpaCCFsv71oUQVi4ZB8lSLxlU0pkZYqI/w1280-h720-p-k-no-nu/22353.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOkyVOpbaCyIhDtgYLq3Yk-6Q1pGPB8-yKlhv68w5Rr4rJrno2MZ4Q0rXo8t21OjEERxcSGtoAu6UL8WTQyo3fD6obiR9yMTXpclwZgWPvxUmCluje100vE43DVPcoi7d9w-o1bietdicDGDmaRSSmwDjlKkfNqjFFreTofz_xGW3UZ4RDOC-NHRt0gvo/w1600/22480.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5dI1D821-7dRWd0XQEHYUFKs-_qvhq3i0omNxnrc4JTWsvqQrkSjseR7PZi6i3VvznOHPTiTetj3QdlUeDUB_kurZwszDheSEzcawooi78hlcfvnSi5AI_G4FCs_r3tNaNzkQobWv7guWGTWoQ-tDOoEznuZphv9sv53-nz__zzDzfFecTETteVX_wos/w1600/22455.png",
+        "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tLnIN_Z0BVVegDEZUYOZb3y7QOpl1DEAMq0TPfEFPPMS9g9tHzqfqfDi5YmbrfSoS-TZ5ccCOV7hNeqPLWKS322Hr9FLJXxbVxIhPSh-QvI9BV4evLln0AYV2022v1E1wsJRPQy2GyjHglI9ATJUc6R55ncRmfBnXfOWAn2KU6=w1600",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwsNA5CX9RzPjdODCR4hR2D-uoXj-11oG7Ut-fiIn3RTyJLnKBnYN2RNcFmdFVVH1zMNQuQ4a5pBYA1oPLsf8Q5xAAMLHvNyAmBH5-BcztIVur2MXOTFqZ2fvZxaBsbM1Bmjs2L8B0zd8-n7sCgD2D51O7cLrhpaCCFsv71oUQVi4ZB8lSLxlU0pkZYqI/w1600/22353.png",
+        "https://essam-net-2025.blogspot.com/p/about-us.html"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   },
   "almansob.com": {
     "status": "ok",
@@ -4027,5 +4052,129 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "essamcentralpharmaciess.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://essamcentralpharmaciess.com/",
+    "checked_at_utc": "2026-10-21T17:49:35.762286+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://essamcentralpharmaciess.com/",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/الشعار-عصام-المركزيه2.png",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/q4.jpg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/q3.jpg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/pharma-company-template-product-img-1024x478-1.jpeg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-06-at-07.50.50_f76d2849.jpg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/g89405db4580e4d8ea3896397c44d937f1f4bd007b340c8e0a5ee796500691d17a3d47238423246b7147dc2fc0e629b52_1280-590490.jpg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/zz-teammember.jpg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/g7b7de3cf987de59f3360504c2028c93eb980f668838eb3315ecb214eb6a1a613ff9afe187ded17b06bfe93e8be7722fb_1280-320868.jpg",
+        "https://essamcentralpharmaciess.com/wp-content/uploads/2025/07/pexels-photo-4021775-4021775-scaled.jpg"
+      ],
+      "instagram": "https://www.instagram.com/ahmed_hassan_772266990?igsh=YzljYTk1ODg3Zg==",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "grandivahotelabha.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.grandivahotelabha.com/",
+    "checked_at_utc": "2026-10-21T17:49:41.695912+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Grand Iva Hotel, Abha",
+      "website_emails": [
+        "info@grandivahotelabha.com"
+      ],
+      "website_phones": [
+        "+966 17 285 9996"
+      ],
+      "website_address": "7118, 5429, Abu Huraira Road, Abha, Kingdom of Saudi Arabia - 62527, Abha, 195",
+      "website_opening_hours": "",
+      "website_latitude": "18.213533750063558",
+      "website_longitude": "42.562688161294545",
+      "website_images": [
+        "https://assets.simplotel.com/simplotel/image/upload/x_11,y_0,w_2730,h_1536,r_0,c_crop/q_80,w_900,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/exterior-at-dusk-1",
+        "https://www.grandivahotelabha.com/",
+        "https://assets.simplotel.com/simplotel/image/upload/x_0,y_150,w_1753,h_1216,r_0,c_crop,q_80,dpr_1,f_auto,fl_progressive/w_355,h_200,f_auto,c_fit/grand-iva-hotel-abha/grand-iva-hotel-logo",
+        "https://assets.simplotel.com/simplotel/image/upload/x_704",
+        "https://assets.simplotel.com/simplotel/image/upload/x_223,y_0,w_3794,h_2832,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/Standard_Twin1_0f269a09",
+        "https://assets.simplotel.com/simplotel/image/upload/x_223,y_0,w_3794,h_2832,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/Standard_Single,_34_sqm,_2_Adults,_2_children_434a177d",
+        "https://assets.simplotel.com/simplotel/image/upload/w_5000",
+        "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3320/x_276,y_0,w_4448,h_3320,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/room0_9c0018cd",
+        "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3332/x_268,y_0,w_4464,h_3332,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/junior-suite-bedroom-2",
+        "https://assets.simplotel.com/simplotel/image/upload/x_223,y_0,w_3794,h_2832,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/Junior_Suite_1,_42_sqm,_2_adults,_4_children_d83fa6aa",
+        "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3331/x_838,y_0,w_3324,h_3331,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/nahraan-restaurant-seating",
+        "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_2700/x_1153,y_0,w_2694,h_2700,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/grand-iva-hotel-abha/coffee_area1_268dd48d"
+      ],
+      "instagram": "https://www.instagram.com/grand_iva.hotel?igsh=ZmFtcWFlNzR1Z2Ns",
+      "facebook": "https://www.facebook.com/people/Grand-Iva-Hotel-Abha/61583613765251/",
+      "linkedin": ""
+    }
+  },
+  "yastakaful.ae": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.yastakaful.ae/",
+    "checked_at_utc": "2026-10-21T17:49:44.470587+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "800889"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.yastakaful.ae/coming-soon.jpg",
+        "https://www.yastakaful.ae/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "wa.link": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://api.whatsapp.com/send",
+    "checked_at_utc": "2026-10-21T17:49:46.203925+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://pps.whatsapp.net/v/t61.24694-24/560054460_24590054930655678_3893074188861722569_n.jpg?ccb=11-4&oh=01_Q5Aa5wEeAQvEVC-XOMRXK0tK9JzQNtk5DV1QpBqJQVz_aXWn7A&oe=6ADCD165&_nc_sid=5e03e0&_nc_cat=105",
+        "https://api.whatsapp.com/send",
+        "https://static.whatsapp.net/rsrc.php/yM/r/ys-5GPT4pwS.svg",
+        "https://static.whatsapp.net/rsrc.php/yJ/r/twC7frrXavH.svg"
+      ],
+      "instagram": "https://www.instagram.com/whatsapp/?hl=en",
+      "facebook": "https://www.facebook.com/brand/resources/whatsapp/whatsapp-brand",
+      "linkedin": ""
+    }
+  },
+  "strikingly.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T17:49:48.230086+00:00"
   }
 }
