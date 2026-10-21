@@ -3911,8 +3911,8 @@
   "extrapharma.co.com": {
     "status": "http_403",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T17:49:31.584887+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T21:18:11.643471+00:00"
   },
   "alwatadpharma.com": {
     "status": "robots_disallowed",
@@ -4176,5 +4176,111 @@
     "robots_status": "robots_ok",
     "attempts": 1,
     "checked_at_utc": "2026-10-21T17:49:48.230086+00:00"
+  },
+  "hawtapalacehotel.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://hawtapalacehotel.com/",
+    "checked_at_utc": "2026-10-21T21:18:14.683256+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "",
+        "info@hawtapalachotel.com",
+        "info@hawtapalacehotel.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://hawtapalacehotel.com/",
+        "https://hawtapalacehotel.com/contact/"
+      ],
+      "instagram": "https://www.instagram.com/hawta.palace.hotel",
+      "facebook": "https://www.facebook.com/HawtaPalaceHotel",
+      "linkedin": ""
+    }
+  },
+  "bin-afif.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://bin-afif.com/",
+    "checked_at_utc": "2026-10-21T21:18:23.606482+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "مركز بن عفيف لصيانة الأجهزة الإلكترونية",
+      "website_emails": [],
+      "website_phones": [
+        "+967782640934",
+        "+96702353743",
+        "+967776456711",
+        "+967778167011",
+        "+967770000000"
+      ],
+      "website_address": "شارع القصر الخلفي, المنصورة, عدن, YE",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.binafifcenter.com/logo.png",
+        "https://bin-afif.com/",
+        "https://bin-afif.com/logo.png",
+        "https://bin-afif.com/img/1.jpg",
+        "https://bin-afif.com/img/deye-inverter.jpg",
+        "https://bin-afif.com/img/networks-devices.jpg",
+        "https://bin-afif.com/img/starlink-center.jpg",
+        "https://bin-afif.com/img/cctv-dvr.jpg",
+        "https://bin-afif.com/img/lithium-battery.jpg",
+        "https://bin-afif.com/img/router.jpg",
+        "https://bin-afif.com/about.html",
+        "https://bin-afif.com/img/network-experts.jpg"
+      ],
+      "instagram": "https://www.instagram.com/bin.afif.centre",
+      "facebook": "https://www.facebook.com/Bin.Afif.Centre",
+      "linkedin": ""
+    }
+  },
+  "fayaznage.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T21:18:24.669157+00:00"
+  },
+  "bps-sec.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://bps-sec.com/",
+    "checked_at_utc": "2026-10-21T21:18:30.557205+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@bps-sec.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://bps-sec.com/./webImages/hero.jpg",
+        "https://bps-sec.com/",
+        "https://bps-sec.com/storage/image/4wZBCPhGS9oiL8X0a8QizO9vOupFnz1nZnjRpAzJ.svg",
+        "https://bps-sec.com/storage/image/sD3xcpNBBt8IzAWVu4t9NLVcd0FLEDpPOm9MqBFe.svg",
+        "https://bps-sec.com/./webImages/logo_light.svg",
+        "https://bps-sec.com/./webImages/logo_dark.svg",
+        "https://bps-sec.com/./webImages/dotted-arrow.svg",
+        "https://bps-sec.com/./webImages/dotted-arrow-reverse.svg",
+        "https://bps-sec.com/storage/image/vRVi8VjYqQmg2zyeTithycEobnMGO3kY169XdF7r.png",
+        "https://bps-sec.com/storage/image/2jVCmTOTvfOqgswycFupk9M57v1h7ShlKqNoWhVQ.png",
+        "https://bps-sec.com/storage/image/hm8wCDomM2zi1VYrcrrb1Am8C36BJsmRAUYad9sx.jpg",
+        "https://bps-sec.com/storage/image/wtj945MEQwkQL9ObJztGzP5b1Rn1cr8zdwlkLZOZ.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/company/brain-power-security"
+    }
   }
 }
