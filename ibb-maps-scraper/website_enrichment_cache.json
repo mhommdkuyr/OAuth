@@ -1540,8 +1540,8 @@
   "snapchat.com": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-20T22:58:01.175827+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T01:20:26.866661+00:00"
   },
   "maps.app.goo.gl": {
     "status": "robots_disallowed",
@@ -2534,8 +2534,8 @@
   "storem.yrbso.app": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T22:59:28.730986+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T01:20:28.650321+00:00"
   },
   "nano2soft.com": {
     "status": "ok",
@@ -2575,13 +2575,499 @@
   "almohallel.yemoney.net": {
     "status": "http_302",
     "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-20T22:59:42.489094+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T01:20:36.237211+00:00"
   },
   "cashmobily.yemoney.net": {
     "status": "http_302",
     "robots_status": "robots_not_found",
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T01:20:43.810877+00:00"
+  },
+  "balsamcenters.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
     "attempts": 1,
-    "checked_at_utc": "2026-10-20T23:00:22.346535+00:00"
+    "checked_at_utc": "2026-10-21T01:20:45.290294+00:00"
+  },
+  "k-azm.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://k-azm.com/",
+    "checked_at_utc": "2026-10-21T01:20:52.319739+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@k-azm.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://k-azm.com/",
+        "https://k-azm.com/wp-content/uploads/2022/09/cropped-شعار-خطوة-برتقالي-قوي-بدون-خلفية-2-130x149.png",
+        "https://k-azm.com/wp-content/uploads/2023/07/بوستر-للموقع-الإلكتروني-خطوة-عزم-1-724x1024.jpg",
+        "https://k-azm.com/wp-content/uploads/2022/09/Screenshot-2022-09-25-at-01-21-24-خطوة-عزم-للعلاج-الطبيعي-صنعاء-بحث-Google.png",
+        "https://k-azm.com/wp-content/uploads/2022/09/Screenshot-2022-09-25-at-01-20-59-خطوة-عزم-للعلاج-الطبيعي-صنعاء-بحث-Google.png",
+        "https://k-azm.com/wp-content/uploads/2022/09/Screenshot-2022-09-25-at-01-20-21-خطوة-عزم-للعلاج-الطبيعي-صنعاء-بحث-Google.png",
+        "https://k-azm.com/wp-content/uploads/2022/09/close-up-physiotherapist-working-with-patient-clinic-1-1024x683.jpg",
+        "https://k-azm.com/wp-content/uploads/2023/07/IMG-20230605-WA0024.jpg",
+        "https://k-azm.com/wp-content/uploads/2023/07/IMG-20230605-WA0009.jpg",
+        "https://k-azm.com/wp-content/uploads/2023/07/IMG-20230605-WA0001-1024x768.jpg",
+        "https://k-azm.com/wp-content/uploads/2023/07/IMG-20230605-WA0030-1024x683.jpg",
+        "https://k-azm.com/wp-content/uploads/2023/07/IMG-20230605-WA0026-1024x576.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "albdoieclinic.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.albdoieclinic.com/",
+    "checked_at_utc": "2026-10-21T01:20:54.922332+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "عيادة الدكتور عادل أحمد البدوي للعظام والمفاصل",
+      "website_emails": [],
+      "website_phones": [
+        "+967711140944"
+      ],
+      "website_address": "شارع العدين، مقابل مختبرات الرواد، جانب فندق نشوان, Ibb, Ibb Governorate, 00000, YE",
+      "website_opening_hours": "[{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Saturday\", \"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\"], \"opens\": \"08:00\", \"closes\": \"12:30\"}, {\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Saturday\", \"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\"], \"opens\": \"14:00\", \"closes\": \"18:30\"}]",
+      "website_latitude": "13.974031",
+      "website_longitude": "44.17113",
+      "website_images": [
+        "https://albdoieclinic.com/asset/dark green logo.png",
+        "https://www.albdoieclinic.com/",
+        "https://albdoieclinic.com/asset/dark%20green%20logo.png",
+        "https://www.albdoieclinic.com/asset/dark green logo.png",
+        "https://www.albdoieclinic.com/asset/pi/pi1.jpg",
+        "https://www.albdoieclinic.com/asset/pi/pi2.jpg",
+        "https://www.albdoieclinic.com/asset/pi/pi3.jpg",
+        "https://www.albdoieclinic.com/asset/white logo.png",
+        "https://www.albdoieclinic.com/aboutUs.html"
+      ],
+      "instagram": "https://www.instagram.com/dr.adelalbdoie/",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alsheikh-store.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T01:20:55.964316+00:00"
+  },
+  "bio.site": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://bio.site/Somarapr1",
+    "checked_at_utc": "2026-10-21T01:20:57.152718+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "somarapr@gmail.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://media.bio.site/sites/c197d6fc-f09a-4c48-b095-9b9c29147c4b/aL8iTkRZNrBabgmVMVECpS.jpg",
+        "https://bio.site/Somarapr1",
+        "https://media.bio.site/sites/c197d6fc-f09a-4c48-b095-9b9c29147c4b/muQqiAvMJFjZEMhAMER2Nn.jpg"
+      ],
+      "instagram": "https://www.instagram.com/Somarapr1",
+      "facebook": "https://www.facebook.com/Somarapr1",
+      "linkedin": ""
+    }
+  },
+  "noonyemen1.wordpress.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://noonyemen1.wordpress.com/",
+    "checked_at_utc": "2026-10-21T01:21:00.091594+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/e2808fe280aa967-717-348-067e280ace2808f-20230625_000452-2.jpg?w=200",
+        "https://noonyemen1.wordpress.com/",
+        "https://noonyemen1.files.wordpress.com/2023/08/1646430808731.jpeg?w=800",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/e2808fe280aa967-717-348-067e280ace2808f-20230625_000452-2.jpg",
+        "https://noonyem.business.site/",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/img-20241012-wa0007.jpg?w=1000",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/img-20241012-wa0007.jpg",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/img-20230812-wa0002-4.jpg?w=1024",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/img-20230812-wa0001-2.jpg?w=1024",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/2022-04-19-1.jpg?w=768",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2023/08/2022-04-19-1.jpg",
+        "https://noonyemen1.wordpress.com/wp-content/uploads/2025/03/img-20250312-wa00326697804864236512529.jpg?w=1024"
+      ],
+      "instagram": "https://www.instagram.com/noon.yemen",
+      "facebook": "https://m.facebook.com/noondesigni",
+      "linkedin": "https://www.linkedin.com/in/noon-yemen-022860233"
+    }
+  },
+  "aladeeb-presses.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://aladeeb-presses.com/",
+    "checked_at_utc": "2026-10-21T01:21:01.842937+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://aladeeb-presses.com/",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/Untitle1-10-136x124.gif",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/Untitle1-10.gif",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/Untitled-1-01-1024x409.png",
+        "https://aladeeb-presses.com/wp-content/uploads/elementor/thumbs/غلاف-الفيس-e1705461181889-qifasxmoeqyyduewceas9hfaffgbm7rcvvevgvireo.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/مجلات2-scaled.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/مجلات-scaled.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/كتيب-scaled.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/كتب-scaled.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/2024/01/Untitled-1-300x194.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/elementor/thumbs/6-qif2iyse9urp0846d5onmv3xpl9gon44nmpkerzqp4.jpg",
+        "https://aladeeb-presses.com/wp-content/uploads/elementor/thumbs/working-offset-printer-2-qif2g2gb78sv7ibqael2g3frrtjpy8lx9aao52afvs.jpg"
+      ],
+      "instagram": "https://www.instagram.com/aladeebpresses/",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "torkeytrading.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://torkeytrading.com/",
+    "checked_at_utc": "2026-10-21T01:21:03.811491+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://torkeytrading.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "yemenlaser.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.yemenlaser.com/",
+    "checked_at_utc": "2026-10-21T01:21:08.414116+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@almuheeb.com",
+        "info@yemenlaser.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.yemenlaser.com/",
+        "https://www.yemenlaser.com/wp-content/uploads/2022/11/ylaserlogo.png",
+        "https://www.yemenlaser.com/wp-content/uploads/2022/11/ylfooter.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "almeiad.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://almeiad.com/",
+    "checked_at_utc": "2026-10-21T01:21:11.798842+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@almeiad.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://almeiad.com/wp-content/uploads/2025/07/Paper-Bag-Four-Colour-Printing-7.webp",
+        "https://almeiad.com/"
+      ],
+      "instagram": "https://www.instagram.com/almeiad1/",
+      "facebook": "https://www.facebook.com/almeiad",
+      "linkedin": ""
+    }
+  },
+  "yemenmp.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T01:21:12.844728+00:00"
+  },
+  "sabafon.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.sabafon.com/",
+    "checked_at_utc": "2026-10-21T01:21:17.257801+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "social.media@sabafon.com",
+        "customer.service@sabafon.com",
+        "social.media@sabafon.org"
+      ],
+      "website_phones": [
+        "+9672248370",
+        "+967711111211"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.sabafon.com/images/fb-default.jpg",
+        "https://www.sabafon.com/",
+        "https://www.sabafon.com/images/SabafonLogoV1.png",
+        "https://www.sabafon.com/images/small_logoTicker.png",
+        "https://www.sabafon.com/images/ScrollDown.png",
+        "https://www.sabafon.com/Controls/",
+        "https://www.sabafon.com/images/btn-play-v2.png",
+        "https://www.sabafon.com/images/Sabafon_TVC_Low.mp4",
+        "https://www.sabafon.com/images/presentatioon-supernabaa-1.jpg",
+        "https://www.sabafon.com/images/Local-packages-presentation.jpg",
+        "https://www.sabafon.com/images/presentatioon-supernabaa-2.jpg",
+        "https://www.sabafon.com/images/sabafon-20th-bottom-.jpg"
+      ],
+      "instagram": "https://instagram.com/sabafonyemen/",
+      "facebook": "https://www.facebook.com/Belquesproduct/?fref=ts",
+      "linkedin": "https://www.linkedin.com/company/sabafon"
+    }
+  },
+  "amr.yemoney.net": {
+    "status": "http_302",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T01:21:25.643627+00:00"
+  },
+  "maps.apple": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://maps.apple.com/place",
+    "checked_at_utc": "2026-10-21T01:21:26.956498+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Apple Maps",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://snapshot.apple-mapkit.com/api/v1/snapshot?center=auto&annotations=%5B%7B%22point%22%3A%2213.97554%2C44.152136%22%2C%22markerStyle%22%3A%22large%22%7D%5D&size=450x300&scale=2&teamId=C5U892736Y&keyId=GJ5GZDFL89&signature=vrYm1J44jj1Rp2sHV7S6AU0ipwo7Rr9b1bWNCm_ed9LZUgl8JKwfB2bmjsi3ocHP_3pCJ6uiJEEoEiVKraQQ2g",
+        "https://maps.apple.com/place"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/company/apple"
+    }
+  },
+  "dancing-crepe-71a1b2.netlify.app": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://dancing-crepe-71a1b2.netlify.app/",
+    "checked_at_utc": "2026-10-21T01:21:29.797693+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "770880484",
+        "733627456"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://dancing-crepe-71a1b2.netlify.app/",
+        "https://dancing-crepe-71a1b2.netlify.app/logo.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "you.com.ye": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T01:21:34.554470+00:00"
+  },
+  "viloteck.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.viloteck.com/",
+    "checked_at_utc": "2026-10-21T01:21:36.956787+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "شركة فيلوتيك للحلول الرقمية",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "SA",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://viloteck.com/asset/og-image.png",
+        "https://www.viloteck.com/",
+        "https://www.viloteck.com/asset/logo.png",
+        "https://www.viloteck.com/asset/websites/dradel.jpg",
+        "https://www.viloteck.com/asset/websites/evlvon.jpg",
+        "https://www.viloteck.com/asset/websites/vilotools.jpg",
+        "https://www.viloteck.com/asset/banars/web_optimized_1778332753983-019e0ce3-71c4-7fb3-a3a8-2c35c4836a68.jpg",
+        "https://www.viloteck.com/asset/banars/web_optimized_1778392903819-019e1079-7485-7491-b0c7-12bae811eb73.jpg",
+        "https://www.viloteck.com/asset/banars/web_optimized_Picsart_26-05-09_18-06-41-818.jpg",
+        "https://www.viloteck.com/asset/banars/web_optimized_Picsart_26-05-09_21-41-39-014.jpg",
+        "https://www.viloteck.com/asset/banars/web_optimized_Picsart_26-05-10_11-43-33-584.jpg",
+        "https://www.viloteck.com/asset/banars/web_optimized_Picsart_26-05-10_11-44-39-187.jpg"
+      ],
+      "instagram": "https://www.instagram.com/viloteck/",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "fuadalqrize.me": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://fuadalqrize.me/",
+    "checked_at_utc": "2026-10-21T01:21:43.695310+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "MANBET",
+      "website_emails": [
+        "info@fuadalqrize.me"
+      ],
+      "website_phones": [
+        "+84-927-463-805"
+      ],
+      "website_address": "270 Khuông Việt, Tân Phú, Hồ Chí Minh, 700000, VN",
+      "website_opening_hours": "{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"], \"opens\": \"00:00\", \"closes\": \"23:59\"}",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://fuadalqrize.me/wp-content/uploads/2026/10/manbet-san-choi-dinh-cao-thuong-ngay-100k-cho-tan-thu.webp",
+        "https://fuadalqrize.me/",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_217_image_1788456436933.png-f9af50c6-78b9-4c72-8a73-a80f2beb9b2e-scaled.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_223_image_1788433722135.png-499ed3e5-2084-4a62-8565-548e6a47aa00-scaled.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_210_image_1788520147825.png-30d000b8-c2e6-494a-876c-a761e5d81ccc-scaled.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_90_ezugi.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_88_sa-gaming.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_89_via.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_91_vivo-gaming.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_227_image_1788616119337.png-f0f8834f-d326-4378-b6ab-92da5ad5259d.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_187_image_1788616052351.png-be993678-d042-4bad-95de-c40b71bb7d98.png",
+        "https://fuadalqrize.me/wp-content/uploads/2026/09/imgi_189_image_1788616090738.png-bbf59385-db8c-4eb4-b96e-7adf4f1fced0.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "yementareem.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.yementareem.com/",
+    "checked_at_utc": "2026-10-21T01:21:45.010962+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@yementareem.com"
+      ],
+      "website_phones": [
+        "+967777440011",
+        "+967777701169",
+        "+967770830411"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqDyQe96rOXRfb1_S4f1wnJRn5X9eddYY3tfvPtI0-GmnlkMx59wRtY4oQjXXtsQLW_a8ZP0gnHa5t2PxeykSZN8apq2resFe8Su3dySLN7_smO_a2lpjAC1BYxyeekz1vRb7YGfwve_W9lln8N_4z9ALR_qU0vUoPobLtsmnDVn6MXT8e1bzVORCw2g/w1200-h630-p-k-no-nu/11.PNG",
+        "https://www.yementareem.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2VCQgY9GA_nSZLq7ezIkD3hkzYZkdWbZua1VH6r7IbmVf4gCcvmlAtKjmzl55nJ3aILlkoey3d7jQUq5dT_znjLToEKDgR1TrD0znO8VX766pnRXnoByxl6-v2YDMTQX-dRxF8gHlmXj0KXNhnTLtSdzMmLUJsrK4IJ2Nlf7BBh6vqn-_AZSXz5W7cw/s300/333.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzHTOH539X5cOMgh8DPVQAoizp267IOsNvnRnplBU_a3F4dc6Emp-JcJGJXd9-fyUZjgwCLuFsifwaxP92mVfLmm-Qfl1iSw_cscLE4ux_WwUx0O0I1gnN_lh0sIwjBKDlgMsW6HiTF37A/s1600/close.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/yementareem1/",
+      "linkedin": ""
+    }
+  },
+  "granadaltd.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_401",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T01:21:46.280735+00:00"
+  },
+  "codstan.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://codstan.com/",
+    "checked_at_utc": "2026-10-21T01:21:49.616693+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Codstan (كودستان) | تصميم مواقع وحلول رقمية للشركات في السعودية",
+      "website_emails": [
+        "hello@codstan.com"
+      ],
+      "website_phones": [
+        "+967 712 994 615"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://codstan.com/coodestan.png",
+        "https://codstan.com/",
+        "https://pub-a7a178797582499581f88858bb864682.r2.dev/coodestan/coodestan.png",
+        "https://codstan.com/about"
+      ],
+      "instagram": "https://www.instagram.com/codstanhq/",
+      "facebook": "https://www.facebook.com/codstanhq",
+      "linkedin": ""
+    }
   }
 }
