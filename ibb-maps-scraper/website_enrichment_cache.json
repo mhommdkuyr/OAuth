@@ -2876,8 +2876,8 @@
   "amr.yemoney.net": {
     "status": "http_302",
     "robots_status": "robots_not_found",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-21T06:42:02.944249+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-21T12:25:11.655908+00:00"
   },
   "maps.apple": {
     "status": "ok",
@@ -3416,8 +3416,8 @@
   "mfddoors.business.site": {
     "status": "http_404",
     "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-21T06:43:14.653867+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T12:25:13.037326+00:00"
   },
   "mawdoo3.com": {
     "status": "ok",
@@ -3461,8 +3461,8 @@
   "teleyemen.com.ye": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-21T06:43:24.820354+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T12:25:16.256146+00:00"
   },
   "sababank.com": {
     "status": "ok",
@@ -3600,7 +3600,432 @@
   "shebahotel.com": {
     "status": "http_404",
     "robots_status": "robots_not_found",
+    "attempts": 2,
+    "checked_at_utc": "2026-10-21T12:25:18.747871+00:00"
+  },
+  "ryanaabha.com": {
+    "status": "skipped_unsafe_url",
     "attempts": 1,
-    "checked_at_utc": "2026-10-21T06:43:41.159893+00:00"
+    "checked_at_utc": "2026-10-21T12:25:19.776356+00:00"
+  },
+  "oyorooms.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.oyorooms.com/sa/102941/",
+    "checked_at_utc": "2026-10-21T12:25:25.134021+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "OYO 488 Nomas Plaza Of Housing Units",
+      "website_emails": [
+        "guestsupport.na@oyorooms.com"
+      ],
+      "website_phones": [
+        "+96611 293 2743"
+      ],
+      "website_address": "Makka Al Mukarramah street, Ash Shati, Jizan, Jizan, Saudi Arabia",
+      "website_opening_hours": "",
+      "website_latitude": "16.933484",
+      "website_longitude": "42.5592459",
+      "website_images": [
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/8773984f1479c80b.jpg",
+        "https://www.oyorooms.com/sa/102941/",
+        "https://assets.oyoroomscdn.com/pwa/icons/oyo-logo-120x120.jpg",
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/large/8773984f1479c80b.jpg",
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/large/f6f68728cc050966.jpg",
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/large/7101a3bafb0ec2b7.jpg",
+        "https://assets.oyoroomscdn.com/pwa/images/lazy_placeholder.png",
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/thumb/2c7c9646b4201dc6.jpg",
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/thumb/c07cdf216066d085.jpg",
+        "https://images.oyoroomscdn.com/uploads/hotel_image/102941/thumb/f4c9bd3427789d0e.jpg",
+        "https://www.oyorooms.com/about/",
+        "https://www.oyorooms.com/about/images/OYO-logo.svg"
+      ],
+      "instagram": "https://instagram.com/oyosaudi/",
+      "facebook": "https://www.facebook.com/oyosaudi",
+      "linkedin": "https://www.linkedin.com/company/oyo-rooms/jobs/"
+    }
+  },
+  "abnalslahy.net": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:25:26.161955+00:00"
+  },
+  "alnaqeeb.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.alnaqeeb.com/",
+    "checked_at_utc": "2026-10-21T12:25:27.773692+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alnaqeeb.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alragawi.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alragawi.org/",
+    "checked_at_utc": "2026-10-21T12:25:39.573275+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alragawi.org/",
+        "https://www.alragawi.org/wp-content/uploads/2022/12/logoen-1-e1671634322486.png",
+        "https://www.alragawi.org/wp-content/uploads/2026/01/456-825x1024.png",
+        "https://www.alragawi.org/wp-content/uploads/2022/11/cropped-cropped-Rlogo-con-237x237.png",
+        "https://www.alragawi.org/wp-content/uploads/2022/11/cropped-cropped-Rlogo-con.png",
+        "https://www.alragawi.org/wp-content/uploads/2026/01/11-01-1024x1024.jpg",
+        "https://www.alragawi.org/wp-content/uploads/2026/01/104-1024x147.png",
+        "https://www.alragawi.org/wp-content/uploads/elementor/thumbs/-rie4voecxdwxq7yxivlakrbl4dulifu4rp4f1h4uwg.jpg",
+        "https://www.alragawi.org/wp-content/uploads/elementor/thumbs/5_-rie5uovxi7ug7b402ifzyf8pq39t8ju6kzyjlj7x4g.jpg",
+        "https://www.alragawi.org/wp-content/uploads/2026/01/صور.jpg3_-1024x932.jpg",
+        "https://www.alragawi.org/wp-content/uploads/2026/01/55-1024x932.jpg",
+        "https://www.alragawi.org/wp-content/uploads/2026/01/53-1024x205.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "jalap-group.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://www.jalap-group.com/",
+    "checked_at_utc": "2026-10-21T12:25:41.451174+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://www.jalap-group.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "radmangroup-ye.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_500",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:25:43.494635+00:00"
+  },
+  "amsaif.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://amsaif.com/",
+    "checked_at_utc": "2026-10-21T12:25:51.033095+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@amsaif.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://amsaif.com/",
+        "https://amsaif.com/wp-content/uploads/2021/11/AMS-website-logo-yem.svg",
+        "https://amsaif.com/wp-content/uploads/2021/11/AMS-LOGO-For-Black-background.svg",
+        "http://amsaif.com/wp-content/uploads/2021/12/AMS-Structure-01.svg",
+        "https://amsaif.com/about/",
+        "https://amsaif.com/wp-content/uploads/2021/12/AMS-Structure-01.svg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/amsaif.company",
+      "linkedin": ""
+    }
+  },
+  "43.232.27.217": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:26:00.040739+00:00"
+  },
+  "saqerhospital.netlify.app": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://saqerhospital.netlify.app/",
+    "checked_at_utc": "2026-10-21T12:26:03.118097+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "771056921"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://saqerhospital.netlify.app/",
+        "https://saqerhospital.netlify.app/assets/logo.png",
+        "https://saqerhospital.netlify.app/assets/ortho-exam.jpg",
+        "https://saqerhospital.netlify.app/assets/ortho-opening.jpg",
+        "https://saqerhospital.netlify.app/assets/ortho-registration.jpg",
+        "https://saqerhospital.netlify.app/assets/chronic-camp.jpg",
+        "https://saqerhospital.netlify.app/assets/eye-camp.jpg",
+        "https://saqerhospital.netlify.app/assets/ortho-waiting.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "ibnhayanph.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ibnhayanph.com/",
+    "checked_at_utc": "2026-10-21T12:26:05.814653+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ibnhayanph.com/images/arabic/logo.png",
+        "https://ibnhayanph.com/",
+        "https://ibnhayanph.com/themes/default/images/arabic/logo.png",
+        "https://ibnhayanph.com/themes/default/images/arabic/servic.png",
+        "https://ibnhayanph.com/gallery/1a.JPG",
+        "https://ibnhayanph.com/gallery/islider/3b.JPG",
+        "https://ibnhayanph.com/gallery/dsc00525.JPG",
+        "https://ibnhayanph.com/gallery/dsc00526.JPG",
+        "https://ibnhayanph.com/userimages/2022/08/1660506681blobid0.png",
+        "https://ibnhayanph.com/images/icon-logo.png",
+        "https://ibnhayanph.com/userimages/Image/1a.JPG",
+        "https://ibnhayanph.com/userimages/ph.png"
+      ],
+      "instagram": "https://instagram.com/ibnhayanpharmacies?igshid=wu30q68v2ndq",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "mehyemen.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://mehyemen.com/",
+    "checked_at_utc": "2026-10-21T12:26:08.955302+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@mehyemen.com"
+      ],
+      "website_phones": [
+        "+9671577777"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://mehyemen.com/",
+        "https://mehyemen.com/meh_new/wp-content/uploads/2026/09/507x135_colore_logo.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "algumhorihosp-san.gov.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://algumhorihosp-san.gov.ye/",
+    "checked_at_utc": "2026-10-21T12:26:16.537926+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "هيئة المستشفى الجمهوري التعليمي بصنعاء",
+      "website_emails": [],
+      "website_phones": [
+        "+967-1-274000"
+      ],
+      "website_address": "شارع الزبيري, صنعاء, أمانة العاصمة, YE",
+      "website_opening_hours": "{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"], \"opens\": \"00:00\", \"closes\": \"23:59\"}",
+      "website_latitude": "15.3483",
+      "website_longitude": "44.2064",
+      "website_images": [
+        "https://algumhorihosp-san.gov.ye/assets/logo.png",
+        "https://algumhorihosp-san.gov.ye/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "mehdarbros.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://mehdarbros.com/en/",
+    "checked_at_utc": "2026-10-21T12:26:25.972184+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://mehdarbros.com/wp-content/uploads/2024/02/Almehdar-logo.png",
+        "https://mehdarbros.com/en/",
+        "https://mehdarbros.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "extrapharma.co.com": {
+    "status": "http_403",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:26:27.704262+00:00"
+  },
+  "alwatadpharma.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:26:29.729419+00:00"
+  },
+  "south-sa.org": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.south-sa.org/",
+    "checked_at_utc": "2026-10-21T12:26:35.179024+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "فندق ساوث",
+      "website_emails": [
+        "southhotelsuites@gmail.com",
+        "essaklais@gmail.com"
+      ],
+      "website_phones": [
+        "0172209131",
+        "0558700245"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://static-assets.strikinglycdn.com/images/fb_images/default.png",
+        "https://www.south-sa.org/",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/24378798/732213_542488.png",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_auto/24378798/336941_953035.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_auto/24378798/23041_914932.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/24378798/64510_292146.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/24378798/816068_638330.jpeg",
+        "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_1/unsplashcom/photo-1577035129359-b1710666f0cc",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_auto/24378798/180445_522159.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/24378798/871702_379067.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/24378798/543599_777677.jpeg",
+        "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_1/24378798/227489_908263.png"
+      ],
+      "instagram": "https://www.instagram.com/south_hotell/?hl=ar",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "topgarageyemen.vercel.app": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://topgarageye.com/",
+    "checked_at_utc": "2026-10-21T12:26:37.455332+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "topgarageyemen@gmail.com"
+      ],
+      "website_phones": [
+        "+967779899988"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://topgarageye.com/opengraph-image?ca482d1df77571b6",
+        "https://topgarageye.com/",
+        "https://topgarageye.com/_next/image?url=%2Fbrand%2Ftg-mark.webp&w=640&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fbrand%2Ftg-mark.webp&w=384&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fproof%2Fstory-wheel.jpg&w=3840&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fproof%2Fstory-wheel.jpg&w=384&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fproof%2Fstory-mercedes.jpg&w=3840&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fproof%2Fstory-mercedes.jpg&w=384&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fbrand%2Ftg-logo.webp&w=1920&q=75",
+        "https://topgarageye.com/_next/image?url=%2Fbrand%2Ftg-logo.webp&w=1080&q=75"
+      ],
+      "instagram": "https://instagram.com/topgarage.ye",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "futureuniversity.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_403",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:26:38.615419+00:00"
+  },
+  "essam-net-2025.blogspot.com": {
+    "status": "http_429",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-21T12:26:40.659762+00:00"
+  },
+  "almansob.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.almansob.com/",
+    "checked_at_utc": "2026-10-21T12:26:43.764049+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.almansob.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
