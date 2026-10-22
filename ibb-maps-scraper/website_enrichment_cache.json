@@ -4288,5 +4288,123 @@
     "robots_status": "robots_unavailable_skipped",
     "attempts": 1,
     "checked_at_utc": "2026-10-22T00:40:47.608378+00:00"
+  },
+  "kuraimibank.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://kuraimibank.com/ar",
+    "checked_at_utc": "2026-10-22T10:49:27.745375+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://kuraimibank.com//media/9441/غلاف-الموقع.jpg",
+        "https://kuraimibank.com/ar"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "blueinn.baab.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://blueinn.baab.com/",
+    "checked_at_utc": "2026-10-22T10:49:31.302870+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blueinn.baab.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "ferbionhotelabha.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.ferbionhotelabha.com/",
+    "checked_at_utc": "2026-10-22T10:49:34.287084+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "فندق فربيون ابها - Ferbion Hotel Abha",
+      "website_emails": [],
+      "website_phones": [
+        "+966555978628",
+        "+966 55 597 8628"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/e7a7feb3e3800b46f9dc672348d31e58.jpg",
+        "https://www.ferbionhotelabha.com/",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/logos/logo_light_f330ff663240.jpeg",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/logos/logo_dark_f330ff663240.jpeg",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/e7a7feb3e3800b46f9dc672348d31e58.webp",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/de62aae51e36b21b3caf6799ffb73639.webp",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/de62aae51e36b21b3caf6799ffb73639.jpg",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/ecd8418e460e6453bdfbc82d2bdf1039.webp",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/ecd8418e460e6453bdfbc82d2bdf1039.jpg",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/ecc9f29f130026203da59f22318095b6.webp",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/ecc9f29f130026203da59f22318095b6.jpg",
+        "https://pub-b5df79127b2e4ee0bdd1ff1afe616e62.r2.dev/hotels/2279/de62aae51e36b21b3caf6799ffb73639_thumb.webp"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "stwinhotel.sa": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://stwinhotel.sa/",
+    "checked_at_utc": "2026-10-22T10:49:38.320773+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "S-Twin Hotel",
+      "website_emails": [
+        "info@stwinhotel.sa"
+      ],
+      "website_phones": [
+        "0536730033"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/A85VrJP9bysZegR2/stwin1-AMq8pyPXpOsoPXy7.JPG",
+        "https://stwinhotel.sa/",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/A85VrJP9bysZegR2/hotel-logo.pdf-Bd1YFzA9no7pc2Fa.jpg",
+        "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/gb.svg",
+        "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/sa.svg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A85VrJP9bysZegR2/whatsapp-image-2025-06-16-at-5.19.16-pm-m6LbregJletv9VXj.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A85VrJP9bysZegR2/whatsapp-image-2026-02-28-at-9.06.48-pm-Mfr2R4mBegKSfvfm.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A85VrJP9bysZegR2/uc-u-uc-uy-u-ussu-uc-_u-u-u-u-u-u-YanJBye95ZF74lBD.jpg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/A85VrJP9bysZegR2/whatsapp-image-2025-06-16-at-7.10.40-pm-YD0wGlQVk2SpyaRW.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/A85VrJP9bysZegR2/whatsapp-image-2025-06-16-at-7.10.40-pm-YD0wGlQVk2SpyaRW.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=436,fit=crop/A85VrJP9bysZegR2/whatsapp-image-2025-06-16-at-4.47.01-pm-Yyv02jNkoQU0e8GW.jpeg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
