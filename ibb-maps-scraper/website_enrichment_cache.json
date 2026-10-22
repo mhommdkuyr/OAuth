@@ -4406,5 +4406,81 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "almasrimall.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://almasrimall.com/",
+    "checked_at_utc": "2026-10-22T15:55:44.255517+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "الرئيسية",
+      "website_emails": [
+        "info@almasrimall.com"
+      ],
+      "website_phones": [
+        "967733949286"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://almasrimall.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=1782&type=play&hash=56f1adcf27606cd51eeb727285595c09",
+        "https://almasrimall.com/",
+        "https://almasrimall.com/wp-content/uploads/بانر1_5.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر2_5.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر3_5.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر4_5.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر1موبايل.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر2موبايل.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر3موبايل.webp",
+        "https://almasrimall.com/wp-content/uploads/بانر444موبايل.webp"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "43.238.154.233": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-22T15:55:53.268351+00:00"
+  },
+  "ruzaqi.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.hugedomains.com/domain_profile.cfm",
+    "checked_at_utc": "2026-10-22T15:55:54.744533+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "1-303-893-0552"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
+        "https://www.hugedomains.com/domain_profile.cfm",
+        "https://static.hugedomains.com/images/hdv3-img/hd-header-logo-v3.svg",
+        "https://static.hugedomains.com/images/hdv3-img/phone-icon-white.png",
+        "https://static.hugedomains.com/images/hdv3-img/phone-icon.png",
+        "https://static.hugedomains.com/images/hdv3-img/favorite-header.png",
+        "https://static.hugedomains.com/images/hdv3-img/cart.png",
+        "https://static.hugedomains.com/images/hdv3-img/30daysmallico.png",
+        "https://static.hugedomains.com/images/hdv3-img/roket-side-ico.png",
+        "https://static.hugedomains.com/images/hdv3-img/safesmallico.png",
+        "https://static.hugedomains.com/images/hdv3-img/zero-side-ico.png",
+        "https://static.hugedomains.com/images/hdv3-img/mail-icon.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
