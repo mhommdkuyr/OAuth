@@ -4789,5 +4789,39 @@
     "status": "skipped_unsafe_url",
     "attempts": 1,
     "checked_at_utc": "2026-10-23T14:04:01.974940+00:00"
+  },
+  "seemaadv.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.seemaadv.com/",
+    "checked_at_utc": "2026-10-23T18:58:57.873278+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "سيما للطباعة والإعلان",
+      "website_emails": [],
+      "website_phones": [
+        "+967777000239",
+        "+96777000239",
+        "106318517",
+        "777000239"
+      ],
+      "website_address": "شارع الجامعة، تقاطع الأربعين, مأرب, YE",
+      "website_opening_hours": "Sa-Thu 08:00-20:00",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://seemaadv.com/icon/og-image.jpg",
+        "https://www.seemaadv.com/",
+        "https://www.seemaadv.com/شعار سيما.svg",
+        "https://www.seemaadv.com/الشعار.svg",
+        "https://www.seemaadv.com/الشعار.png",
+        "https://www.seemaadv.com/about",
+        "https://www.seemaadv.com/icon/pattern.svg",
+        "https://www.seemaadv.com/director.jpg"
+      ],
+      "instagram": "https://www.instagram.com/seemaa_adv",
+      "facebook": "https://www.facebook.com/seemaa20176/",
+      "linkedin": ""
+    }
   }
 }
