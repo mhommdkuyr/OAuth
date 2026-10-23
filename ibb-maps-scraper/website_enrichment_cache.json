@@ -4493,5 +4493,290 @@
     "robots_status": "robots_http_400",
     "attempts": 1,
     "checked_at_utc": "2026-10-22T23:00:48.565507+00:00"
+  },
+  "sprint.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_403",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-23T02:09:18.403228+00:00"
+  },
+  "alsaifiasa.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alsaifiasa.com/",
+    "checked_at_utc": "2026-10-23T02:09:23.539583+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "مجموعة السيفي ASA",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alsaifiasa.com/asa-share.jpg",
+        "https://www.alsaifiasa.com/",
+        "https://www.alsaifiasa.com/website/assets/imgs/logo.svg",
+        "https://asacustomers.app/uploads/website_slide/2026-07-27-21-17-12-8990526.jpeg",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-28-33-3441913.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-28-33-1898169.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-28-33-5507338.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-28-33-6700866.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-31-19-1033207.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-31-19-6650137.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-31-19-1324530.png",
+        "https://asacustomers.app/uploads/website_setting/2024-07-16-12-31-19-7822582.png"
+      ],
+      "instagram": "",
+      "facebook": "https://facebook.com/alsaifiasa",
+      "linkedin": ""
+    }
+  },
+  "abdulmleksddly.blogspot.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-23T02:09:24.660326+00:00"
+  },
+  "ilab-ye.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ilab-ye.com/",
+    "checked_at_utc": "2026-10-23T02:09:27.592231+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "+967776406464"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ilab-ye.com/",
+        "https://ilab-ye.com/static/public/images/logo-ilab.039ca04e54fe.png",
+        "https://ilab-ye.com/static/public/images/hero-bg.8fa1e09bec94.jpg",
+        "https://ilab-ye.com/static/public/images/logo-ilab-1.db71a159664a.png",
+        "https://ilab-ye.com/static/public/images/logo-prevecal.e3a1ca506eb5.png",
+        "https://ilab-ye.com/static/public/images/logo-riqas.802b7a08826d.png",
+        "https://media.ilab-ye.com/media/services/histopathology.jpg",
+        "https://media.ilab-ye.com/media/services/genetics.jpg",
+        "https://media.ilab-ye.com/media/services/microbiology.png",
+        "https://media.ilab-ye.com/media/services/immunology.jpg",
+        "https://media.ilab-ye.com/media/services/hematology.jpg",
+        "https://media.ilab-ye.com/media/team/doctor-yaser.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/ilaboratories",
+      "linkedin": ""
+    }
+  },
+  "aulaqilabs.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.aulaqilabs.com/",
+    "checked_at_utc": "2026-10-23T02:09:31.758367+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@aulaqilabs.com",
+        "support@aulaqilabs.com"
+      ],
+      "website_phones": [
+        "821-456-679",
+        "+967773339222",
+        "+9671211702",
+        "+967-773339222"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://aulaqilabs.com/img/logo.png",
+        "https://www.aulaqilabs.com/",
+        "https://www.aulaqilabs.com/img/slider-shape.png",
+        "https://www.aulaqilabs.com/img/shape1.webp",
+        "https://www.aulaqilabs.com/img/shape2.webp",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-160.png",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-103.jpg",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-102.jpg",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-195.jpg",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-176.jpg",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-170.jpeg",
+        "https://www.aulaqilabs.com/upload/aulaqilabs-196.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "ncphls.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ncphls.com/",
+    "checked_at_utc": "2026-10-23T02:09:36.118533+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ncphls.com/",
+        "https://ncphls.com/wp-content/uploads/2024/02/شعار-المركز.png",
+        "https://ncphls.com/wp-content/uploads/2023/11/DSC00180.jpg",
+        "https://ncphls.com/wp-content/uploads/2023/11/Premium-Photo-_-Front-view-of-flask-science-concept.jpg",
+        "https://ncphls.com/wp-content/uploads/2023/11/IMG_2949.jpg",
+        "https://ncphls.com/wp-content/uploads/2024/02/الصوره-الثانيه.psdىلاىى-1024x576.png",
+        "https://ncphls.com/wp-content/uploads/2023/11/000161-01-01.jpeg",
+        "https://ncphls.com/wp-content/uploads/2023/12/logo-full.png",
+        "https://ncphls.com/wp-content/uploads/2023/12/WHO-World-Health-Organization.png",
+        "https://ncphls.com/wp-content/uploads/2023/12/pngegg.png",
+        "https://ncphls.com/wp-content/uploads/2024/02/شعار_أطباء_بلا_حدود.jpeg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/ncphlye/",
+      "linkedin": ""
+    }
+  },
+  "med-labs.net": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "http://www.med-labs.net/",
+    "checked_at_utc": "2026-10-23T02:09:40.450785+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@med-labs.net",
+        "info@medlabs.com"
+      ],
+      "website_phones": [
+        "01532396        المجاني        (8000484)"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.med-labs.net/images/fb-logo.png",
+        "http://www.med-labs.net/",
+        "https://www.med-labs.net/images/logo.png",
+        "https://www.med-labs.net/upimages/sliders/MEDLABS13-12-2025-339649.jpg",
+        "https://www.med-labs.net/upimages/sliders/MEDLABS2025-12-07-05-24-33-833189.jpg",
+        "https://www.med-labs.net/upimages/sliders/MEDLABS29-12-2019-417514.jpg",
+        "https://www.med-labs.net/upimages/sliders/MEDLABS2018-07-04-08-40-17-821488.jpg",
+        "https://www.med-labs.net/upimages/sliders/MEDLABS2018-07-04-08-40-16-516662.jpg",
+        "https://www.med-labs.net/upimages/sliders/MEDLABS2018-06-26-10-54-00-327149.png",
+        "https://www.med-labs.net/upimages/news/2/MEDLABS2026-04-16--18906.jpg",
+        "https://www.med-labs.net/upimages/news/2/MEDLABS2026-04-13--82462.jpg",
+        "https://www.med-labs.net/upimages/news/2/MEDLABS2026-04-12--47370.jpg"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "biomove.net": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://biomove.net/language/ar/home/",
+    "checked_at_utc": "2026-10-23T02:09:54.174248+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@biomove.net"
+      ],
+      "website_phones": [
+        "708 684 1 967+"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://biomove.net/wp-content/uploads/2025/11/pexels-thisisengineering-3912959-scaled-1.jpg",
+        "https://biomove.net/language/ar/home/",
+        "https://biomove.net/wp-content/uploads/2025/11/logo-1-removebg-preview-1.png",
+        "https://biomove.net/wp-content/uploads/2025/12/Gemini_Generated_Image_kbm9u3kbm9u3kbm9.png",
+        "https://biomove.net/wp-content/uploads/2026/01/Gemini_Generated_Image_qfpsq4qfpsq4qfps-1.png",
+        "https://biomove.net/wp-content/uploads/2025/11/eb9b478c-1ae0-4b64-b137-631e68f6a42c26525476-removebg-preview.png",
+        "https://biomove.net/wp-content/uploads/2025/12/1767037974-removebg-preview.png",
+        "https://biomove.net/wp-content/uploads/2025/11/imageedit_17_7828312112.png",
+        "https://biomove.net/wp-content/uploads/2025/11/imageedit_23_8189454026.png",
+        "https://biomove.net/wp-content/uploads/2025/11/imageedit_3_9364371891-removebg-preview.png",
+        "https://biomove.net/wp-content/uploads/2025/11/download-removebg-preview.png",
+        "https://biomove.net/wp-content/uploads/elementor/thumbs/icon_custom_solutions_256-re8gge3ym6ipoca06mz0i526zwh116cl4gd72h9eog.png"
+      ],
+      "instagram": "https://www.instagram.com/1biomovecenter/",
+      "facebook": "https://www.facebook.com/1biomovecenter/",
+      "linkedin": "https://www.linkedin.com/company/1biomovecenter/"
+    }
+  },
+  "vt.tiktok.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.tiktok.com/",
+    "checked_at_utc": "2026-10-23T02:09:56.469594+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "example@example.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.tiktok.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "bestwesterndna.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://bestwesterndna.com/",
+    "checked_at_utc": "2026-10-23T02:09:58.605801+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://bestwesterndna.com/",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/best-westeren-4-scaled.png",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/DSC09696-1-300x300.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/DSC09336-300x300.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/ام-علي-300x300.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/unsplash_eeqbbemH9-c.jpg",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/DSC00180.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/ساندويتش-كفته.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/DSC09696-1.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/11/بيتزا-خضار.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/مكرونة-اسباجيتي.webp",
+        "https://bestwesterndna.com/wp-content/uploads/2025/08/DSC00027.webp"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
