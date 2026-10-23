@@ -4778,5 +4778,16 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "syibank.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-23T14:04:00.836339+00:00"
+  },
+  "alhanehenmobile.it.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-23T14:04:01.974940+00:00"
   }
 }
