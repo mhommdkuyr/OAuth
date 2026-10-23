@@ -4823,5 +4823,49 @@
       "facebook": "https://www.facebook.com/seemaa20176/",
       "linkedin": ""
     }
+  },
+  "46.82.99.19": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-23T22:48:25.232425+00:00"
+  },
+  "algorhi.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://algorhi.com/",
+    "checked_at_utc": "2026-10-23T22:48:29.027017+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@algorhi.com",
+        "gorhiauto@gmail.com"
+      ],
+      "website_phones": [
+        "+967770008501"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://algorhi.com/",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=446,fit=crop,q=95/AzG88gPOoPS72891/o-o1osso---ossuuo--ou-ossuo-o-uo--uuo--oo-A0xWNgE5eNs604ow.png",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/AzG88gPOoPS72891/img_9251-dJoB5a3BenIZ6j9Y.JPG",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=591,h=432,fit=crop/AzG88gPOoPS72891/img_9074-AGB3GKaqe2fWzL05.JPG",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=328,h=245,fit=crop/AzG88gPOoPS72891/img_9074-AGB3GKaqe2fWzL05.JPG",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=612,h=344,fit=crop/AzG88gPOoPS72891/img_9216-mk3yqv2KwoC864r7.JPG",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=328,h=184,fit=crop/AzG88gPOoPS72891/img_9216-mk3yqv2KwoC864r7.JPG",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=853,h=489,fit=crop/AzG88gPOoPS72891/whatsapp-image-2023-11-28-at-11.41.15-am-AwvJDj9W7qfOzn6g.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=328,h=184,fit=crop/AzG88gPOoPS72891/whatsapp-image-2023-11-28-at-11.41.15-am-AwvJDj9W7qfOzn6g.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1148,h=680,fit=crop/AzG88gPOoPS72891/whatsapp-image-2023-11-28-at-11.22.10-am-AE0Ma2pNlGhXypXv.jpeg",
+        "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=328,h=184,fit=crop/AzG88gPOoPS72891/whatsapp-image-2023-11-28-at-11.22.10-am-AE0Ma2pNlGhXypXv.jpeg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/gorhicom",
+      "linkedin": ""
+    }
   }
 }
