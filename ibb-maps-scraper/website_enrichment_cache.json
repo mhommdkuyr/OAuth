@@ -4867,5 +4867,80 @@
       "facebook": "https://www.facebook.com/gorhicom",
       "linkedin": ""
     }
+  },
+  "hu.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://hu.edu.ye/",
+    "checked_at_utc": "2026-10-24T01:20:06.645545+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@hu.edu.ye"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://hu.edu.ye/",
+        "http://hu.edu.ye/wp-content/uploads/2021/01/logo.png",
+        "https://hu.edu.ye/wp-content/uploads/2021/01/logo.png",
+        "https://hu.edu.ye/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+        "https://hu.edu.ye/wp-content/uploads/2026/01/شعار-جامعة-حضرموت-360x320.jpg",
+        "https://hu.edu.ye/wp-content/uploads/2026/10/IMG-20261023-WA0040-360x320.jpg",
+        "https://hu.edu.ye/wp-content/uploads/2026/10/IMG-20261023-WA0035-360x320.jpg",
+        "https://hu.edu.ye/wp-content/uploads/2026/10/IMG-20261022-WA0018.jpg",
+        "https://hu.edu.ye/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-12.04.00-PM-300x300.jpeg",
+        "https://hu.edu.ye/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-3.22.46-PM-212x300.jpeg",
+        "https://hu.edu.ye/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-9.50.26-AM-200x300.jpeg",
+        "https://hu.edu.ye/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-11.23.57-AM-300x300.jpeg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/huyeedu",
+      "linkedin": ""
+    }
+  },
+  "dsuye.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-24T01:20:07.696633+00:00"
+  },
+  "abyan-univ.net": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.abyan-univ.net/",
+    "checked_at_utc": "2026-10-24T01:20:10.994944+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "eng.saiaad@gmail.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.abyan-univ.net/assets/images/logob.jpg",
+        "https://www.abyan-univ.net/",
+        "https://www.abyan-univ.net/assets/images/logo2.png",
+        "https://www.abyan-univ.net/assets/images/logo.png",
+        "https://www.abyan-univ.net/UploadFiles/2026/Sep/10/3bc50220-f3d9-4d9d-831b-68b4ec23d6a2.JPG",
+        "https://www.abyan-univ.net/UploadFiles/2022/Feb/15/6c1a8d4f-a268-4eb3-b250-6ce2f6f02119.JPG",
+        "https://www.abyan-univ.net/UploadFiles/2022/Jan/02/1bfbcebc-81ab-484e-bb31-f47e2906439f.jpg",
+        "https://www.abyan-univ.net/uploads/WriterAdspic/15-Feb-2022/7baf2ff9-42da-43ae-a362-f8021a5fab031.jpg",
+        "https://www.abyan-univ.net/images/studaffairs.jpg",
+        "https://www.abyan-univ.net/images/dalel.jpg",
+        "https://www.abyan-univ.net/uploads/WriterAdspic/02-Mar-2022/ec435b31-8a3c-43b5-8185-70f8ea1af153صور الاصدارات.jpg",
+        "https://www.abyan-univ.net/UploadFiles/2026/Aug/25/33977ad8-52db-438a-9d7a-0cf5a22d5c37.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/abyanuniversity",
+      "linkedin": ""
+    }
   }
 }
