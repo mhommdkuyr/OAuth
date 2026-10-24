@@ -5310,5 +5310,69 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "yazan.com.net": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-24T18:47:30.105397+00:00"
+  },
+  "tolipborgelarab.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_403",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-24T18:47:31.373917+00:00"
+  },
+  "vocohotels.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.ihg.com/voco/hotels/us/en/al-khobar/dhako/hoteldetail",
+    "checked_at_utc": "2026-10-24T18:47:33.716639+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "voco Al Khobar",
+      "website_emails": [
+        "reservations.vocoalkhobar@ihg.com",
+        "vocokhobar.events@ihg.com"
+      ],
+      "website_phones": [
+        "18778343613",
+        "966135125555",
+        "++966-13-8696666",
+        "++966-50-1107220",
+        "18774242449"
+      ],
+      "website_address": "King Abdullah Street (Dhahran road), Thuqbah, Al Khobar, 31952, Saudi Arabia",
+      "website_opening_hours": "",
+      "website_latitude": "26.286398",
+      "website_longitude": "50.186531",
+      "website_images": [
+        "https://www.ihg.com/voco/hotels/us/en/al-khobar/dhako/hoteldetail",
+        "https://digital.ihg.com/is/image/ihg/voco-al-khobar-6262826911-2x1",
+        "https://digital.ihg.com/is/image/ihg/Stays?fmt=png-alpha",
+        "https://digital.ihg.com/is/image/ihg/xsvp-brand-logo-voco?fmt=png-alpha",
+        "https://digital.ihg.com//is/image/ihg/xsvp-hamburger-nav-white?fmt=png-alpha",
+        "https://digital.ihg.com/is/image/ihg/voco-tm-logo-jade-black-rgb-small-use-en-200x77-v2?fmt=png-alpha",
+        "https://digital.ihg.com/is/content/ihg/voco-small",
+        "https://digital.ihg.com/is/image/ihg/voco-al-khobar-6262826911-16x5",
+        "https://digital.ihg.com/is/content/ihg/Play-button-SVP-vector",
+        "https://digital.ihg.com/is/content/ihg/Play-button-LVP-vector-v1",
+        "https://digital.ihg.com/is/content/ihg/Pause-button-SVP-vector",
+        "https://digital.ihg.com/is/content/ihg/Pause-button-LVP-vector-v1"
+      ],
+      "instagram": "https://www.instagram.com/vocohotels/",
+      "facebook": "https://www.facebook.com/vocohotels/",
+      "linkedin": ""
+    }
+  },
+  "hilton.com": {
+    "status": "http_403",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-24T18:47:35.314653+00:00"
+  },
+  "770665311.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-24T18:47:36.455319+00:00"
   }
 }
