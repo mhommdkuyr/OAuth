@@ -72538,6 +72538,7 @@
     "scan_grid_size": "10",
     "scan_tile_index": "92",
     "scan_completed_at_utc": "2026-10-24T05:59:02.590648+00:00",
+    "user_reviews": "[{\"Name\":\"هيثم اليمن\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW02tjAuq5H2g8vqkqeGx7aJNE1sB7kq9Yrv6bV6Qf5hk5bUC0=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"مياه نقيه 🥰\",\"Images\":null,\"When\":\"21 hours ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xKUWExVkVTSEZ2YjJGNVdVeDRWemhYWlUxc2FGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112184643268651095646/reviews?hl=en-US\",\"posted_at_unix_micros\":1792852735906018,\"updated_at_unix_micros\":1792852735906018,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مياه نقيه 🥰\",\"text_translated\":\"Pure water 🥰\",\"published_at\":\"2026-10-24T14:38:55.906018Z\"}]",
     "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
@@ -215718,8 +215719,14 @@
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215727,13 +215734,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "254d9ea4-0af0-4bcd-a60a-0540cd250c86",
@@ -215763,8 +215764,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2+%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%28%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B5%D9%81+%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D9%81%E2%80%AD/data=!4m7!3m6!1s0x161c8be31c261601:0x5045c07bba32095f!8m2!3d13.8027599!4d44.0272701!16s%2Fg%2F11h8hhzqnw!19sChIJARYmHOOLHBYRXwkyunvARVA?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.700000",
     "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"8 AM–8 PM\"],\"Saturday\":[\"Closed\"],\"Sunday\":[\"8 AM–8 PM\"],\"Thursday\":[\"8 AM–8 PM\"],\"Tuesday\":[\"8 AM–8 PM\"],\"Wednesday\":[\"8 AM–8 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdvYf8O0irLwlKJ5SUCx2hw16q16H46yQmMQd0SRyDGawyiZeOpdoEpQzdgRuUKWppn9XUW6m2l15HEcIfLkRSDb9SypBqzPA7rCMMKFLQM0gCNMxXd3dzolMKzqcPn9_7xB6Fk=w426-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215772,13 +215779,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLdvYf8O0irLwlKJ5SUCx2hw16q16H46yQmMQd0SRyDGawyiZeOpdoEpQzdgRuUKWppn9XUW6m2l15HEcIfLkRSDb9SypBqzPA7rCMMKFLQM0gCNMxXd3dzolMKzqcPn9_7xB6Fk=w426-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "54555f30-bec6-41e2-8b88-bfd2f61aa902",
@@ -215806,8 +215807,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%2F%D8%AF.%D9%85%D8%B1%D9%88%D8%A7%D9%86+%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%B1%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161c8f005e8345ed:0x700b8f35fa50c33!8m2!3d13.8767277!4d44.0103856!16s%2Fg%2F11w9v69mr2!19sChIJ7UWDXgCPHBYRMwylX_O4AAc?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
     "opening_hours": "{\"Friday\":[\"7:30 AM–9 PM\"],\"Monday\":[\"7:30 AM–10 PM\"],\"Saturday\":[\"7:30 AM–10 PM\"],\"Sunday\":[\"7:30 AM–10 PM\"],\"Thursday\":[\"7:30 AM–10 PM\"],\"Tuesday\":[\"7:30 AM–10 PM\"],\"Wednesday\":[\"7:30 AM–10 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215846,8 +215847,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D9%88%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9+%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161c6f7e1fad4d75:0xa88618f1a2f16712!8m2!3d13.5812413!4d43.9667557!16s%2Fg%2F11j0kb3z2v!19sChIJdU2tH35vHBYREmfxovEYhqg?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
     "opening_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215882,8 +215883,8 @@
     "name": "حذيفة",
     "google_maps_url": "https://www.google.com/maps/place/%D8%AD%D8%B0%D9%8A%D9%81%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161cf3000442df9b:0xaae4afa94335822!8m2!3d13.8125121!4d44.1144068!16s%2Fg%2F11ywp8b41p!19sChIJm99CBADzHBYRIlgzlPpKrgo?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215919,8 +215920,8 @@
     "name": "بقالة السوق المركزية",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161cf5000eca14f1:0x9bed7ea9eda93e14!8m2!3d13.7752919!4d44.1392162!16s%2Fg%2F11yryn7b8v!19sChIJ8RTKDgD1HBYRFD6p7al-7Zs?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215961,8 +215962,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA+%D8%A7%D8%A8%D9%88+%D9%87%D8%A7%D9%86%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf5c023b43319:0x8e54f41c13e72428!8m2!3d13.7671454!4d44.1407503!16s%2Fg%2F11m6slk64n!19sChIJGTO0I8D1HBYRKCTnExz0VI4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLf8aMu5VSwj2E23jFMqcaBl-LyDI6rId9nmWc6OPVuoHcpdZI0cojYe5NJC6ZzI0_YPECSLbDirTx1AgUKeHCGuKsD0rgaoMSrT038YcRzJYXcQVjq6HmLRC2jtaHNFBluMXTzhZZBfPgD8=w408-h246-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -215970,13 +215977,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLf8aMu5VSwj2E23jFMqcaBl-LyDI6rId9nmWc6OPVuoHcpdZI0cojYe5NJC6ZzI0_YPECSLbDirTx1AgUKeHCGuKsD0rgaoMSrT038YcRzJYXcQVjq6HmLRC2jtaHNFBluMXTzhZZBfPgD8=w408-h246-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216007,8 +216008,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%A8%D8%B1%D9%83%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161cf52baa43f3d7:0xfbf1688edc192aae!8m2!3d13.7635878!4d44.1354578!16s%2Fg%2F11fsscs859!19sChIJ1_NDqiv1HBYRrioZ3I5o8fs?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.100000",
     "opening_hours": "{\"Friday\":[\"6 AM–12 AM\"],\"Monday\":[\"6 AM–12 AM\"],\"Saturday\":[\"6 AM–12 AM\"],\"Sunday\":[\"6 AM–12 AM\"],\"Thursday\":[\"6 AM–12 AM\"],\"Tuesday\":[\"6 AM–12 AM\"],\"Wednesday\":[\"6 AM–12 AM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeqOHQ-tvlqhH3iVJdoW4Rxz-nGg4bZej3AhrE_lHlIuXuZevtzD6dxtljDfqnUgvuunhTte5TyoinHSofhLZKJoZ8I9aPm5_q3YGBM2lioymnpe75TXnRt3xFHBY7dttGs2EhM=w426-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216016,13 +216023,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLeqOHQ-tvlqhH3iVJdoW4Rxz-nGg4bZej3AhrE_lHlIuXuZevtzD6dxtljDfqnUgvuunhTte5TyoinHSofhLZKJoZ8I9aPm5_q3YGBM2lioymnpe75TXnRt3xFHBY7dttGs2EhM=w426-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216050,8 +216051,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D9%88%D8%B4%D9%84%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf5a9d94ded2f:0x1c4b2d2aa854be1d!8m2!3d13.7657639!4d44.1343009!16s%2Fg%2F11g6sb501t!19sChIJL-1N2an1HBYRHb5UqCotSxw?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.800000",
     "opening_hours": "{\"Friday\":[\"8 AM–10 PM\"],\"Monday\":[\"8 AM–10 PM\"],\"Saturday\":[\"8 AM–10 PM\"],\"Sunday\":[\"8 AM–10 PM\"],\"Thursday\":[\"8 AM–10 PM\"],\"Tuesday\":[\"8 AM–10 PM\"],\"Wednesday\":[\"8 AM–10 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216088,8 +216089,14 @@
     "name": "محامص ومطاحن الثوابي",
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%A7%D9%85%D8%B5+%D9%88%D9%85%D8%B7%D8%A7%D8%AD%D9%86+%D8%A7%D9%84%D8%AB%D9%88%D8%A7%D8%A8%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf5002928159d:0xb647023d99992e5f!8m2!3d13.7627616!4d44.1355642!16s%2Fg%2F11vm2vzyd6!19sChIJnRUoKQD1HBYRXy6ZmT0CR7Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdtpnBt_Rngy8E4J-1WTETMTl0wYgzYMhcQgtM2plEX3e82f1ga-_nEsyF5ZOlWuw74JK8-MaSBu8HN0ntC37iqd-ZGMrK18xB8R22wY6wfAgh3t6P4Zg0a3cbKuhY3aS1UbJfS7JkvHxP5=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216097,13 +216104,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLdtpnBt_Rngy8E4J-1WTETMTl0wYgzYMhcQgtM2plEX3e82f1ga-_nEsyF5ZOlWuw74JK8-MaSBu8HN0ntC37iqd-ZGMrK18xB8R22wY6wfAgh3t6P4Zg0a3cbKuhY3aS1UbJfS7JkvHxP5=w408-h725-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216129,8 +216130,8 @@
     "name": "المهيووب",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D9%87%D9%8A%D9%88%D9%88%D8%A8%E2%80%AD/data=!4m7!3m6!1s0x161cf5af521d53a9:0x97284c48ae967082!8m2!3d13.7651465!4d44.1353864!16s%2Fg%2F11smcp3m6c!19sChIJqVMdUq_1HBYRgnCWrkhMKJc?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.700000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216167,8 +216168,14 @@
     "name": "محامص ومطاحن بن سعيد للبن والبهارات",
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%A7%D9%85%D8%B5+%D9%88%D9%85%D8%B7%D8%A7%D8%AD%D9%86+%D8%A8%D9%86+%D8%B3%D8%B9%D9%8A%D8%AF+%D9%84%D9%84%D8%A8%D9%86+%D9%88%D8%A7%D9%84%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x161cf5004aa4de21:0x3965c62d00d2823c!8m2!3d13.7628023!4d44.1358101!16s%2Fg%2F11wqczf9sq!19sChIJId6kSgD1HBYRPILSAC3GZTk?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLesnuoJBB5_Ihcbqw4EJUXLr-xZE7EzGbCuigiKY937234prfBamEHyVr4qeMj0CI_nqkUy51AybmDdtZ6sWNELxN2g-Mt9ehvaukOzHUS6nkoHdlj2U4NKNa8Go8iRX9jBhjRwCkkFu1b9=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216176,13 +216183,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLesnuoJBB5_Ihcbqw4EJUXLr-xZE7EzGbCuigiKY937234prfBamEHyVr4qeMj0CI_nqkUy51AybmDdtZ6sWNELxN2g-Mt9ehvaukOzHUS6nkoHdlj2U4NKNa8Go8iRX9jBhjRwCkkFu1b9=w408-h306-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216208,8 +216209,8 @@
     "name": "بقالة طاهر قايد",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D8%B7%D8%A7%D9%87%D8%B1+%D9%82%D8%A7%D9%8A%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x161cf5577ef97c41:0xf30729eac1328e44!8m2!3d13.7948673!4d44.1177907!16s%2Fg%2F11vf806l2p!19sChIJQXz5flf1HBYRRI4yweopB_M?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216249,8 +216250,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D9%87%D8%B4%D8%A7%D9%85+%D8%A7%D9%84%D8%AC%D8%B9%D8%B4%D9%86%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf54a1f1f94ff:0x1e73c7d6a32bfeaa!8m2!3d13.76046!4d44.1360062!16s%2Fg%2F11qfzbnf0q!19sChIJ_5QfH0r1HBYRqv4ro9bHcx4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.300000",
     "opening_hours": "{\"Friday\":[\"6 AM–12:59 PM\"],\"Monday\":[\"6 AM–12:59 PM\"],\"Saturday\":[\"6 AM–12:59 PM\"],\"Sunday\":[\"6 AM–12:59 PM\"],\"Thursday\":[\"6 AM–12:59 PM\"],\"Tuesday\":[\"6 AM–12:59 PM\"],\"Wednesday\":[\"6 AM–12:59 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdIg_gNihT2ooWiEcaUTTDy9n7CP60hbAL5vBmW1Z2JRuTOxVlNytK9GCIHXv-BRq2SqA_SbMSn_GB3rei1bTpS-UX-TrzdFc45KCljIwNRun1Ka3g0zedXW4mENRc3lmbx3MRW=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216258,13 +216265,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLdIg_gNihT2ooWiEcaUTTDy9n7CP60hbAL5vBmW1Z2JRuTOxVlNytK9GCIHXv-BRq2SqA_SbMSn_GB3rei1bTpS-UX-TrzdFc45KCljIwNRun1Ka3g0zedXW4mENRc3lmbx3MRW=w408-h725-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216294,8 +216295,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D9%88%D8%B3%D9%8A%D9%85+%D8%AC%D8%A8%D8%B1%D8%A7%D9%86+%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AF+%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161cf50061dba8d1:0x2625096a00e66204!8m2!3d13.7832062!4d44.1167647!16s%2Fg%2F11w1jf840_!19sChIJ0ajbYQD1HBYRBGLmAGoJJSY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.000000",
     "opening_hours": "{\"Friday\":[\"6:30 AM–10:30 PM\"],\"Monday\":[\"6:30 AM–10:30 PM\"],\"Saturday\":[\"6:30 AM–10:30 PM\"],\"Sunday\":[\"6:30 AM–10:30 PM\"],\"Thursday\":[\"6:30 AM–10:30 PM\"],\"Tuesday\":[\"6:30 AM–10:30 PM\"],\"Wednesday\":[\"6:30 AM–10:30 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcobIxHr2BiBCiOgjgPFnjTIes9khiYYpHEVv8VQz8cnYKkB-4nr4eqrc6AWmd5GtuBt0yRogtAqSS0JWb3m5KqKT9VPIjMjp9tMoDpdLlD0EduxC370LbX4R62tvWZXBF9h79U=w426-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216303,13 +216310,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLcobIxHr2BiBCiOgjgPFnjTIes9khiYYpHEVv8VQz8cnYKkB-4nr4eqrc6AWmd5GtuBt0yRogtAqSS0JWb3m5KqKT9VPIjMjp9tMoDpdLlD0EduxC370LbX4R62tvWZXBF9h79U=w426-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216340,8 +216341,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D8%B1%D9%88%D8%B1%D9%8A+%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AF+%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161cf50022509115:0x7de8166f1e77901a!8m2!3d13.7641954!4d44.1370617!16s%2Fg%2F11vx731y6b!19sChIJFZFQIgD1HBYRGpB3Hm8W6H0?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"10:30 AM–11:30 PM\"],\"Monday\":[\"9 AM–11:30 PM\"],\"Saturday\":[\"9 AM–11:30 PM\"],\"Sunday\":[\"9 AM–11:30 PM\"],\"Thursday\":[\"9 AM–11:30 PM\"],\"Tuesday\":[\"9 AM–11:30 PM\"],\"Wednesday\":[\"9 AM–11:30 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeIz139-erPgZoadoULNivhjx6_ey1UaYbcmS-IxLdplULYPM8UvyWcsqPutmaubmw-pp4fi8vumL4fguzXkiXjX0qwg6ACP0JzW7Foj-Z7P4ULcyVCRJMiztZFe-Z8qaRbzW8d=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216349,13 +216356,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLeIz139-erPgZoadoULNivhjx6_ey1UaYbcmS-IxLdplULYPM8UvyWcsqPutmaubmw-pp4fi8vumL4fguzXkiXjX0qwg6ACP0JzW7Foj-Z7P4ULcyVCRJMiztZFe-Z8qaRbzW8d=w408-h725-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216384,8 +216385,14 @@
     "name": "تموينات البحرين المواد الغذائية لصاحبها عمر سرحان",
     "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86+%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF+%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9+%D9%84%D8%B5%D8%A7%D8%AD%D8%A8%D9%87%D8%A7+%D8%B9%D9%85%D8%B1+%D8%B3%D8%B1%D8%AD%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161cf500135d5893:0x2e97a09cfac2c997!8m2!3d13.7572202!4d44.1287809!16s%2Fg%2F11z94tkx1w!19sChIJk1hdEwD1HBYRl8nC-pygly4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcxgtlnHr4EVsTiqWRd6zu0LsjeEYeAQBkV1aCAY2Yq3a7V4uMTIgQdFejSxfayHUFwaidIhRvGaiwSe3-ZYG5KBtYU7xvbf92IlNSc78AqcfqA3Z2K6WMXak10AC08oNSb0Gl4QiW2tbcF=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216393,13 +216400,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLcxgtlnHr4EVsTiqWRd6zu0LsjeEYeAQBkV1aCAY2Yq3a7V4uMTIgQdFejSxfayHUFwaidIhRvGaiwSe3-ZYG5KBtYU7xvbf92IlNSc78AqcfqA3Z2K6WMXak10AC08oNSb0Gl4QiW2tbcF=w408-h306-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216426,8 +216427,8 @@
     "name": "بشير مهيوب",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D8%B4%D9%8A%D8%B1+%D9%85%D9%87%D9%8A%D9%88%D8%A8%E2%80%AD/data=!4m7!3m6!1s0x161cf5dd2b64eaf7:0x160884d885c49aa9!8m2!3d13.8063362!4d44.1159345!16s%2Fg%2F11fhvr2xfx!19sChIJ9-pkK931HBYRqZrEhdiECBY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.800000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216464,8 +216465,14 @@
     "name": "البهجه ماركت",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%A8%D9%87%D8%AC%D9%87+%D9%85%D8%A7%D8%B1%D9%83%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x161cf50012879fdf:0xdf5a76f7b59924b6!8m2!3d13.7632512!4d44.1363656!16s%2Fg%2F11yfmxxc0y!19sChIJ35-HEgD1HBYRtiSZtfd2Wt8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLe5dk-t9vUBVe7d32_wE9wyf34OIqNdgFOYRcN01nUNTuhrF5n7vjOh6TyOr20zsiYn9rBuf-eOtDm1XEawmz2nXE_eZf9PZH9h2rPCKSCZacWQ5cgdG-EtxVs9U8eb7AtQkTcD930FCAFZ=w408-h906-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216473,13 +216480,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLe5dk-t9vUBVe7d32_wE9wyf34OIqNdgFOYRcN01nUNTuhrF5n7vjOh6TyOr20zsiYn9rBuf-eOtDm1XEawmz2nXE_eZf9PZH9h2rPCKSCZacWQ5cgdG-EtxVs9U8eb7AtQkTcD930FCAFZ=w408-h906-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "e511eb30-0ab4-44e5-8cbb-e9a6526615fe",
@@ -216508,8 +216509,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%AD%D8%B0%D9%88%D8%B1%D9%8A+%2F%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AF+%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161cf5133d33cb7f:0xf76fca11e977699f!8m2!3d13.7572855!4d44.1287018!16s%2Fg%2F11hyjvwtbm!19sChIJf8szPRP1HBYRn2l36RHKb_c?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"8 AM–12 PM\"],\"Monday\":[\"8 AM–12 PM\"],\"Saturday\":[\"8 AM–12 PM\"],\"Sunday\":[\"8 AM–12 PM\"],\"Thursday\":[\"8 AM–12 PM\"],\"Tuesday\":[\"8 AM–12 PM\"],\"Wednesday\":[\"8 AM–12 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216550,8 +216551,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89+%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%B9%D8%B7%D9%8A%D8%B1+%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x3df8e50869374f99:0x9013b4d510b0593b!8m2!3d14.9772338!4d45.4772264!16s%2Fg%2F11c2plqvdg!19sChIJmU83aQjl-D0RO1mwENW0E5A?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.700000",
     "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–2 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfqqmebR2fbjxvxHlOYft24hO55_VKBGRd82ichwISwh0YVwVcFQIyr9GNFsZJc1uJBHf7BvtTUbbJJcS-uRY2pCK0sNVsZq3F_OAzu70C9hm9TtsRM0qzIxNDMSNflBUr1enbC=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216559,13 +216566,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfqqmebR2fbjxvxHlOYft24hO55_VKBGRd82ichwISwh0YVwVcFQIyr9GNFsZJc1uJBHf7BvtTUbbJJcS-uRY2pCK0sNVsZq3F_OAzu70C9hm9TtsRM0qzIxNDMSNflBUr1enbC=w408-h306-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "8c381eeb-d8e6-4a9b-b13a-275aab7fe83b",
@@ -216595,8 +216596,8 @@
     "google_maps_url": "https://www.google.com/maps/place/Anwar+medications/data=!4m7!3m6!1s0x161c4745d2383bef:0xecbe65195cf9f9f2!8m2!3d13.4509486!4d44.1836616!16s%2Fg%2F12hl93czt!19sChIJ7zs40kVHHBYR8vn5XBllvuw?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.100000",
     "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 AM–9 PM\"],\"Saturday\":[\"9 AM–9 PM\"],\"Sunday\":[\"9 AM–9 PM\"],\"Thursday\":[\"9 AM–9 PM\"],\"Tuesday\":[\"9 AM–9 PM\"],\"Wednesday\":[\"9 AM–9 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216635,8 +216636,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9+%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A%D8%A9+%D9%84%D8%B5%D8%A7%D8%AD%D8%A8%D9%87%D8%A7+%D9%85%D8%AD%D9%85%D8%AF+%D8%AD%D8%B3%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161c5982276f8ccf:0xefc44d7b41c73a0a!8m2!3d13.6531143!4d44.2253063!16s%2Fg%2F11h26tmqm7!19sChIJz4xvJ4JZHBYRCjrHQXtNxO8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"8 AM–6 PM\"],\"Monday\":[\"8 AM–6 PM\"],\"Saturday\":[\"8 AM–6 PM\"],\"Sunday\":[\"8 AM–6 PM\"],\"Thursday\":[\"8 AM–6 PM\"],\"Tuesday\":[\"8 AM–6 PM\"],\"Wednesday\":[\"8 AM–6 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216673,8 +216674,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D8%B7%D9%8A%D8%A8%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161c67f7f606ae4f:0x8a9f25b5a77ad7a!8m2!3d13.6098109!4d44.0952357!16s%2Fg%2F11c206hl6g!19sChIJT64G9vdnHBYReq13WlvyqQg?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
     "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216712,8 +216713,8 @@
     "google_maps_url": "https://www.google.com/maps/place/Amiri+Pharmacy/data=!4m7!3m6!1s0x1602dffdd614d563:0xce9473ebc4a7479e!8m2!3d14.5357104!4d44.404021!16s%2Fg%2F1hfcld9_w!19sChIJY9UU1v3fAhYRnkenxOtzlM4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.700000",
     "opening_hours": "{\"Friday\":[\"8 AM–10 PM\"],\"Monday\":[\"8 AM–10 PM\"],\"Saturday\":[\"8 AM–10 PM\"],\"Sunday\":[\"8 AM–10 PM\"],\"Thursday\":[\"8 AM–10 PM\"],\"Tuesday\":[\"8 AM–10 PM\"],\"Wednesday\":[\"8 AM–10 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216749,8 +216750,8 @@
     "name": "صيدلية وعيادة د/حَبيب طَامِش",
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D9%88%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9+%D8%AF%2F%D8%AD%D9%8E%D8%A8%D9%8A%D8%A8+%D8%B7%D9%8E%D8%A7%D9%85%D9%90%D8%B4%E2%80%AD/data=!4m7!3m6!1s0x16031f0000b92e1d:0xd428301bc4707981!8m2!3d14.5431738!4d44.3872841!16s%2Fg%2F11yg1wys8l!19sChIJHS65AAAfAxYRgXlwxBswKNQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216792,22 +216793,22 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%AB%D9%88%D8%B1+8%E2%80%AD/data=!4m7!3m6!1s0x1603d9c8409c553b:0x1539dc4efa73894b!8m2!3d15.3841395!4d44.2437777!16s%2Fg%2F11wxbd6byh!19sChIJO1WcQMjZAxYRS4lz-k7cORU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"2–10:30 PM\"],\"Monday\":[\"8 AM–12 AM\"],\"Saturday\":[\"8 AM–12 AM\"],\"Sunday\":[\"8 AM–12 AM\"],\"Thursday\":[\"8 AM–12 AM\"],\"Tuesday\":[\"6:30 AM–12 AM\"],\"Wednesday\":[\"8 AM–12 AM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "robots_disallowed",
     "website_enrichment_checked_at": "2026-10-20T09:01:37.529994+00:00",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLenNcmC45y7LfsiXDrUjxUtOMQm-fMk7X7Eqe7vtdwhHYoAmpwAv7zPmUL_wKmLObMhl7pit_wZcZJO24s2Ho2TqY5Oi5psiKYuMSkLwT7wHWuklOTFjzXvbrVYHYN27Qt5GRWvJxz0N3Y=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_images": [],
     "website_phones": [],
     "website_name": "",
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLenNcmC45y7LfsiXDrUjxUtOMQm-fMk7X7Eqe7vtdwhHYoAmpwAv7zPmUL_wKmLObMhl7pit_wZcZJO24s2Ho2TqY5Oi5psiKYuMSkLwT7wHWuklOTFjzXvbrVYHYN27Qt5GRWvJxz0N3Y=w408-h306-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "8c381eeb-d8e6-4a9b-b13a-275aab7fe83b",
@@ -216835,8 +216836,8 @@
     "name": "صيدلية الحجازي",
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B2%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161c41a9e8ce5f09:0x89b76c7ae93a379b!8m2!3d13.4634603!4d44.1670523!16s%2Fg%2F11fnvfm25x!19sChIJCV_O6KlBHBYRmzc66Xpst4k?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.500000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216875,8 +216876,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D9%88%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9+%D9%88%D9%85%D8%AE%D8%AA%D8%A8%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D8%B3%E2%80%AD/data=!4m7!3m6!1s0x1602df0b49262bef:0x96ea583e3980e596!8m2!3d14.519986!4d44.4049091!16s%2Fg%2F11fl3_ryd1!19sChIJ7ysmSQvfAhYRluWAOT5Y6pY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.700000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeL6yVEAcAOUkFqYQlJuWFaXJuNbrOTUpsjxGpgoG7HbWiKX_k0rbRXrvz6ajMHDSPFdsIcFub7AR8YqkwQX3ezFJREDkP7Zw-g5ZMCqWG2AfNjTy0_2Cy1cLMhgFjyvRMGURGe=w643-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216884,13 +216891,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLeL6yVEAcAOUkFqYQlJuWFaXJuNbrOTUpsjxGpgoG7HbWiKX_k0rbRXrvz6ajMHDSPFdsIcFub7AR8YqkwQX3ezFJREDkP7Zw-g5ZMCqWG2AfNjTy0_2Cy1cLMhgFjyvRMGURGe=w643-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "8c381eeb-d8e6-4a9b-b13a-275aab7fe83b",
@@ -216915,8 +216916,8 @@
     "name": "صيدلية",
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161c19740b2a96c5:0xdab87a143d8ad885!8m2!3d13.3267345!4d44.0312365!16s%2Fg%2F11fskdgt92!19sChIJxZYqC3QZHBYRhdiKPRR6uNo?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216955,8 +216956,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D9%87+%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1+%D8%A7%D9%84%D8%A7%D9%85%D9%86%E2%80%AD/data=!4m7!3m6!1s0x1603cfa18e60e5c1:0x250a582524935ee1!8m2!3d15.2684188!4d44.2516956!16s%2Fg%2F11l6bzm5fg!19sChIJweVgjqHPAxYR4V6TJCVYCiU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.700000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfM6Y3A8hIKlhkuzEAhDfBLls-0yiXS_aGkqGS1CJuPs4FadJexTGiSPLxUecRspPkXHAADuZoYJG9ACQjIm_pQbZ8Om3dN54hrPRxqtXa8Z8HWFmuMDT8o0h8yHHz8_LMEb0NU=w426-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -216964,13 +216971,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfM6Y3A8hIKlhkuzEAhDfBLls-0yiXS_aGkqGS1CJuPs4FadJexTGiSPLxUecRspPkXHAADuZoYJG9ACQjIm_pQbZ8Om3dN54hrPRxqtXa8Z8HWFmuMDT8o0h8yHHz8_LMEb0NU=w426-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "1dad0746-ee0d-42db-826b-5ad05a3d58e4",
@@ -216995,8 +216996,8 @@
     "name": "صنعاء شارع تعز",
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%86%D8%B9%D8%A7%D8%A1+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AA%D8%B9%D8%B2%E2%80%AD/data=!4m7!3m6!1s0x1603db003d8a952d:0x5f1e6ecac02aa841!8m2!3d15.3322996!4d44.2237261!16s%2Fg%2F11yjxcjsmm!19sChIJLZWKPQDbAxYRQagqwMpuHl8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217035,8 +217036,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%86%D9%82%D8%A7%D8%A1+%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161c6900071ae9cb:0xcf814a539c317e45!8m2!3d13.5770819!4d44.0201099!16s%2Fg%2F11ym_hcvmq!19sChIJy-kaBwBpHBYRRX4xnFNKgc8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.200000",
     "opening_hours": "{\"Friday\":[\"7 AM–7:30 PM\"],\"Monday\":[\"7 AM–7:30 PM\"],\"Saturday\":[\"7 AM–7:30 PM\"],\"Sunday\":[\"7 AM–7:30 PM\"],\"Thursday\":[\"7 AM–7:30 PM\"],\"Tuesday\":[\"7 AM–7:30 PM\"],\"Wednesday\":[\"7 AM–7:30 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdgOKTJH7r441fRJw-R0djhXy01vR72uJ7NzQA8gc6y1F66amZEoaH2Hh4mKiiPsxB_Xct9PF5lDyiNwhCrigoyto3PnpxVpDI_TN4YmZxsp8sPr3uWh0kDcZLJb8tG9auONtAuxvT_Cdt3=w408-h384-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217044,13 +217051,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLdgOKTJH7r441fRJw-R0djhXy01vR72uJ7NzQA8gc6y1F66amZEoaH2Hh4mKiiPsxB_Xct9PF5lDyiNwhCrigoyto3PnpxVpDI_TN4YmZxsp8sPr3uWh0kDcZLJb8tG9auONtAuxvT_Cdt3=w408-h384-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "13b3beab-8d7e-4f86-a4a1-70b9e5ace5cb",
@@ -217081,8 +217082,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%A7%D9%81%D8%A7%D9%82+%D9%84%D9%85%D8%A7%D8%B1%D9%83%D8%A7%D8%AA+%D8%A7%D9%84%D8%A7%D8%AD%D8%B0%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161ce961d8c4435d:0xbafed2b7899d1595!8m2!3d13.9734064!4d44.1755693!16s%2Fg%2F11z7gnjly8!19sChIJXUPE2GHpHBYRlRWdibfS_ro?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"8:30 AM–12 AM\"],\"Monday\":[\"8:30 AM–12 AM\"],\"Saturday\":[\"8:30 AM–12 AM\"],\"Sunday\":[\"8:30 AM–12 AM\"],\"Thursday\":[\"8:30 AM–12 AM\"],\"Tuesday\":[\"8:30 AM–12 AM\"],\"Wednesday\":[\"8:30 AM–12 AM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLffk-enfhlKKoht4isZHXEaiCF7xyHnZWqF2xPuK_KwUdO4Y0Wn6b5rCrZMYMkYuX2w4xJSlA2XzQC9OlJfu0QcSCh_dhYArXysPShvIBud7DLg1Sl2I7R_Cyv40FYF1zJkYBvTjWEVRnpT=w408-h544-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217090,13 +217097,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLffk-enfhlKKoht4isZHXEaiCF7xyHnZWqF2xPuK_KwUdO4Y0Wn6b5rCrZMYMkYuX2w4xJSlA2XzQC9OlJfu0QcSCh_dhYArXysPShvIBud7DLg1Sl2I7R_Cyv40FYF1zJkYBvTjWEVRnpT=w408-h544-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "13b3beab-8d7e-4f86-a4a1-70b9e5ace5cb",
@@ -217128,7 +217129,6 @@
     "google_maps_url": "https://www.google.com/maps/place/Alomqy+%26+Bros.+Money+Exchange/data=!4m7!3m6!1s0x161def66cce60c47:0x25b4b9d5c46fc986!8m2!3d13.2076165!4d44.7839027!16s%2Fg%2F11j74tml_d!19sChIJRwzmzGbvHRYRhslvxNW5tCU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.000000",
     "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"8 AM–8 PM\"],\"Saturday\":[\"8 AM–8 PM\"],\"Sunday\":[\"8 AM–8 PM\"],\"Thursday\":[\"8 AM–8 PM\"],\"Tuesday\":[\"8 AM–8 PM\"],\"Wednesday\":[\"8 AM–8 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "ok",
     "website_enrichment_checked_at": "2026-10-20T09:01:41.148482+00:00",
     "website_images": [
@@ -217145,12 +217145,6 @@
       "https://www.alomqy.com/Images/Services/apps_icon.svg",
       "https://www.alomqy.com/Images/Services/other_services_icon.svg"
     ],
-    "website_phones": [],
-    "website_name": "",
-    "website_address": "",
-    "website_opening_hours": "",
-    "website_latitude": "",
-    "website_longitude": "",
     "instagram": "https://www.instagram.com/AlomqyCo/",
     "facebook": "https://www.facebook.com/AlomqyCo",
     "photo_urls": [
@@ -217171,7 +217165,14 @@
     "photo_sources": [
       "maps_thumbnail",
       "business_website"
-    ]
+    ],
+    "source_engine": "mahanaicoach",
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
   },
   {
     "input_id": "de7234d4-1561-4486-9e86-610f8bf4b02c",
@@ -217197,8 +217198,8 @@
     "name": "محلات الثقه التجاريه",
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%AB%D9%82%D9%87+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161cedc64b88831f:0x3c288293d3410782!8m2!3d13.92413!4d44.1459167!16s%2Fg%2F11q3vq_j84!19sChIJH4OIS8btHBYRggdB05OCKDw?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217236,8 +217237,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161ce992f0737c99:0x85028db9a3bbde1c!8m2!3d13.9728704!4d44.1752917!16s%2Fg%2F11ftyxdbpv!19sChIJmXxz8JLpHBYRHN67o7mNAoU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.300000",
     "opening_hours": "{\"Friday\":[\"7 AM–10 PM\"],\"Monday\":[\"7 AM–10 PM\"],\"Saturday\":[\"7 AM–10 PM\"],\"Sunday\":[\"7 AM–10 PM\"],\"Thursday\":[\"7 AM–10 PM\"],\"Tuesday\":[\"7 AM–10 PM\"],\"Wednesday\":[\"7 AM–10 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217276,8 +217277,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%AD%D8%B1%D9%88%D9%8A+%D9%84%D9%84%D8%A7%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x161c5d005c132d5f:0xe1efeaca0bff4f0b!8m2!3d13.6540566!4d44.1423507!16s%2Fg%2F11x7qvhsdf!19sChIJXy0TXABdHBYRC0__C8rq7-E?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.500000",
     "opening_hours": "{\"Friday\":[\"7 AM–11 PM\"],\"Monday\":[\"7 AM–11 PM\"],\"Saturday\":[\"7 AM–11 PM\"],\"Sunday\":[\"7 AM–11 PM\"],\"Thursday\":[\"7 AM–11 PM\"],\"Tuesday\":[\"7 AM–11 PM\"],\"Wednesday\":[\"7 AM–11 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfeE0LF8DZ0inhl8KOkpn8Z5rHZVhqwcUrA-j4OYjLkVC069ldwaYJX1YUmU8z7gxyxAGsquY0bVBNJirIGaAfqshW_ehz7tYAcu8iRqpC46z-BlD5NeVSmbYd8-rP_1CqV8VtUtcyDm7Ej=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217285,13 +217292,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfeE0LF8DZ0inhl8KOkpn8Z5rHZVhqwcUrA-j4OYjLkVC069ldwaYJX1YUmU8z7gxyxAGsquY0bVBNJirIGaAfqshW_ehz7tYAcu8iRqpC46z-BlD5NeVSmbYd8-rP_1CqV8VtUtcyDm7Ej=w408-h725-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "6ed70e00-c10f-4f7a-b89d-48db5f0d3194",
@@ -217322,8 +217323,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%8A%D8%AF+%D8%A7%D9%84%D9%85%D9%86%D8%AC%D8%A7+said+almanga%E2%80%AD/data=!4m7!3m6!1s0x161cf5a7c475ebdb:0x2aeecf8dad6be7b5!8m2!3d13.7613829!4d44.1354047!16s%2Fg%2F11b6v6g7hj!19sChIJ2-t1xKf1HBYRtedrrY3P7io?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.700000",
     "opening_hours": "{\"Friday\":[\"8 AM–10 PM\"],\"Monday\":[\"8 AM–10 PM\"],\"Saturday\":[\"8 AM–10 PM\"],\"Sunday\":[\"8 AM–10 PM\"],\"Thursday\":[\"8 AM–10 PM\"],\"Tuesday\":[\"8 AM–10 PM\"],\"Wednesday\":[\"8 AM–10 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLckr2AcsYyTkqT5gqIhk673_8h_NValWbMnWyRqiqsrmvVdG1HGYfJbJtjJ-rt5UJUnR-BNJDbCpM9rXV9rgU7RFNqMqXyWPxUuvOPc73tqeoPk0SXAe_IZOS0f7iQTzyYq3uU=w408-h244-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217331,13 +217338,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLckr2AcsYyTkqT5gqIhk673_8h_NValWbMnWyRqiqsrmvVdG1HGYfJbJtjJ-rt5UJUnR-BNJDbCpM9rXV9rgU7RFNqMqXyWPxUuvOPc73tqeoPk0SXAe_IZOS0f7iQTzyYq3uU=w408-h244-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "6ed70e00-c10f-4f7a-b89d-48db5f0d3194",
@@ -217366,8 +217367,14 @@
     "name": "مزارع البيطري للقات",
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%B2%D8%A7%D8%B1%D8%B9+%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A+%D9%84%D9%84%D9%82%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x161cf53339dd1201:0x2d2385e3d24c48c6!8m2!3d13.7742533!4d44.1537569!16s%2Fg%2F11t8nj4t7c!19sChIJARLdOTP1HBYRxkhM0uOFIy0?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLc86bL_zxF0QDP298KNuISsjwoxFy_CBVNdU7TgvI75orBu62eiF7tdTmQ68v6dnNw7fouX-mN1y_YghK96cDqaHbNKlYWm23nHuPfN6XoVP1R3kFfZ0DikQXBp4shLJzEWF0U=w408-h544-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217375,13 +217382,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLc86bL_zxF0QDP298KNuISsjwoxFy_CBVNdU7TgvI75orBu62eiF7tdTmQ68v6dnNw7fouX-mN1y_YghK96cDqaHbNKlYWm23nHuPfN6XoVP1R3kFfZ0DikQXBp4shLJzEWF0U=w408-h544-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "6ed70e00-c10f-4f7a-b89d-48db5f0d3194",
@@ -217407,8 +217408,8 @@
     "name": "الحردي للآيسكريم",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%AD%D8%B1%D8%AF%D9%8A+%D9%84%D9%84%D8%A2%D9%8A%D8%B3%D9%83%D8%B1%D9%8A%D9%85%E2%80%AD/data=!4m7!3m6!1s0x161cf5006d6ba849:0x6e23a0f891079eb8!8m2!3d13.760242!4d44.1300194!16s%2Fg%2F11yvx_p9xq!19sChIJSahrbQD1HBYRuJ4HkfigI24?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217445,8 +217446,8 @@
     "name": "كفتريا الصقر للعصائر الطازجة والوجبات الخفيفه",
     "google_maps_url": "https://www.google.com/maps/place/%D9%83%D9%81%D8%AA%D8%B1%D9%8A%D8%A7+%D8%A7%D9%84%D8%B5%D9%82%D8%B1+%D9%84%D9%84%D8%B9%D8%B5%D8%A7%D8%A6%D8%B1+%D8%A7%D9%84%D8%B7%D8%A7%D8%B2%D8%AC%D8%A9+%D9%88%D8%A7%D9%84%D9%88%D8%AC%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D8%AE%D9%81%D9%8A%D9%81%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161cf50027427229:0x8a1c9f89229bdc33!8m2!3d13.764205!4d44.1209365!16s%2Fg%2F11lp66r1xv!19sChIJKXJCJwD1HBYRM9ybIomfHIo?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217486,8 +217487,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%A8%E2%80%AD/data=!4m7!3m6!1s0x161ceb24c3566ead:0xc9cc6163d8f8dbb6!8m2!3d13.9745876!4d44.171185!16s%2Fg%2F11jscd68fn!19sChIJrW5WwyTrHBYRttv42GNhzMk?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.500000",
     "opening_hours": "{\"Friday\":[\"5:30–10:22 AM\"],\"Monday\":[\"5:30–10:22 AM\"],\"Saturday\":[\"5:30–10:22 AM\"],\"Sunday\":[\"5:30–10:22 AM\"],\"Thursday\":[\"5:30–10:22 AM\"],\"Tuesday\":[\"5:30–10:22 AM\"],\"Wednesday\":[\"5:30–10:22 AM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLftr4F7hemEWmCsje5LilWQRs-fhPJ5byYFWhaaqe14qN-paLZOgMdIFCKGKnu1Ie_gkbII9ueBtkx6dMUus0K_XuXaVfxPu3TayxVN8NMvze9dqEJwvF4dlFjQ7XKiFTcwCG4c=w408-h862-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217495,13 +217502,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLftr4F7hemEWmCsje5LilWQRs-fhPJ5byYFWhaaqe14qN-paLZOgMdIFCKGKnu1Ie_gkbII9ueBtkx6dMUus0K_XuXaVfxPu3TayxVN8NMvze9dqEJwvF4dlFjQ7XKiFTcwCG4c=w408-h862-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "7ae17d39-d9d4-43e9-b013-a50f8d598e7b",
@@ -217531,8 +217532,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%AA%D9%85%D8%B1%D9%8A%D9%86%D8%A7%D8%AA+%D9%88%D8%A7%D8%AF%D9%8A+%D9%86%D8%AE%D9%84%D8%A7%D9%86+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%87+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%87+%D9%88%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82+%28%D8%AC%D9%85%D9%84%D9%87%29%E2%80%AD/data=!4m7!3m6!1s0x161cf322a670151f:0xdcaa028b8a6ae74a!8m2!3d13.8136344!4d44.1663376!16s%2Fg%2F11jrplc_65!19sChIJHxVwpiLzHBYRSudqiosCqtw?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.800000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217569,8 +217570,14 @@
     "name": "محلات حمود منصور المطحني للاقمشه الرجاليه",
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%AD%D9%85%D9%88%D8%AF+%D9%85%D9%86%D8%B5%D9%88%D8%B1+%D8%A7%D9%84%D9%85%D8%B7%D8%AD%D9%86%D9%8A+%D9%84%D9%84%D8%A7%D9%82%D9%85%D8%B4%D9%87+%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161cf584d2cb3879:0xcea75ca9db385c33!8m2!3d13.7542871!4d44.1320585!16s%2Fg%2F11tsxt3j43!19sChIJeTjL0oT1HBYRM1w426lcp84?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.500000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLft4t36RughLFujfaoZpozkVfLRpWtxXolKGlUnc7PpIsnBQaJj-rucDOo4rMWHwW_t9YRFfvykr9tpCMhsWi4au9UJROzZWs1HHmdbHN3x2RUECZfr0CXOf2W9_v5FvTelap-r=w506-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217578,13 +217585,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLft4t36RughLFujfaoZpozkVfLRpWtxXolKGlUnc7PpIsnBQaJj-rucDOo4rMWHwW_t9YRFfvykr9tpCMhsWi4au9UJROzZWs1HHmdbHN3x2RUECZfr0CXOf2W9_v5FvTelap-r=w506-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "7ae17d39-d9d4-43e9-b013-a50f8d598e7b",
@@ -217614,8 +217615,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D9%85%D8%A7%D8%AC%D8%AF+%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D8%A8%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf5a155555555:0x47685c568183c827!8m2!3d13.7571912!4d44.1387934!16s%2Fg%2F11fylpjr5d!19sChIJVVVVVaH1HBYRJ8iDgVZcaEc?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"7–11 AM\"],\"Monday\":[\"7–11 AM\"],\"Saturday\":[\"7–11 AM\"],\"Sunday\":[\"7–11 AM\"],\"Thursday\":[\"7–11 AM\"],\"Tuesday\":[\"7–11 AM\"],\"Wednesday\":[\"7–11 AM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLc_BdAGbxnfC3f-GjIvFaHB3i_p0X76FPo4jo0d1MmHDCghlSHK7oKCJdZzIT7qCiTMOUfCU12Ar2hQa3PPwLRT0fXcLpCPGEjQttP-FMuKnTI-IWdwYGgMOunTDTjYK7zVquk0=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217623,13 +217630,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLc_BdAGbxnfC3f-GjIvFaHB3i_p0X76FPo4jo0d1MmHDCghlSHK7oKCJdZzIT7qCiTMOUfCU12Ar2hQa3PPwLRT0fXcLpCPGEjQttP-FMuKnTI-IWdwYGgMOunTDTjYK7zVquk0=w408-h725-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "7ae17d39-d9d4-43e9-b013-a50f8d598e7b",
@@ -217657,8 +217658,8 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%AC%D9%8A+%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF+%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161cf5007f966b65:0x5855e67c8470bd54!8m2!3d13.7604799!4d44.1356665!16s%2Fg%2F11w2h62z91!19sChIJZWuWfwD1HBYRVL1whHzmVVg?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
     "opening_hours": "{\"Friday\":[\"8 AM–10:31 PM\"],\"Monday\":[\"8 AM–10:31 PM\"],\"Saturday\":[\"8 AM–10:31 PM\"],\"Sunday\":[\"8 AM–10:31 PM\"],\"Thursday\":[\"8 AM–10:31 PM\"],\"Tuesday\":[\"8 AM–10:31 PM\"],\"Wednesday\":[\"8 AM–10:31 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217694,8 +217695,8 @@
     "name": "سوق سمك بالجمله",
     "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%88%D9%82+%D8%B3%D9%85%D9%83+%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D9%84%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161cef9d6da99dd5:0x5b4820c1f6ab7d22!8m2!3d13.9380363!4d44.1778998!16s%2Fg%2F11qq4d4xzb!19sChIJ1Z2pbZ3vHBYRIn2r9sEgSFs?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.100000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217736,8 +217737,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D9%85%D8%AD%D9%85%D8%AF%D9%87%D8%B2%D8%A7%D8%B9%E2%80%AD/data=!4m7!3m6!1s0x161cf5a155555555:0x3f36049e426881b!8m2!3d13.7571912!4d44.1387934!16s%2Fg%2F11c563q62b!19sChIJVVVVVaH1HBYRG4gm5Elg8wM?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.300000",
     "opening_hours": "{\"Friday\":[\"8 AM–9 PM\"],\"Monday\":[\"8 AM–9 PM\"],\"Saturday\":[\"8 AM–9 PM\"],\"Sunday\":[\"8 AM–9 PM\"],\"Thursday\":[\"8 AM–9 PM\"],\"Tuesday\":[\"8 AM–9 PM\"],\"Wednesday\":[\"8 AM–9 PM\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLe_66WxkF_XZftcBPkb9uIdER_eqRc6q3iu5FsO68tlxj6JA2Pk6-FAjQN-TmL_gpxvmFNQnXPGge58S3_ndIkUPczLGGmOuDkVn5rzBQyk_m1cWvItRZg5dNf_cllSgGFPNFuU=w408-h408-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217745,13 +217752,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLe_66WxkF_XZftcBPkb9uIdER_eqRc6q3iu5FsO68tlxj6JA2Pk6-FAjQN-TmL_gpxvmFNQnXPGge58S3_ndIkUPczLGGmOuDkVn5rzBQyk_m1cWvItRZg5dNf_cllSgGFPNFuU=w408-h408-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "7ae17d39-d9d4-43e9-b013-a50f8d598e7b",
@@ -217781,8 +217782,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84+%D9%84%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA+%D8%A7%D9%84%D9%86%D8%A7%D8%B1%D9%8A%D8%A9+%D9%88%D9%82%D8%B7%D8%B9+%D8%BA%D9%8A%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%B5%D9%84%D9%8A%D9%87+%D8%AC%D9%85%D9%84%D9%87+%D9%88%D8%AA%D8%AC%D8%B2%D8%A6%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161cf58f2e2c37fd:0x67fb8a6d6a1178b9!8m2!3d13.7571912!4d44.1387934!16s%2Fg%2F11pcpwt9m8!19sChIJ_TcsLo_1HBYRuXgRam2K-2c?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLc9-VkjLMi0GV5oGc7zBcnhJNC7DFlOFjVJkkrLny9SSl9bG8hTr7-WV8BGdq12k6M9eQg4qmEJ12jeUw-PQhFHeKTksAkwXKzqlnWCCVaGnjWbFhRtL0svPVqWBsUBKlK-6z8=w408-h302-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217790,13 +217797,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLc9-VkjLMi0GV5oGc7zBcnhJNC7DFlOFjVJkkrLny9SSl9bG8hTr7-WV8BGdq12k6M9eQg4qmEJ12jeUw-PQhFHeKTksAkwXKzqlnWCCVaGnjWbFhRtL0svPVqWBsUBKlK-6z8=w408-h302-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "7ae17d39-d9d4-43e9-b013-a50f8d598e7b",
@@ -217821,8 +217822,8 @@
     "name": "محلات علي ناصر الشرعبي",
     "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%B9%D9%84%D9%8A+%D9%86%D8%A7%D8%B5%D8%B1+%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D8%A8%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf54840b3b363:0xa7e503ccd2b61d01!8m2!3d13.7584195!4d44.1298445!16s%2Fg%2F11ng6l41kj!19sChIJY7OzQEj1HBYRAR220swD5ac?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217861,8 +217862,14 @@
     "name": "Goods Aljoulihy",
     "google_maps_url": "https://www.google.com/maps/place/Goods+Aljoulihy/data=!4m7!3m6!1s0x161ce9761e4c4611:0xa82dcaf3c267efd7!8m2!3d13.975889!4d44.1852214!16s%2Fg%2F11dxksz0_w!19sChIJEUZMHnbpHBYR1-9nwvPKLag?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.500000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfZsMmjy-qAO5s5b7I5yiOXEbdxJitnVfJHi2XM0USmLLhmpsH7XjChZn_8jF5yEFIprUTu47MQ8NPyr0Jx5o7waAlkVAcLWLm6nw7ZVFGxJYIYe4Akt1_LVed-5Xoc8mz69W0=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217870,13 +217877,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfZsMmjy-qAO5s5b7I5yiOXEbdxJitnVfJHi2XM0USmLLhmpsH7XjChZn_8jF5yEFIprUTu47MQ8NPyr0Jx5o7waAlkVAcLWLm6nw7ZVFGxJYIYe4Akt1_LVed-5Xoc8mz69W0=w408-h725-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "8e8d84e6-d9b6-449f-8790-23b6bb1fa8c2",
@@ -217907,8 +217908,14 @@
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -217916,13 +217923,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "1ac56d48-0047-4e6d-8606-d353e3dd4670",
@@ -217953,6 +217954,226 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D9%8A%D8%B1%D9%85%D9%88%D9%83+%D9%81%D8%A7%D8%B1%D9%85%D8%A7+%D8%AF%2F+%D9%8A%D8%B9%D9%82%D9%88%D8%A8+%D9%85%D8%AC%D9%84%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161cf35906b41a45:0xa4f3efd60325a04c!8m2!3d13.7606001!4d44.2217875!16s%2Fg%2F11y1yqt6py!19sChIJRRq0BlnzHBYRTKAlA9bv86Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.500000",
     "opening_hours": "{\"Friday\":[\"8 AM–10 PM\"],\"Monday\":[\"8 AM–9 PM\"],\"Saturday\":[\"8 AM–9 PM\"],\"Sunday\":[\"8 AM–9 PM\"],\"Thursday\":[\"8 AM–9 PM\"],\"Tuesday\":[\"8 AM–9 PM\"],\"Wednesday\":[\"8 AM–9 PM\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcikjFsl1NIqhflp1CAkImqY4l8yuAlW3_gMDYU3CWYCzJ9QZsjgjdizBKT11flh-zolm62LcNdBVUxf2QX9_qaHRzVxmD_I_n1WA6eOtKy_QoqYR5tpAwhmQWBe8T0ogeNuYzdQg=w408-h509-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "43cfd011-9c21-4847-8a22-0a2b51b2324d",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHjL1A47pCOP7KQQLxm-JqTzm9rsVtSn0ZDb1lGemcQVnsHvfifWugMVtxK8FLwuwu8ydM7bd3MaMat9OTys3MarXu0OtZsEi8OD5euWs4tp_4xy6bVKi37of1oXXKO7Tu3b9j=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcHjL1A47pCOP7KQQLxm-JqTzm9rsVtSn0ZDb1lGemcQVnsHvfifWugMVtxK8FLwuwu8ydM7bd3MaMat9OTys3MarXu0OtZsEi8OD5euWs4tp_4xy6bVKi37of1oXXKO7Tu3b9j=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "gosom",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "e629464d-2197-481d-8697-a679596aa352",
+    "link": "https://www.google.com/maps/place/./data=!4m7!3m6!1s0x161ce9a687c18c09:0xc1c5fb7e8733aaf3!8m2!3d13.9557832!4d44.1820118!16s%2Fg%2F11vc7z1ryb!19sChIJCYzBh6bpHBYR86ozh377xcE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "title": ".",
+    "category": "Pharmacy",
+    "address": ".، شارع ميتم, Ibb, Yemen",
+    "plus_code": "X54J+8R Ibb, Yemen",
+    "review_count": "2",
+    "review_rating": "5.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":2}",
+    "latitude": "13.955783",
+    "longitude": "44.182012",
+    "cid": "13962842740584852211",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlRWKaWLtiyQOuwVj_Vb_PK6KIsiqlj29ZRjVMDSlHx_lwYHANv_JzW1r2P0g6WUnSxBN5AQtHDpfPhDLdt7jrkruNJ3cT8u4iz6vB7WpVKObxebHRYcRAi9ssb_XnhzO7X-kE=w408-h306-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9a687c18c09:0xc1c5fb7e8733aaf3",
+    "place_id": "ChIJCYzBh6bpHBYR86ozh377xcE",
+    "owner": "{\"id\":\"118187626176083649437\",\"name\":\". (Owner)\",\"link\":\"https://www.google.com/maps/contrib/118187626176083649437\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"شارع ميتم\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Basheer AL-Najjar\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJdP902JQQffmCsuhb3AZi46emaXY7fBkACK3htWeCcGnDBVg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان جميل وفيه خدمات حلوة\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUQ1a0tidkJREAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118396012489751802011/reviews?hl=en-US\",\"posted_at_unix_micros\":1697654135695015,\"updated_at_unix_micros\":1697654135695015,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان جميل وفيه خدمات حلوة\",\"text_translated\":\"A beautiful place with great services\",\"published_at\":\"2023-10-18T18:35:35.695015Z\"},{\"Name\":\"عبدالله الادريسي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJN9INaBS8-YVjCYNZx_6J5_dbilCmA5MZvdVq64PJrBeaSnQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمة مميزة\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNGdGZEaE1BEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102610109233963222859/reviews?hl=en-US\",\"posted_at_unix_micros\":1698672459535971,\"updated_at_unix_micros\":1698672459535971,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمة مميزة\",\"text_translated\":\"Excellent service\",\"published_at\":\"2023-10-30T13:27:39.535971Z\"}]",
+    "name": ".",
+    "google_maps_url": "https://www.google.com/maps/place/./data=!4m7!3m6!1s0x161ce9a687c18c09:0xc1c5fb7e8733aaf3!8m2!3d13.9557832!4d44.1820118!16s%2Fg%2F11vc7z1ryb!19sChIJCYzBh6bpHBYR86ozh377xcE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "5.000000",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdlRWKaWLtiyQOuwVj_Vb_PK6KIsiqlj29ZRjVMDSlHx_lwYHANv_JzW1r2P0g6WUnSxBN5AQtHDpfPhDLdt7jrkruNJ3cT8u4iz6vB7WpVKObxebHRYcRAi9ssb_XnhzO7X-kE=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "gosom",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "aae68622-150f-4387-94af-a02f07745c86",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "20",
+    "scan_completed_at_utc": "2026-10-25T06:15:06.728048+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "8e8d84e6-d9b6-449f-8790-23b6bb1fa8c2",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "23",
+    "scan_completed_at_utc": "2026-10-25T06:45:31.412591+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "afa7e356-297a-471d-b7de-d79237ee9b5a",
+    "link": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A3%D8%B3%D9%81%D8%A7%D8%B1+%D9%84%D9%84%D8%B3%D9%81%D8%B1%D9%8A%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86+%D9%88%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D8%AC%E2%80%AD/data=!4m7!3m6!1s0x161ceb418bd65f4b:0x8eace507ed023e5e!8m2!3d13.9717061!4d44.1624937!16s%2Fg%2F11n5l55v97!19sChIJS1_Wi0HrHBYRXj4C7QflrI4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "مكتب أسفار للسفريات والطيران وخدمات الحج",
+    "category": "Travel agency",
+    "address": "X5C6+MXQ مكتب أسفار للسفريات والطيران وخدمات الحج, Ibb, Yemen",
+    "open_hours": "{\"Friday\":[\"11 AM–8:01 PM\"],\"Monday\":[\"8 AM–9 PM\"],\"Saturday\":[\"8 AM–9 PM\"],\"Sunday\":[\"8 AM–9 PM\"],\"Thursday\":[\"8 AM–9 PM\"],\"Tuesday\":[\"8 AM–9 PM\"],\"Wednesday\":[\"8 AM–9 PM\"]}",
+    "phone": "+967 770 462 756",
+    "review_count": "9",
+    "review_rating": "3.300000",
+    "reviews_per_rating": "{\"1\":3,\"2\":1,\"3\":0,\"4\":0,\"5\":5}",
+    "latitude": "13.971706",
+    "longitude": "44.162494",
+    "cid": "10280843871583878750",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGPebs9FA4rNLcR-VJzuLAeAn8xyiG2UF537jbO7DsRRxnsgwhUGNM3enRrIQMb327K_SMO4z6tPnlxlL1QaFv5eyGOAJuLi57adIZoVd15UwIWbzJZDSxiKc2bHOXGPkXM4x_=w408-h306-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ceb418bd65f4b:0x8eace507ed023e5e",
+    "place_id": "ChIJS1_Wi0HrHBYRXj4C7QflrI4",
+    "owner": "{\"id\":\"\",\"name\":\"مكتب أسفار للسفريات والطيران وخدمات الحج (Owner)\",\"link\":\"\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"X5C6+MXQ\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"عبدالله ابو عباد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIGYY4tjXx8k0-yjnZily4JYXj_iv_sM3AoGrQaHxuc0DzAow=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"ممتاز والموظفه سريعه في الرد وتعاملها جيد انصح بالتعامل مع مكتب اسفار\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tKVWRVYzBOMU5ITlhseFZETkpSMUZTWlVkNFRtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104040694287565843568/reviews?hl=en-US\",\"posted_at_unix_micros\":1774302071762893,\"updated_at_unix_micros\":1774302071762893,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"ممتاز والموظفه سريعه في الرد وتعاملها جيد انصح بالتعامل مع مكتب اسفار\",\"text_translated\":\"Excellent! The employee was quick to respond and her service was good. I recommend dealing with this travel agency.\",\"published_at\":\"2026-03-23T21:41:11.762893Z\"},{\"Name\":\"عبدالرحمن جعفر\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIAYwC63lplbVJK7vtI18rMGtuSo7TzZkWB6sln8FX1jGqcyA=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"اخواني المسافرين احذروا هذا المكتب كذابين\\nحجزت عندهم. شركة ربا الحجاز. غيروا التذكره شركة مشوار. وباصات مشوار ازفت معامله عند السواقين وبطيئن بالسواقه من أب الﻯ صنعا من 3 العصر الﻯ 2الليل وتغيير الباص بصنعا وتنقل العفش بنفسك وبالطريق يمكنووك فروقات اول مره اشوف فروقات وانت خارج من اليمن\\nباصات البركه لا مثيل لها عن تجربه اتحدث\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNwbTZudFZBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/117815996887740689350/reviews?hl=en-US\",\"posted_at_unix_micros\":1691706898182725,\"updated_at_unix_micros\":1691706910726085,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"اخواني المسافرين احذروا هذا المكتب كذابين\\nحجزت عندهم. شركة ربا الحجاز. غيروا التذكره شركة مشوار. وباصات مشوار ازفت معامله عند السواقين وبطيئن بالسواقه من أب الﻯ صنعا من 3 العصر الﻯ 2الليل وتغيير الباص بصنعا وتنقل العفش بنفسك وبالطريق يمكنووك فروقات اول مره اشوف فروقات وانت خارج من اليمن\\nباصات البركه لا مثيل لها عن تجربه اتحدث\",\"text_translated\":\"My fellow travelers, beware of this office; they are liars.\\n\\nI booked with them. It was Raba Al-Hijaz Company. They changed my ticket to Mishwar Company. Mishwar buses have the worst service from the drivers, and they drive very slowly from Ibb to Sana'a, from 3 PM to 2 AM. You have to change buses in Sana'a and carry your luggage yourself. They might even charge you extra fares on the way. I've never seen such fares when leaving Yemen!\\nAl-Baraka buses are unparalleled; I speak from experience.\",\"published_at\":\"2023-08-10T22:34:58.182725Z\"},{\"Name\":\"عبد الكريم الشباطي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIASA7zdDm3301tuC-4AfQ2MOpqeL_aOgMH0WK-3djv4LzMmw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"جيد في تعامله انصح في زيارتهم والتعامل معهم\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21kZkxWOVZhWE5ZVlZWWlEyaG1PRFpLVm1KbGRXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112477317455885269366/reviews?hl=en-US\",\"posted_at_unix_micros\":1757163904217931,\"updated_at_unix_micros\":1757163904217931,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد في تعامله انصح في زيارتهم والتعامل معهم\",\"text_translated\":\"They are good at dealing with people; I recommend visiting and dealing with them.\",\"published_at\":\"2025-09-06T13:05:04.217931Z\"},{\"Name\":\"مهيب شداد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJuTt7tpRoosPrVWJ-8wOiqQZ6-YEjD5cMbmB2qQvgU75We6w=s120-c-rp-mo-ba12-br100\",\"Rating\":1,\"Description\":\"سي سي انصح بعدم التعامل معاهم\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUQ3M3NUSXJ3RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/117125024126495269082/reviews?hl=en-US\",\"posted_at_unix_micros\":1724525300591624,\"updated_at_unix_micros\":1724525300591624,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"سي سي انصح بعدم التعامل معاهم\",\"text_translated\":\"CC, I advise against dealing with them.\",\"published_at\":\"2024-08-24T18:48:20.591624Z\"},{\"Name\":\"محلات فواز الغيثي التجاريه\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW3_VIGhj9cUPFEAWUhAWEDp_S4kdev-np7rvqD42NTZGkMhQg=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"ممتاز ومعامله جيده وسلسه\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnTURBMDltRnd3RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105536660760602293346/reviews?hl=en-US\",\"posted_at_unix_micros\":1739292902527175,\"updated_at_unix_micros\":1739292902527175,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"ممتاز ومعامله جيده وسلسه\",\"text_translated\":\"Excellent, good and smooth service.\",\"published_at\":\"2025-02-11T16:55:02.527175Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "24",
+    "scan_completed_at_utc": "2026-10-25T11:31:00.668219+00:00",
+    "name": "مكتب أسفار للسفريات والطيران وخدمات الحج",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D9%83%D8%AA%D8%A8+%D8%A3%D8%B3%D9%81%D8%A7%D8%B1+%D9%84%D9%84%D8%B3%D9%81%D8%B1%D9%8A%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86+%D9%88%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D8%AC%E2%80%AD/data=!4m7!3m6!1s0x161ceb418bd65f4b:0x8eace507ed023e5e!8m2!3d13.9717061!4d44.1624937!16s%2Fg%2F11n5l55v97!19sChIJS1_Wi0HrHBYRXj4C7QflrI4?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.300000",
+    "opening_hours": "{\"Friday\":[\"11 AM–8:01 PM\"],\"Monday\":[\"8 AM–9 PM\"],\"Saturday\":[\"8 AM–9 PM\"],\"Sunday\":[\"8 AM–9 PM\"],\"Thursday\":[\"8 AM–9 PM\"],\"Tuesday\":[\"8 AM–9 PM\"],\"Wednesday\":[\"8 AM–9 PM\"]}",
     "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
     "website_enrichment_checked_at": "",
@@ -217964,7 +218185,221 @@
     "website_latitude": "",
     "website_longitude": "",
     "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLcikjFsl1NIqhflp1CAkImqY4l8yuAlW3_gMDYU3CWYCzJ9QZsjgjdizBKT11flh-zolm62LcNdBVUxf2QX9_qaHRzVxmD_I_n1WA6eOtKy_QoqYR5tpAwhmQWBe8T0ogeNuYzdQg=w408-h509-k-no"
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeGPebs9FA4rNLcR-VJzuLAeAn8xyiG2UF537jbO7DsRRxnsgwhUGNM3enRrIQMb327K_SMO4z6tPnlxlL1QaFv5eyGOAJuLi57adIZoVd15UwIWbzJZDSxiKc2bHOXGPkXM4x_=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "643c40b8-d0ee-4fda-8a3e-31668ec6335d",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "25",
+    "scan_completed_at_utc": "2026-10-25T11:41:08.853897+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "5648c188-2cde-4cc6-8a73-4a8206bb05cf",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "26",
+    "scan_completed_at_utc": "2026-10-25T11:51:25.042671+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "99f6aa96-4f22-4d30-8a3c-2a4d2b34cc13",
+    "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D9%87%D9%85%D9%8A+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161d03437cb423db:0xa5c48ca5272a794d!8m2!3d13.7998962!4d44.4276794!16s%2Fg%2F11shqb2f0v!19sChIJ2yO0fEMDHRYRTXkqJ6WMxKU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "محلات الجهمي التجارية",
+    "category": "Building materials store",
+    "address": "QCXH+V7P محلات الجهمي التجارية, Ad Dakhlah, Yemen",
+    "phone": "+967 771 043 724",
+    "review_count": "1",
+    "review_rating": "5.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":1}",
+    "latitude": "13.799896",
+    "longitude": "44.427679",
+    "cid": "11944826752647985485",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGhJIclRrII7JBS1122xgddGy6qrCwcUSaFEKg7HaVWygqPHhApImiyD6CeEMNJXwHcoJCH_DiWaKjNnhXx7pw7-alLB6XIYCV3A5ytrZWnHh1p8l6eaGGW9HuAuBvBF4I7PlYU9sY1_e_=w426-h240-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161d03437cb423db:0xa5c48ca5272a794d",
+    "place_id": "ChIJ2yO0fEMDHRYRTXkqJ6WMxKU",
+    "owner": "{\"id\":\"\",\"name\":\"محلات الجهمي التجارية (Owner)\",\"link\":\"\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"QCXH+V7P\",\"city\":\"Ad Dakhlah\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"محمد قريع\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIYFUgUmSyrXMgIJ9dJw2uvVe6kAHcc9Nhz0z13pnLCbuOkOw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21sSlRTMDVhMUI2VVY5WFduaGxSSFJTVDBZd01GRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107412844403409452734/reviews?hl=en-US\",\"posted_at_unix_micros\":1772373657451344,\"updated_at_unix_micros\":1772373657451344,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2026-03-01T14:00:57.451344Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "26",
+    "scan_completed_at_utc": "2026-10-25T11:51:25.042671+00:00",
+    "name": "محلات الجهمي التجارية",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D9%87%D9%85%D9%8A+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161d03437cb423db:0xa5c48ca5272a794d!8m2!3d13.7998962!4d44.4276794!16s%2Fg%2F11shqb2f0v!19sChIJ2yO0fEMDHRYRTXkqJ6WMxKU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "5.000000",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfGhJIclRrII7JBS1122xgddGy6qrCwcUSaFEKg7HaVWygqPHhApImiyD6CeEMNJXwHcoJCH_DiWaKjNnhXx7pw7-alLB6XIYCV3A5ytrZWnHh1p8l6eaGGW9HuAuBvBF4I7PlYU9sY1_e_=w426-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "99f6aa96-4f22-4d30-8a3c-2a4d2b34cc13",
+    "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D9%85%D9%88%D8%B3%D9%89+%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161d1d090802cd8d:0xc6023c9dcc61096d!8m2!3d13.8211708!4d44.4146904!16s%2Fg%2F11t887pfgk!19sChIJjc0CCAkdHRYRbQlhzJ08AsY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "محلات موسى الحذيفي التجارية",
+    "category": "Shopping mall",
+    "address": "RCC7+FV8 محلات موسى الحذيفي التجارية، الضالع،, Alorer, Yemen",
+    "review_count": "1",
+    "review_rating": "2.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":1,\"3\":0,\"4\":0,\"5\":0}",
+    "latitude": "13.821171",
+    "longitude": "44.414690",
+    "cid": "14268033217899596141",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161d1d090802cd8d:0xc6023c9dcc61096d",
+    "place_id": "ChIJjc0CCAkdHRYRbQlhzJ08AsY",
+    "owner": "{\"id\":\"\",\"name\":\"محلات موسى الحذيفي التجارية (Owner)\",\"link\":\"\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"RCC7+FV8، الضالع،\",\"city\":\"Alorer\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"ابراهيم محمد عبد الله المالكي المالكي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIvKDcE9P9kTnqmjw0VZ17CE5gqMWhXsMNCAL-OSPk_hJmFyA=s120-c-rp-mo-br100\",\"Rating\":2,\"Description\":\"\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnTURvb2NmM1RBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/117536158923631254316/reviews?hl=en-US\",\"posted_at_unix_micros\":1745606547913070,\"updated_at_unix_micros\":1745606547913070,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2025-04-25T18:42:27.91307Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "26",
+    "scan_completed_at_utc": "2026-10-25T11:51:25.042671+00:00",
+    "name": "محلات موسى الحذيفي التجارية",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D9%85%D9%88%D8%B3%D9%89+%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161d1d090802cd8d:0xc6023c9dcc61096d!8m2!3d13.8211708!4d44.4146904!16s%2Fg%2F11t887pfgk!19sChIJjc0CCAkdHRYRbQlhzJ08AsY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "2.000000",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [],
+    "photo_sources": []
+  },
+  {
+    "input_id": "99f6aa96-4f22-4d30-8a3c-2a4d2b34cc13",
+    "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85+%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161d1b6138bb694f:0xef0e9ac07b62c858!8m2!3d13.824277!4d44.502956!16s%2Fg%2F11vkz5kn6f!19sChIJT2m7OGEbHRYRWMhie8CaDu8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "محلات ابراهيم المسلمي التجاريه",
+    "category": "Home audio store",
+    "address": "RGF3+P5 محلات ابراهيم المسلمي التجاريه, Ad Dakhlah, Yemen",
+    "review_count": "3",
+    "review_rating": "5.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":3}",
+    "latitude": "13.824277",
+    "longitude": "44.502956",
+    "cid": "17225875776233195608",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ_vK-S1P-XsrEfnyMUGXTFPZP1sDQhElYSlCIU1Y5YQ7nYgTGTSLQ3-6NVweo6m_btRREuzYMzz9X0zZuzkmkzRnKDZnoGG33WVOnDEgaEyyRgETrBhYXOMpITBiX9b5-khDp=w408-h402-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161d1b6138bb694f:0xef0e9ac07b62c858",
+    "place_id": "ChIJT2m7OGEbHRYRWMhie8CaDu8",
+    "owner": "{\"id\":\"\",\"name\":\"محلات ابراهيم المسلمي التجاريه (Owner)\",\"link\":\"\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"RGF3+P5\",\"city\":\"Ad Dakhlah\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Ali Saleh\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWCMze4kjO6T7i6w4R-4DGdvhGVZdBRef4E0lHvJCYjI8vBlIdv=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"ممتاز للإرسال وإستلام الحوالات بس تلفونه واصل مغلق\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLcHBtjUFUa819ocbIAeAx3Sd8AryEH1B2XH1TRWwgvadevgcHLPbwnu9vMmeIcPFHvZVQkR6LQNPkkPkPOtbLX_zCXWi2clX1JMQGnTsUD2c3yAlf39jQQWWDRK2pNyGe-eNv5X=k-no\"],\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNscDhhbEVnEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102534498611258470123/reviews?hl=en-US\",\"posted_at_unix_micros\":1701171094461988,\"updated_at_unix_micros\":1701171403205965,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"ممتاز للإرسال وإستلام الحوالات بس تلفونه واصل مغلق\",\"text_translated\":\"Excellent for sending and receiving money transfers, but his phone is always switched off.\",\"published_at\":\"2023-11-28T11:31:34.461988Z\"},{\"Name\":\"حسام فهمان\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJY3qUw6D0jab1luIFDIvnIWMiMRegJvUb0q6NeDLDbrEPUHA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"كل ماتحتاج تحت سقف واحد مكان اكثر من رائع\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNsb00zSjF3RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112875098214794081832/reviews?hl=en-US\",\"posted_at_unix_micros\":1699811946347797,\"updated_at_unix_micros\":1699811946347797,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"كل ماتحتاج تحت سقف واحد مكان اكثر من رائع\",\"text_translated\":\"Everything you need under one roof, a truly wonderful place.\",\"published_at\":\"2023-11-12T17:59:06.347797Z\"},{\"Name\":\"ابراهيم المسلمي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL-em0uYyAt11Bu9C5XBt33kzKXfQQfydE0JIz8kExxKk4oYg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xoVE5rRktiMk0xZUZSSmREbG5UWGRpUmsxU2NtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103839572085345822503/reviews?hl=en-US\",\"posted_at_unix_micros\":1781548891883898,\"updated_at_unix_micros\":1781548891883898,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2026-06-15T18:41:31.883898Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "26",
+    "scan_completed_at_utc": "2026-10-25T11:51:25.042671+00:00",
+    "name": "محلات ابراهيم المسلمي التجاريه",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%AD%D9%84%D8%A7%D8%AA+%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85+%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D9%87%E2%80%AD/data=!4m7!3m6!1s0x161d1b6138bb694f:0xef0e9ac07b62c858!8m2!3d13.824277!4d44.502956!16s%2Fg%2F11vkz5kn6f!19sChIJT2m7OGEbHRYRWMhie8CaDu8?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "5.000000",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ_vK-S1P-XsrEfnyMUGXTFPZP1sDQhElYSlCIU1Y5YQ7nYgTGTSLQ3-6NVweo6m_btRREuzYMzz9X0zZuzkmkzRnKDZnoGG33WVOnDEgaEyyRgETrBhYXOMpITBiX9b5-khDp=w408-h402-k-no"
     ],
     "photo_sources": [
       "maps_thumbnail"
@@ -218054,7 +218489,7 @@
     ]
   },
   {
-    "input_id": "aae68622-150f-4387-94af-a02f07745c86",
+    "input_id": "643c40b8-d0ee-4fda-8a3e-31668ec6335d",
     "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "title": "..",
     "category": "Fast food restaurant",
@@ -218076,8 +218511,8 @@
     "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
     "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
     "scan_grid_size": "15",
-    "scan_tile_index": "20",
-    "scan_completed_at_utc": "2026-10-25T06:15:06.728048+00:00",
+    "scan_tile_index": "25",
+    "scan_completed_at_utc": "2026-10-25T11:41:08.853897+00:00",
     "name": "..",
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
@@ -218100,7 +218535,7 @@
     ]
   },
   {
-    "input_id": "8e8d84e6-d9b6-449f-8790-23b6bb1fa8c2",
+    "input_id": "5648c188-2cde-4cc6-8a73-4a8206bb05cf",
     "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "title": "..",
     "category": "Fast food restaurant",
@@ -218122,8 +218557,8 @@
     "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
     "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
     "scan_grid_size": "15",
-    "scan_tile_index": "23",
-    "scan_completed_at_utc": "2026-10-25T06:45:31.412591+00:00",
+    "scan_tile_index": "26",
+    "scan_completed_at_utc": "2026-10-25T11:51:25.042671+00:00",
     "name": "..",
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
