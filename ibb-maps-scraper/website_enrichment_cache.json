@@ -5414,5 +5414,43 @@
       "facebook": "https://www.facebook.com/samaartificialintelligence",
       "linkedin": "https://www.linkedin.com/company/sama-ai/"
     }
+  },
+  "ust.edu": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://ust.edu/",
+    "checked_at_utc": "2026-10-25T22:26:36.737222+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@ust.edu"
+      ],
+      "website_phones": [
+        "967023686334+",
+        "967730522118+"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://ust.edu/",
+        "https://ust.edu/wp-content/uploads/2024/11/header2.webp",
+        "https://ust.edu/wp-content/uploads/2021/03/UST-LOGO-1.png",
+        "https://ust.edu/wp-content/uploads/2025/07/ust-1st-768x671.webp",
+        "https://ust.edu/wp-content/uploads/2021/08/كلية-الطب-والعلوم-الصحية.jpeg",
+        "https://ust.edu/wp-content/uploads/2021/08/كلية-الهندسة.jpeg",
+        "https://ust.edu/wp-content/uploads/2021/08/كلية-العلوم-الانسانية.jpeg",
+        "https://ust.edu/wp-content/uploads/2021/08/عمادة-التعلم-الالكتروني.jpeg",
+        "https://ust.edu/wp-content/uploads/2021/08/عمادة-الدراسات-العليا.jpeg",
+        "https://ust.edu/wp-content/uploads/2026/01/المجلات-768x960.jpeg",
+        "https://ust.edu/wp-content/uploads/2021/07/معامل-التأثير-768x768.jpg",
+        "https://ust.edu/wp-content/uploads/2021/08/037825b84379497bb02019b690e68a06-0001-scaled.jpg"
+      ],
+      "instagram": "https://www.instagram.com/ust_online/",
+      "facebook": "https://www.facebook.com/www.ust.edu",
+      "linkedin": "https://www.linkedin.com/school/university-of-science-and-technology-yemen/"
+    }
   }
 }
