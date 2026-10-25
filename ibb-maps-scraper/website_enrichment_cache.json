@@ -5374,5 +5374,45 @@
     "status": "skipped_unsafe_url",
     "attempts": 1,
     "checked_at_utc": "2026-10-24T18:47:36.455319+00:00"
+  },
+  "sama.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.sama.com/",
+    "checked_at_utc": "2026-10-25T19:42:02.600001+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Samasource Impact Sourcing, Inc.",
+      "website_emails": [
+        "contact@sama.com",
+        "ea.enquiries@samasource.org",
+        "press@sama.com",
+        "ea.recruitment@samasource.org"
+      ],
+      "website_phones": [
+        "(415) 637-9464"
+      ],
+      "website_address": "2017 Mission St #301, San Francisco, CA, 94110, US",
+      "website_opening_hours": "{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\"], \"opens\": \"09:00\", \"closes\": \"18:00\"}",
+      "website_latitude": "37.7647299",
+      "website_longitude": "-122.4195272",
+      "website_images": [
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/66ce3c21da39854ea3bcab6a_sama.com%20genai%20meta%20tag%20image.png",
+        "https://www.sama.com/",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/658485582e843a56558c358a_Sama-logo.svg",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/65858df3bf7079159a4872cb_nav-img.png",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/6596b7036a751c9510df1760_Group%20851.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/658daa8571ea840e39dd3fa1_curate.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/6596b70382eafd20cd98bd7e_Frame%2092309.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/6596b703faf591680f875f44_Group%20853.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/6596b703b3d6890f7b93cdb1_Group%20852.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/6596b702a31aa73c7b2cdf58_mingcute_document-2-line.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/65b8c2aa4670e1de3cf95ade_sama-curate.webp",
+        "https://cdn.prod.website-files.com/65844ee8089ad9744a76677c/6596b70366f450007e4d12a6_Group%20848.webp"
+      ],
+      "instagram": "https://www.instagram.com/sama_ai_/",
+      "facebook": "https://www.facebook.com/samaartificialintelligence",
+      "linkedin": "https://www.linkedin.com/company/sama-ai/"
+    }
   }
 }
