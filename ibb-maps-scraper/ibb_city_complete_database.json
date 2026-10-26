@@ -23966,7 +23966,11 @@
     "photo_sources": [
       "maps_thumbnail"
     ],
-    "source_engine": "gosom",
+    "user_reviews": "[{\"Name\":\"اكرم الورافي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL90VFZJlderCRPD8x1bEHAEq62KSXOzL7-fRhJrV50hvDh5A=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"الدكتور حسام بسلم امانه إتقان قمه في الأخلاق\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tjNVdGSjJNMFpqTTBSM1pIWjVZamRLUm5RMFlVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107482333201013592408/reviews?hl=en-US\",\"posted_at_unix_micros\":1752004569622792,\"updated_at_unix_micros\":1752004569622792,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"الدكتور حسام بسلم امانه إتقان قمه في الأخلاق\",\"text_translated\":\"Dr. Hossam Baslem is trustworthy, highly skilled, and possesses the highest ethical standards.\",\"published_at\":\"2025-07-08T19:56:09.622792Z\"},{\"Name\":\"استوديوهات نرمين\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWi6KXj48l8uidKlhdcmXRqfO2ZiIHMFJoH6-8sXi4WXFQ3eBUY=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مركز اكثر من رائع\\nاتقان وامانه في المعالجه 👍👍\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUQzbmZmNEJ3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111237435857881069617/reviews?hl=en-US\",\"posted_at_unix_micros\":1731882125651161,\"updated_at_unix_micros\":1731882125651161,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مركز اكثر من رائع\\nاتقان وامانه في المعالجه 👍👍\",\"text_translated\":\"An absolutely fantastic center!\\nExcellent and trustworthy treatment. 👍👍\",\"published_at\":\"2024-11-17T22:22:05.651161Z\"},{\"Name\":\"Muatasim Abdullwali\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjX5tfy23nYLRhYlaRUnixdUa_ciFwjUCDd-IVN03mJTSHJDQUjE=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"ممتاز\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPN3B6N3RRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110080021003490344688/reviews?hl=en-US\",\"posted_at_unix_micros\":1654871110842766,\"updated_at_unix_micros\":1654871110842766,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"ممتاز\",\"text_translated\":\"excellent\",\"published_at\":\"2022-06-10T14:25:10.842766Z\"},{\"Name\":\"Rehab AL.Badany.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWeqye6nspfP05hyLAaQbsVrZA5kVs_A2No-6orYuZksx34bdM=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xCTmNETkNNbk5JUVV0RlZtbFFlbEF3VW5SM1lXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116701711213075579774/reviews?hl=en-US\",\"posted_at_unix_micros\":1765050451778346,\"updated_at_unix_micros\":1765050451778346,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2025-12-06T19:47:31.778346Z\"},{\"Name\":\"alhanona yemen\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVkNV0Jwh-MrhuBYpbW_y5zkyIfJ7iGibKk9Y5z0Cwuh8l2RtJu=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25sRU5UaFplV3RtU2psamVFVkdSMHhPZG5kNU4yYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117672226257246612133/reviews?hl=en-US\",\"posted_at_unix_micros\":1764866757454319,\"updated_at_unix_micros\":1764866757454319,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2025-12-04T16:45:57.454319Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "46",
+    "scan_completed_at_utc": "2026-10-26T06:39:54.063384+00:00",
+    "source_engine": "gosom;mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -35576,6 +35580,9 @@
     "photo_sources": [
       "maps_thumbnail"
     ],
+    "scan_grid_size": "15",
+    "scan_tile_index": "47",
+    "scan_completed_at_utc": "2026-10-26T06:50:02.247419+00:00",
     "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
@@ -224956,8 +224963,14 @@
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -224965,13 +224978,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "b5278615-3a49-43c5-97bd-acf0d758e069",
@@ -225002,8 +225009,14 @@
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225011,13 +225024,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "808955fc-90d5-4553-8044-b25b48d040a5",
@@ -225048,8 +225055,14 @@
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225057,13 +225070,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "dc90107e-f56f-44f0-b615-ef3d0d6c9023",
@@ -225088,8 +225095,8 @@
     "name": "بقالة محمد الشعيبي",
     "google_maps_url": "https://www.google.com/maps/place/%D8%A8%D9%82%D8%A7%D9%84%D8%A9+%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%B4%D8%B9%D9%8A%D8%A8%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161d1700524362e9:0x1d22456a8f6a9b24!8m2!3d13.8683203!4d44.5681323!16s%2Fg%2F11zg3wpmps!19sChIJ6WJDUgAXHRYRJJtqj2pFIh0?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "0.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225129,8 +225136,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%88%D8%A8%D8%B1+%D9%85%D8%A7%D8%B1%D9%83%D8%AA+%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x161cebc8dfdb54ab:0x8cce84870b99c9e!8m2!3d13.9714551!4d44.1585454!16s%2Fg%2F11hjfh1xv_!19sChIJq1Tb38jrHBYRnpy5cEjozAg?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.800000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcdpHF_BYeQWVSUDLOOaMG_KaB6frqwYMcax-ukLwaQPTgmIF5VymBL4bTzsZky4Y4I9qZXbLh_5bpCVPT56ECSgXy0ii2kSOpTvtpi1Dsrp9WqI6cpGepkwUgqFqZixqxAHP9w=w408-h898-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225138,13 +225151,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLcdpHF_BYeQWVSUDLOOaMG_KaB6frqwYMcax-ukLwaQPTgmIF5VymBL4bTzsZky4Y4I9qZXbLh_5bpCVPT56ECSgXy0ii2kSOpTvtpi1Dsrp9WqI6cpGepkwUgqFqZixqxAHP9w=w408-h898-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "dc90107e-f56f-44f0-b615-ef3d0d6c9023",
@@ -225175,8 +225182,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%88%D8%A8%D8%B1+%D9%85%D8%A7%D8%B1%D9%83%D8%AA+%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1%E2%80%AD/data=!4m7!3m6!1s0x161ceb92ac1901cb:0xc2e1058e26266aae!8m2!3d13.9712419!4d44.1499238!16s%2Fg%2F11qqprg1lr!19sChIJywEZrJLrHBYRrmomJo4F4cI?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.300000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfszPLxnDt2hbpG0fskXG3J5J0BeBzxaFYLWc5py6c6wrG_D1DNYpsYs0ryF4Fh71DRzzkhZoHgRfoE81ghM_wqyyY5i9yOsnQaN5zrhIm1AsWHrF92EqgETsyeFqjOJSUGDLvDRltEUcj1=w408-h277-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225184,13 +225197,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfszPLxnDt2hbpG0fskXG3J5J0BeBzxaFYLWc5py6c6wrG_D1DNYpsYs0ryF4Fh71DRzzkhZoHgRfoE81ghM_wqyyY5i9yOsnQaN5zrhIm1AsWHrF92EqgETsyeFqjOJSUGDLvDRltEUcj1=w408-h277-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "dc90107e-f56f-44f0-b615-ef3d0d6c9023",
@@ -225218,8 +225225,14 @@
     "name": "سوبر ماركه الياسر",
     "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%88%D8%A8%D8%B1+%D9%85%D8%A7%D8%B1%D9%83%D9%87+%D8%A7%D9%84%D9%8A%D8%A7%D8%B3%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x161d5169289b376f:0xc70306616409f8f1!8m2!3d14.0002061!4d44.8754603!16s%2Fg%2F11gwglslzb!19sChIJbzebKGlRHRYR8fgJZGEGA8c?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.000000",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLefdiM2FEKN92ZX5mPHF4yeMwZAnuRAb0Ld03ICkR7qCzapSrkpuTCaSlH9uyXpyo_qceGkdFp6QyH0vwGYBTTC56LKOHd6poUgS2ljg90LdYMzgjT5GvOqymT0Ww-Ow36VR6wxXs3xmvA=w506-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225227,13 +225240,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLefdiM2FEKN92ZX5mPHF4yeMwZAnuRAb0Ld03ICkR7qCzapSrkpuTCaSlH9uyXpyo_qceGkdFp6QyH0vwGYBTTC56LKOHd6poUgS2ljg90LdYMzgjT5GvOqymT0Ww-Ow36VR6wxXs3xmvA=w506-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "dc90107e-f56f-44f0-b615-ef3d0d6c9023",
@@ -225264,8 +225271,14 @@
     "google_maps_url": "https://www.google.com/maps/place/Dubai+Super+Market;+Alillaana/data=!4m7!3m6!1s0x161cc406c9a115d5:0x4a1abebe4d6a48bc!8m2!3d14.0890519!4d44.1770502!16s%2Fg%2F11g6xh497m!19sChIJ1RWhyQbEHBYRvEhqTb6-Gko?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.800000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfsqfplNwCQGt5SmsvaEy7-aqnsdA_wjpWrZkGYYvGQHCpTf-qnanQkynz9ClAGtlEghR6H2L_AIYBznMiSwr8fiKMiUntbchhXFOQZFovl-GfPmCIcAwj94fuuB313406bF_eSNj5sroPW=w408-h542-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225273,13 +225286,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfsqfplNwCQGt5SmsvaEy7-aqnsdA_wjpWrZkGYYvGQHCpTf-qnanQkynz9ClAGtlEghR6H2L_AIYBznMiSwr8fiKMiUntbchhXFOQZFovl-GfPmCIcAwj94fuuB313406bF_eSNj5sroPW=w408-h542-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "dc90107e-f56f-44f0-b615-ef3d0d6c9023",
@@ -225310,22 +225317,22 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%B3%D9%88%D8%A8%D8%B1+%D9%85%D8%A7%D8%B1%D9%83%D8%AA+%D8%B1%D8%A8%D9%88%D8%B9+%D8%A7%D9%84%D9%88%D8%B7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161ceb001919806b:0xa8d9016cc9cd264!8m2!3d13.973403!4d44.1642657!16s%2Fg%2F11zdqb4w3z!19sChIJa4AZGQDrHBYRZNKczBaQjQo?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "5.000000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "robots_disallowed",
     "website_enrichment_checked_at": "2026-10-26T01:00:57.633095+00:00",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeYCaUHkSfhWlE1KnQq3tLW5W28NynYHCL-sArhq1FsYasOuLip-bUWfMa4I6PSDHzFDzpVOJ5qCA0uzFS69uuxOsHmZPVxg_LqNB2GZ8SKdtdKF43TBJMZMWbsOM96cBhuxGZK492KW6gC=w408-h272-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_images": [],
     "website_phones": [],
     "website_name": "",
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLeYCaUHkSfhWlE1KnQq3tLW5W28NynYHCL-sArhq1FsYasOuLip-bUWfMa4I6PSDHzFDzpVOJ5qCA0uzFS69uuxOsHmZPVxg_LqNB2GZ8SKdtdKF43TBJMZMWbsOM96cBhuxGZK492KW6gC=w408-h272-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "dc90107e-f56f-44f0-b615-ef3d0d6c9023",
@@ -225355,8 +225362,14 @@
     "google_maps_url": "https://www.google.com/maps/place/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA+%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84%E2%80%AD/data=!4m7!3m6!1s0x1603da06cd38a91f:0xe69e5244bb42adc6!8m2!3d15.3696856!4d44.2449743!16s%2Fg%2F11dxsvcqlq!19sChIJH6k4zQbaAxYRxq1Cu0RSnuY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "4.100000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLe08wM3_5x_s305tb6pc1ss0xoDVUJY_ditWpGCPtehJ30TOVF8RHDxGzpJ_WxEKCv3xusUwnnBecU0l7p5P_y9eoiJh6-hpHQ4znekoo3GEWeEWlxX27GeSHxsiuHdaxO58fA=w493-h240-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
     "website_enrichment_checked_at": "",
     "website_images": [],
     "website_phones": [],
@@ -225364,13 +225377,7 @@
     "website_address": "",
     "website_opening_hours": "",
     "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLe08wM3_5x_s305tb6pc1ss0xoDVUJY_ditWpGCPtehJ30TOVF8RHDxGzpJ_WxEKCv3xusUwnnBecU0l7p5P_y9eoiJh6-hpHQ4znekoo3GEWeEWlxX27GeSHxsiuHdaxO58fA=w493-h240-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
+    "website_longitude": ""
   },
   {
     "input_id": "4521be57-e571-40a3-ba6c-c7b026762245",
@@ -225401,6 +225408,319 @@
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
     "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "43cfd011-9c21-4847-8a22-0a2b51b2324d",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHjL1A47pCOP7KQQLxm-JqTzm9rsVtSn0ZDb1lGemcQVnsHvfifWugMVtxK8FLwuwu8ydM7bd3MaMat9OTys3MarXu0OtZsEi8OD5euWs4tp_4xy6bVKi37of1oXXKO7Tu3b9j=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcHjL1A47pCOP7KQQLxm-JqTzm9rsVtSn0ZDb1lGemcQVnsHvfifWugMVtxK8FLwuwu8ydM7bd3MaMat9OTys3MarXu0OtZsEi8OD5euWs4tp_4xy6bVKi37of1oXXKO7Tu3b9j=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "gosom",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "e629464d-2197-481d-8697-a679596aa352",
+    "link": "https://www.google.com/maps/place/./data=!4m7!3m6!1s0x161ce9a687c18c09:0xc1c5fb7e8733aaf3!8m2!3d13.9557832!4d44.1820118!16s%2Fg%2F11vc7z1ryb!19sChIJCYzBh6bpHBYR86ozh377xcE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "title": ".",
+    "category": "Pharmacy",
+    "address": ".، شارع ميتم, Ibb, Yemen",
+    "plus_code": "X54J+8R Ibb, Yemen",
+    "review_count": "2",
+    "review_rating": "5.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":2}",
+    "latitude": "13.955783",
+    "longitude": "44.182012",
+    "cid": "13962842740584852211",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlRWKaWLtiyQOuwVj_Vb_PK6KIsiqlj29ZRjVMDSlHx_lwYHANv_JzW1r2P0g6WUnSxBN5AQtHDpfPhDLdt7jrkruNJ3cT8u4iz6vB7WpVKObxebHRYcRAi9ssb_XnhzO7X-kE=w408-h306-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9a687c18c09:0xc1c5fb7e8733aaf3",
+    "place_id": "ChIJCYzBh6bpHBYR86ozh377xcE",
+    "owner": "{\"id\":\"118187626176083649437\",\"name\":\". (Owner)\",\"link\":\"https://www.google.com/maps/contrib/118187626176083649437\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"شارع ميتم\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Basheer AL-Najjar\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJdP902JQQffmCsuhb3AZi46emaXY7fBkACK3htWeCcGnDBVg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان جميل وفيه خدمات حلوة\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUQ1a0tidkJREAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118396012489751802011/reviews?hl=en-US\",\"posted_at_unix_micros\":1697654135695015,\"updated_at_unix_micros\":1697654135695015,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان جميل وفيه خدمات حلوة\",\"text_translated\":\"A beautiful place with great services\",\"published_at\":\"2023-10-18T18:35:35.695015Z\"},{\"Name\":\"عبدالله الادريسي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJN9INaBS8-YVjCYNZx_6J5_dbilCmA5MZvdVq64PJrBeaSnQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمة مميزة\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNGdGZEaE1BEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102610109233963222859/reviews?hl=en-US\",\"posted_at_unix_micros\":1698672459535971,\"updated_at_unix_micros\":1698672459535971,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمة مميزة\",\"text_translated\":\"Excellent service\",\"published_at\":\"2023-10-30T13:27:39.535971Z\"}]",
+    "name": ".",
+    "google_maps_url": "https://www.google.com/maps/place/./data=!4m7!3m6!1s0x161ce9a687c18c09:0xc1c5fb7e8733aaf3!8m2!3d13.9557832!4d44.1820118!16s%2Fg%2F11vc7z1ryb!19sChIJCYzBh6bpHBYR86ozh377xcE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxNC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "5.000000",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdlRWKaWLtiyQOuwVj_Vb_PK6KIsiqlj29ZRjVMDSlHx_lwYHANv_JzW1r2P0g6WUnSxBN5AQtHDpfPhDLdt7jrkruNJ3cT8u4iz6vB7WpVKObxebHRYcRAi9ssb_XnhzO7X-kE=w408-h306-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "gosom",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "6c954dd6-f9f8-4aa2-8964-f125dbf88489",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "40",
+    "scan_completed_at_utc": "2026-10-26T00:29:48.086742+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "b5278615-3a49-43c5-97bd-acf0d758e069",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "41",
+    "scan_completed_at_utc": "2026-10-26T00:39:56.282751+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "808955fc-90d5-4553-8044-b25b48d040a5",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "42",
+    "scan_completed_at_utc": "2026-10-26T00:50:36.473407+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "4521be57-e571-40a3-ba6c-c7b026762245",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "43",
+    "scan_completed_at_utc": "2026-10-26T01:00:44.648384+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website_enrichment_status": "no_website",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ],
+    "source_engine": "mahanaicoach",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": ""
+  },
+  {
+    "input_id": "b4228ce0-cd09-4db7-8b5b-f62ac7e90813",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "44",
+    "scan_completed_at_utc": "2026-10-26T06:19:37.691376+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
     "source_engine": "mahanaicoach",
     "website_enrichment_status": "no_website",
     "website_enrichment_checked_at": "",
@@ -225413,6 +225733,305 @@
     "website_longitude": "",
     "photo_urls": [
       "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "5ca155be-fdda-410b-bd10-087027eafafa",
+    "link": "https://www.google.com/maps/place/%D9%8A%D8%A7%D9%84%D8%A7+%D9%84%D9%84%D8%B3%D9%81%D8%B1%D9%8A%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161d6b00745bb5df:0x9e63f0f1f79bb013!8m2!3d13.8521184!4d44.7013839!16s%2Fg%2F11x1w1h3yf!19sChIJ37VbdABrHRYRE7Cb9_HwY54?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "يالا للسفريات والسياحة",
+    "category": "Tour agency",
+    "address": "يالا للسفريات والسياحة، المركزي - شارع المركزي بعد فندق اطياف العرب, Qa'tabah, Yemen",
+    "open_hours": "{\"Friday\":[\"2–11 PM\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "website": "https://yalatourism.com/",
+    "phone": "+967 783 221 221",
+    "plus_code": "VP22+RH Qa'tabah, Yemen",
+    "review_count": "0",
+    "review_rating": "0.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":0}",
+    "latitude": "13.852118",
+    "longitude": "44.701384",
+    "cid": "11413230802718928915",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW6GO7c8iWENo7GEOO_XSXpoC2d8QoScTLfo7j9QwezsWaQHHsaaaC97_pJhDROLmiLrbU9roeZbfEK0_C3oA0LRxZMW_-K1NEopaExN2MA75jNU8KBTTuCosEMppvZRmnWZ9-iHJDGao=w408-h544-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161d6b00745bb5df:0x9e63f0f1f79bb013",
+    "place_id": "ChIJ37VbdABrHRYRE7Cb9_HwY54",
+    "owner": "{\"id\":\"107429936419893831626\",\"name\":\"يالا للسفريات والسياحة (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107429936419893831626\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"المركزي - شارع المركزي بعد فندق اطياف العرب\",\"city\":\"Qa'tabah\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible parking lot\",\"enabled\":true}]}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "44",
+    "scan_completed_at_utc": "2026-10-26T06:19:37.691376+00:00",
+    "name": "يالا للسفريات والسياحة",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%8A%D8%A7%D9%84%D8%A7+%D9%84%D9%84%D8%B3%D9%81%D8%B1%D9%8A%D8%A7%D8%AA+%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x161d6b00745bb5df:0x9e63f0f1f79bb013!8m2!3d13.8521184!4d44.7013839!16s%2Fg%2F11x1w1h3yf!19sChIJ37VbdABrHRYRE7Cb9_HwY54?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "0.000000",
+    "opening_hours": "{\"Friday\":[\"2–11 PM\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "ok",
+    "website_enrichment_checked_at": "2026-10-26T06:50:09.760608+00:00",
+    "website_images": [
+      "https://yalatourism.com/"
+    ],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeW6GO7c8iWENo7GEOO_XSXpoC2d8QoScTLfo7j9QwezsWaQHHsaaaC97_pJhDROLmiLrbU9roeZbfEK0_C3oA0LRxZMW_-K1NEopaExN2MA75jNU8KBTTuCosEMppvZRmnWZ9-iHJDGao=w408-h544-k-no",
+      "https://yalatourism.com/"
+    ],
+    "photo_sources": [
+      "maps_thumbnail",
+      "business_website"
+    ]
+  },
+  {
+    "input_id": "ab605050-bb7e-4755-8f87-547fb29c9520",
+    "link": "https://www.google.com/maps/place/%D9%88%D9%83%D8%A7%D9%84%D9%87+%D9%86%D8%A8%D9%8A%D9%87+%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161b7bbcd6e8d64b:0xf41b42e88a1f5c5c!8m2!3d13.9219004!4d43.6844864!16s%2Fg%2F11t7sblpzb!19sChIJS9bo1rx7GxYRXFwfiuhCG_Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "وكاله نبيه السويدي",
+    "category": "Auto parts store",
+    "address": "WMCM+QQ9 وكاله نبيه السويدي, Branch Al Odain, Yemen",
+    "review_count": "0",
+    "review_rating": "0.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":0}",
+    "latitude": "13.921900",
+    "longitude": "43.684486",
+    "cid": "17589726336142761052",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161b7bbcd6e8d64b:0xf41b42e88a1f5c5c",
+    "place_id": "ChIJS9bo1rx7GxYRXFwfiuhCG_Q",
+    "owner": "{\"id\":\"\",\"name\":\"وكاله نبيه السويدي (Owner)\",\"link\":\"\"}",
+    "complete_address": "{\"borough\":\"Al ‘Āqibah\",\"street\":\"WMCM+QQ9\",\"city\":\"Branch Al Odain\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "scan_grid_size": "15",
+    "scan_tile_index": "45",
+    "scan_completed_at_utc": "2026-10-26T06:29:45.872141+00:00",
+    "name": "وكاله نبيه السويدي",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%88%D9%83%D8%A7%D9%84%D9%87+%D9%86%D8%A8%D9%8A%D9%87+%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x161b7bbcd6e8d64b:0xf41b42e88a1f5c5c!8m2!3d13.9219004!4d43.6844864!16s%2Fg%2F11t7sblpzb!19sChIJS9bo1rx7GxYRXFwfiuhCG_Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "0.000000",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [],
+    "photo_sources": []
+  },
+  {
+    "input_id": "815b6b6a-bb09-42cf-bcbe-d01345dd6cf1",
+    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "..",
+    "category": "Fast food restaurant",
+    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
+    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "phone": "+967 770 552 102",
+    "plus_code": "X57J+76 Ibb, Yemen",
+    "review_count": "11",
+    "review_rating": "3.600000",
+    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
+    "latitude": "13.963230",
+    "longitude": "44.180540",
+    "cid": "8481746277288048333",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
+    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
+    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "46",
+    "scan_completed_at_utc": "2026-10-26T06:39:54.063384+00:00",
+    "name": "..",
+    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.600000",
+    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "bd326408-73e5-4c9c-a0c3-036a086ea863",
+    "link": "https://www.google.com/maps/place/Al-Yaman+pharma+for+medicines+and+medical+supplies-+general+management/data=!4m7!3m6!1s0x161e03ee139af65f:0xabebb04e4ad672a3!8m2!3d12.8649066!4d44.9704756!16s%2Fg%2F11fkq1p3fd!19sChIJX_aaE-4DHhYRo3LWSk6w66s?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "Al-Yaman pharma for medicines and medical supplies- general management",
+    "category": "Pharmaceutical company",
+    "address": "Ninety street, Aden, Yemen",
+    "open_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–12:30 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+    "website": "https://alyamanpharma.com/",
+    "phone": "+967 2 393 420",
+    "plus_code": "VX7C+X5 Aden, Yemen",
+    "review_count": "1",
+    "review_rating": "5.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":1}",
+    "latitude": "12.864907",
+    "longitude": "44.970476",
+    "cid": "12388189050322186915",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmBjXaC52MDp305wj8XJkL3gtwHpOEplf3EwMO6eGPSAQUTScp4rf-6ay4ZXNIYv2W6qAULetppf0iN9mPGTrh1Czyq0_opowqOpw33UaHZWqMJjjtyyO0m7OmIBKP-327II8=w408-h272-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161e03ee139af65f:0xabebb04e4ad672a3",
+    "place_id": "ChIJX_aaE-4DHhYRo3LWSk6w66s",
+    "owner": "{\"id\":\"115170780743049486812\",\"name\":\"Al-Yaman pharma for medicines and medical supplies- general management (Owner)\",\"link\":\"https://www.google.com/maps/contrib/115170780743049486812\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"Ninety street\",\"city\":\"Aden\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"رحال يافع\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKbZy2ilPjD2Df4k5IjrSsv7s51IKZCVzSrCacWxihJgS2Nmg=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUN4bUtmQ0dBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116726119364801028605/reviews?hl=en-US\",\"posted_at_unix_micros\":1683676973577496,\"updated_at_unix_micros\":1683676973577496,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2023-05-10T00:02:53.577496Z\"}]",
+    "emails": "info@alyamanpharma.com, info@example.com",
+    "scan_grid_size": "15",
+    "scan_tile_index": "46",
+    "scan_completed_at_utc": "2026-10-26T06:39:54.063384+00:00",
+    "name": "Al-Yaman pharma for medicines and medical supplies- general management",
+    "email": "info@alyamanpharma.com, info@example.com",
+    "google_maps_url": "https://www.google.com/maps/place/Al-Yaman+pharma+for+medicines+and+medical+supplies-+general+management/data=!4m7!3m6!1s0x161e03ee139af65f:0xabebb04e4ad672a3!8m2!3d12.8649066!4d44.9704756!16s%2Fg%2F11fkq1p3fd!19sChIJX_aaE-4DHhYRo3LWSk6w66s?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "5.000000",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–12:30 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "ok",
+    "website_enrichment_checked_at": "2026-10-26T06:50:12.484390+00:00",
+    "website_images": [
+      "https://alyamanpharma.com/",
+      "https://alyamanpharma.com/images/slides/slider-mainbg-003.jpg",
+      "https://alyamanpharma.com/images/slides/slider-mainbg-004.jpg",
+      "https://alyamanpharma.com/images/single-img-05.jpg",
+      "https://alyamanpharma.com/images/single-img-06.jpg",
+      "https://alyamanpharma.com/images/single-img-07.jpg",
+      "https://alyamanpharma.com/images/country/country-01.jpg",
+      "https://alyamanpharma.com/images/country/country-01_icon_img.jpg",
+      "https://alyamanpharma.com/images/country/country-02.jpg",
+      "https://alyamanpharma.com/images/country/country-02_icon_img.jpg",
+      "https://alyamanpharma.com/images/country/country-03.jpg",
+      "https://alyamanpharma.com/images/country/country-05_icon_img.jpg"
+    ],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "facebook": "https://www.facebook.com/Yaman2016pharma",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdmBjXaC52MDp305wj8XJkL3gtwHpOEplf3EwMO6eGPSAQUTScp4rf-6ay4ZXNIYv2W6qAULetppf0iN9mPGTrh1Czyq0_opowqOpw33UaHZWqMJjjtyyO0m7OmIBKP-327II8=w408-h272-k-no",
+      "https://alyamanpharma.com/",
+      "https://alyamanpharma.com/images/slides/slider-mainbg-003.jpg",
+      "https://alyamanpharma.com/images/slides/slider-mainbg-004.jpg",
+      "https://alyamanpharma.com/images/single-img-05.jpg",
+      "https://alyamanpharma.com/images/single-img-06.jpg",
+      "https://alyamanpharma.com/images/single-img-07.jpg",
+      "https://alyamanpharma.com/images/country/country-01.jpg",
+      "https://alyamanpharma.com/images/country/country-01_icon_img.jpg",
+      "https://alyamanpharma.com/images/country/country-02.jpg",
+      "https://alyamanpharma.com/images/country/country-02_icon_img.jpg",
+      "https://alyamanpharma.com/images/country/country-03.jpg",
+      "https://alyamanpharma.com/images/country/country-05_icon_img.jpg"
+    ],
+    "photo_sources": [
+      "maps_thumbnail",
+      "business_website"
+    ]
+  },
+  {
+    "input_id": "104a5db8-1fbd-4d10-af00-e3751105d8b0",
+    "link": "https://www.google.com/maps/place/%D9%85%D8%B1%D9%83%D8%B2+%D8%A3%D9%85+%D9%83%D9%84%D8%AB%D9%88%D9%85+%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A+%D9%84%D8%B7%D8%A8+%D9%88%D8%B5%D9%86%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161c919d98b7aee3:0xc4cd61da181c7d24!8m2!3d13.9696894!4d43.9976105!16s%2Fg%2F11q2tcx468!19sChIJ4663mJ2RHBYRJH0cGNphzcQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "مركز أم كلثوم الحذيفي لطب وصناعة الأسنان",
+    "category": "Dentist",
+    "address": "مركز أم كلثوم الحذيفي لطب وصناعة الأسنان، العدين الشارع العام، مديرية العدين إب, Yemen",
+    "open_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+    "phone": "+967 776 121 184",
+    "plus_code": "XX9X+V2 مديرية العدين إب, Yemen",
+    "review_count": "1",
+    "review_rating": "5.000000",
+    "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":1}",
+    "latitude": "13.969689",
+    "longitude": "43.997611",
+    "cid": "14181098390994844964",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIqFjCpuNUalarahQ1Py-0zxM9RJZC3ndIQwj-sa70X1MjPJslr4Xfzh2blwx-8fK_7OAyNxXSnbYxHOaMju0umTO_goNQPodIm-1OTD2rXY3H1AxlfZ7VO5TSVlsWBZEQZj6o=w408-h725-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161c919d98b7aee3:0xc4cd61da181c7d24",
+    "place_id": "ChIJ4663mJ2RHBYRJH0cGNphzcQ",
+    "owner": "{\"id\":\"104595936236672844086\",\"name\":\"مركز أم كلثوم الحذيفي لطب وصناعة الأسنان (Owner)\",\"link\":\"https://www.google.com/maps/contrib/104595936236672844086\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"العدين الشارع العام\",\"city\":\"مديرية العدين إب\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible restroom\",\"enabled\":true}]}]",
+    "user_reviews": "[{\"Name\":\"Habib Mizi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL1cdmuV-uRcbbIa-rc9-uNxbzcK-0W5VSKRM96n_CsBP3dNA=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"شغل ممتاز جدا وإنجاز سريع وتعاملهم عالي جدا شكرا الدكتور صلاح الحذيفي\",\"Images\":null,\"When\":\"2 days ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT20xbFkxcFhkRzV4YjBSdWVqbFBlR3h4UlcxVlpuYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113204021453262994143/reviews?hl=en-US\",\"posted_at_unix_micros\":1792781397041269,\"updated_at_unix_micros\":1792781397041269,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"شغل ممتاز جدا وإنجاز سريع وتعاملهم عالي جدا شكرا الدكتور صلاح الحذيفي\",\"text_translated\":\"Excellent work, fast turnaround, and their service was top-notch. Thank you, Dr. Salah Al-Hudhaifi.\",\"published_at\":\"2026-10-23T18:49:57.041269Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "46",
+    "scan_completed_at_utc": "2026-10-26T06:39:54.063384+00:00",
+    "name": "مركز أم كلثوم الحذيفي لطب وصناعة الأسنان",
+    "google_maps_url": "https://www.google.com/maps/place/%D9%85%D8%B1%D9%83%D8%B2+%D8%A3%D9%85+%D9%83%D9%84%D8%AB%D9%88%D9%85+%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A+%D9%84%D8%B7%D8%A8+%D9%88%D8%B5%D9%86%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161c919d98b7aee3:0xc4cd61da181c7d24!8m2!3d13.9696894!4d43.9976105!16s%2Fg%2F11q2tcx468!19sChIJ4663mJ2RHBYRJH0cGNphzcQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "5.000000",
+    "opening_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeIqFjCpuNUalarahQ1Py-0zxM9RJZC3ndIQwj-sa70X1MjPJslr4Xfzh2blwx-8fK_7OAyNxXSnbYxHOaMju0umTO_goNQPodIm-1OTD2rXY3H1AxlfZ7VO5TSVlsWBZEQZj6o=w408-h725-k-no"
+    ],
+    "photo_sources": [
+      "maps_thumbnail"
+    ]
+  },
+  {
+    "input_id": "104a5db8-1fbd-4d10-af00-e3751105d8b0",
+    "link": "https://www.google.com/maps/place/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9+%D8%A7%D8%A8+%D9%84%D8%B7%D8%A8+%D9%88%D8%AA%D8%AC%D9%85%D9%8A%D9%84+%D9%88%D8%B2%D8%B1%D8%A7%D8%B9%D9%87+%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161ceb044a503029:0x94d3c8224a133372!8m2!3d13.9711157!4d44.1513253!16s%2Fg%2F11k5j9lbsv!19sChIJKTBQSgTrHBYRcjMTSiLI05Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "title": "عيادة اب لطب وتجميل وزراعه الاسنان",
+    "category": "Dental clinic",
+    "address": "X5C2+CGW عيادة اب لطب وتجميل وزراعه الاسنان, R125, Ibb, Yemen",
+    "review_count": "6",
+    "review_rating": "3.800000",
+    "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":1,\"4\":1,\"5\":3}",
+    "latitude": "13.971116",
+    "longitude": "44.151325",
+    "cid": "10724135187296498546",
+    "status": "CLOSED",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxg0e2-yXDTw5xcp3KtSIEC_m2pfVma-YLb22a41NH_HFciSPj5quBbbsxk27rrS1sCD5tBuCBbmtVtCQFL-JJXjcAAsjR_XfFY_avLmo8eX5h_8ZeVqLukuoCdOX070w8KzQ=w408-h313-k-no",
+    "timezone": "Asia/Aden",
+    "data_id": "0x161ceb044a503029:0x94d3c8224a133372",
+    "place_id": "ChIJKTBQSgTrHBYRcjMTSiLI05Q",
+    "owner": "{\"id\":\"\",\"name\":\"عيادة اب لطب وتجميل وزراعه الاسنان (Owner)\",\"link\":\"\"}",
+    "complete_address": "{\"borough\":\"\",\"street\":\"X5C2+CGW, R125\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
+    "user_reviews": "[{\"Name\":\"محمد النهاري\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVwjX_eHCczGFcd95T0NQuWWNdPqqd298rPb5tcWdxiSMj6rHYC=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"دكتورة ممتاز وتخصصها فيه ابداع\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cDR6ZExREAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/100879482941082224354/reviews?hl=en-US\",\"posted_at_unix_micros\":1686903124002576,\"updated_at_unix_micros\":1686903124002576,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"دكتورة ممتاز وتخصصها فيه ابداع\",\"text_translated\":\"She is an excellent doctor and her specialization is creative.\",\"published_at\":\"2023-06-16T08:12:04.002576Z\"},{\"Name\":\"Amr Almohammedi l عمرو المحمدي\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXGuUsF0OOQos0-vE5HbWnT5Ewg8iSTJ4ulP9tTE2uweYQv7IYSxQ=s120-c-rp-mo-ba12-br100\",\"Rating\":3,\"Description\":\"جيد\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNqNWJqakpnEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":3,\"author_url\":\"https://www.google.com/maps/contrib/102862277370946299196/reviews?hl=en-US\",\"posted_at_unix_micros\":1713928689928092,\"updated_at_unix_micros\":1713928689928092,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2024-04-24T03:18:09.928092Z\"},{\"Name\":\"ابو الغضب الغضب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJWUAkLnTZYEq1_FmMhZ6lDlnEi6Rdwq-fGT8yiztga7s_0eA=s120-c-rp-mo-ba12-br100\",\"Rating\":1,\"Description\":\"دعم\",\"Images\":null,\"When\":\"5 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSURhem9XdjZnRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/100898485643079202805/reviews?hl=en-US\",\"posted_at_unix_micros\":1629588330412532,\"updated_at_unix_micros\":1629588330412532,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"دعم\",\"text_translated\":\"to support\",\"published_at\":\"2021-08-21T23:25:30.412532Z\"},{\"Name\":\"هشام ال قاسم\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjX4usrNC6T9yzmc5mO9A0FjI4WEIdyFGhA-rTuijUD0hZ78zLU=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4Xy1xWFBREAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115134098738259013631/reviews?hl=en-US\",\"posted_at_unix_micros\":1687074000883312,\"updated_at_unix_micros\":1687074000883312,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2023-06-18T07:40:00.883312Z\"},{\"Name\":\"Manar Mo.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWqPgQXnNj1Fzx4tdgV9QluWZ8BbB6yiLWyN7hdT_SiIggMsp8=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURCd0pmTEV3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/117998710093077252107/reviews?hl=en-US\",\"posted_at_unix_micros\":1673244137404332,\"updated_at_unix_micros\":1673244137404332,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2023-01-09T06:02:17.404332Z\"}]",
+    "scan_grid_size": "15",
+    "scan_tile_index": "46",
+    "scan_completed_at_utc": "2026-10-26T06:39:54.063384+00:00",
+    "name": "عيادة اب لطب وتجميل وزراعه الاسنان",
+    "google_maps_url": "https://www.google.com/maps/place/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9+%D8%A7%D8%A8+%D9%84%D8%B7%D8%A8+%D9%88%D8%AA%D8%AC%D9%85%D9%8A%D9%84+%D9%88%D8%B2%D8%B1%D8%A7%D8%B9%D9%87+%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x161ceb044a503029:0x94d3c8224a133372!8m2!3d13.9711157!4d44.1513253!16s%2Fg%2F11k5j9lbsv!19sChIJKTBQSgTrHBYRcjMTSiLI05Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": "3.800000",
+    "source_engine": "mahanaicoach",
+    "website_enrichment_status": "no_website",
+    "website_enrichment_checked_at": "",
+    "website_images": [],
+    "website_phones": [],
+    "website_name": "",
+    "website_address": "",
+    "website_opening_hours": "",
+    "website_latitude": "",
+    "website_longitude": "",
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcxg0e2-yXDTw5xcp3KtSIEC_m2pfVma-YLb22a41NH_HFciSPj5quBbbsxk27rrS1sCD5tBuCBbmtVtCQFL-JJXjcAAsjR_XfFY_avLmo8eX5h_8ZeVqLukuoCdOX070w8KzQ=w408-h313-k-no"
     ],
     "photo_sources": [
       "maps_thumbnail"
@@ -225502,7 +226121,7 @@
     ]
   },
   {
-    "input_id": "6c954dd6-f9f8-4aa2-8964-f125dbf88489",
+    "input_id": "b4228ce0-cd09-4db7-8b5b-f62ac7e90813",
     "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "title": "..",
     "category": "Fast food restaurant",
@@ -225524,8 +226143,8 @@
     "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
     "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
     "scan_grid_size": "15",
-    "scan_tile_index": "40",
-    "scan_completed_at_utc": "2026-10-26T00:29:48.086742+00:00",
+    "scan_tile_index": "44",
+    "scan_completed_at_utc": "2026-10-26T06:19:37.691376+00:00",
     "name": "..",
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",
@@ -225548,7 +226167,7 @@
     ]
   },
   {
-    "input_id": "b5278615-3a49-43c5-97bd-acf0d758e069",
+    "input_id": "815b6b6a-bb09-42cf-bcbe-d01345dd6cf1",
     "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "title": "..",
     "category": "Fast food restaurant",
@@ -225570,100 +226189,8 @@
     "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
     "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
     "scan_grid_size": "15",
-    "scan_tile_index": "41",
-    "scan_completed_at_utc": "2026-10-26T00:39:56.282751+00:00",
-    "name": "..",
-    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-    "rating": "3.600000",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
-    "website_enrichment_status": "no_website",
-    "website_enrichment_checked_at": "",
-    "website_images": [],
-    "website_phones": [],
-    "website_name": "",
-    "website_address": "",
-    "website_opening_hours": "",
-    "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
-  },
-  {
-    "input_id": "808955fc-90d5-4553-8044-b25b48d040a5",
-    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-    "title": "..",
-    "category": "Fast food restaurant",
-    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
-    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "phone": "+967 770 552 102",
-    "plus_code": "X57J+76 Ibb, Yemen",
-    "review_count": "11",
-    "review_rating": "3.600000",
-    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
-    "latitude": "13.963230",
-    "longitude": "44.180540",
-    "cid": "8481746277288048333",
-    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
-    "timezone": "Asia/Aden",
-    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
-    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
-    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
-    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
-    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
-    "scan_grid_size": "15",
-    "scan_tile_index": "42",
-    "scan_completed_at_utc": "2026-10-26T00:50:36.473407+00:00",
-    "name": "..",
-    "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-    "rating": "3.600000",
-    "opening_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "source_engine": "mahanaicoach",
-    "website_enrichment_status": "no_website",
-    "website_enrichment_checked_at": "",
-    "website_images": [],
-    "website_phones": [],
-    "website_name": "",
-    "website_address": "",
-    "website_opening_hours": "",
-    "website_latitude": "",
-    "website_longitude": "",
-    "photo_urls": [
-      "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no"
-    ],
-    "photo_sources": [
-      "maps_thumbnail"
-    ]
-  },
-  {
-    "input_id": "4521be57-e571-40a3-ba6c-c7b026762245",
-    "link": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-    "title": "..",
-    "category": "Fast food restaurant",
-    "address": "..، الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول, Yemen",
-    "open_hours": "{\"Friday\":[\"Open 24 hours\"],\"Monday\":[\"Open 24 hours\"],\"Saturday\":[\"Open 24 hours\"],\"Sunday\":[\"Open 24 hours\"],\"Thursday\":[\"Open 24 hours\"],\"Tuesday\":[\"Open 24 hours\"],\"Wednesday\":[\"Open 24 hours\"]}",
-    "phone": "+967 770 552 102",
-    "plus_code": "X57J+76 Ibb, Yemen",
-    "review_count": "11",
-    "review_rating": "3.600000",
-    "reviews_per_rating": "{\"1\":2,\"2\":1,\"3\":1,\"4\":2,\"5\":5}",
-    "latitude": "13.963230",
-    "longitude": "44.180540",
-    "cid": "8481746277288048333",
-    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj8j902A8UAhxYFwUTSiFIadWCx5f3G6yb3FQKEMXe3YXskJk1Nj--wC1jv8XzMwULuBBRvaSDD9A2gih2JC7-t5WLZ1bqYusN2gWdDmndx51vgyA1iEsA9158lVovn4NPE_6D=w408-h286-k-no",
-    "timezone": "Asia/Aden",
-    "data_id": "0x161ce9157dfa2709:0x75b5374d0cbef6cd",
-    "place_id": "ChIJCSf6fRXpHBYRzfa-DE03tXU",
-    "owner": "{\"id\":\"103628105179483744650\",\"name\":\".. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/103628105179483744650\"}",
-    "complete_address": "{\"borough\":\"\",\"street\":\"الصلبه خلف الغرفه التجاريه جوار المركز الطبي الاول\",\"city\":\"Ibb\",\"postal_code\":\"\",\"state\":\"\",\"country\":\"YE\"}",
-    "user_reviews": "[{\"Name\":\"Noor khaled\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVed0mbG70zBys5QS0C2ZtA8_iJ9QhKCTOj2t-l2kraJulXgwO0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNwOVBfWDNBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114733469227391423335/reviews?hl=en-US\",\"posted_at_unix_micros\":1690662829131659,\"updated_at_unix_micros\":1690662829131659,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"خدمه ممتازة و رد سريع عالتلفون و الاكل حلو و نظيف و نكهته لذيذة و الميلك شيك يجنن زي الايسكريم و خدمه توصيل حتى الساعه 11 بالليلو الاحلى اسعارهم و تعاملهم اللطيف\",\"text_translated\":\"Excellent service, quick phone response, delicious and clean food, and the milkshakes are amazing, like ice cream. Delivery is available until 11 PM. Their prices and friendly service are the best.\",\"published_at\":\"2023-07-29T20:33:49.131659Z\"},{\"Name\":\"Aladdin Nagi\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU7_CkYP6AH99auGCEYRUShB-b1rEeMO7Bu40QdeOAASNBpvoEg=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"جيد وخدمه جيده وطعم مميز\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNob3ZHNmpRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/116471204409304502526/reviews?hl=en-US\",\"posted_at_unix_micros\":1675881255582816,\"updated_at_unix_micros\":1675881255582816,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد وخدمه جيده وطعم مميز\",\"text_translated\":\"Good, good service, and a distinctive taste.\",\"published_at\":\"2023-02-08T18:34:15.582816Z\"},{\"Name\":\"اسامه وليد\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJNgx62yprJ6jctJzSLuaZn5r-pd2P4tou7COrtmlt7E9X1BA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"مكان ولا اروع تهنينا\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURHaG9Db09nEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103483737790876060721/reviews?hl=en-US\",\"posted_at_unix_micros\":1637867425466009,\"updated_at_unix_micros\":1637867425466009,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"مكان ولا اروع تهنينا\",\"text_translated\":\"A truly wonderful place, congratulations!\",\"published_at\":\"2021-11-25T19:10:25.466009Z\"},{\"Name\":\"Fuaz Qasm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUtOhYkg4CVV8zDQ0mX0WnwYVE61lQxEXu_xUUALd1aEJfYCN5d=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"حلو مرررره\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUR4cjdic0V3EAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109153725662602763028/reviews?hl=en-US\",\"posted_at_unix_micros\":1687004186586211,\"updated_at_unix_micros\":1687004186586211,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"حلو مرررره\",\"text_translated\":\"It's so beautiful!\",\"published_at\":\"2023-06-17T12:16:26.586211Z\"},{\"Name\":\"معاصر اللواءالااخضر إب\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW_MIwXYXFR8mJbCVIf4YLR0P9LwF4rIAZPUxchopKdAZowu1k=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"جيد\",\"Images\":null,\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNPc3BYRXNRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/100596590232752729494/reviews?hl=en-US\",\"posted_at_unix_micros\":1654511561130629,\"updated_at_unix_micros\":1654511561130629,\"language\":\"ar\",\"translated_lang\":\"en\",\"text_original\":\"جيد\",\"text_translated\":\"good\",\"published_at\":\"2022-06-06T10:32:41.130629Z\"}]",
-    "scan_grid_size": "15",
-    "scan_tile_index": "43",
-    "scan_completed_at_utc": "2026-10-26T01:00:44.648384+00:00",
+    "scan_tile_index": "46",
+    "scan_completed_at_utc": "2026-10-26T06:39:54.063384+00:00",
     "name": "..",
     "google_maps_url": "https://www.google.com/maps/place/_/data=!4m7!3m6!1s0x161ce9157dfa2709:0x75b5374d0cbef6cd!8m2!3d13.9632296!4d44.1805396!16s%2Fg%2F11rjqn4938!19sChIJCSf6fRXpHBYRzfa-DE03tXU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
     "rating": "3.600000",

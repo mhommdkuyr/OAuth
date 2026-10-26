@@ -5458,5 +5458,64 @@
     "robots_status": "robots_unavailable_skipped",
     "attempts": 1,
     "checked_at_utc": "2026-10-26T01:00:57.633095+00:00"
+  },
+  "yalatourism.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://yalatourism.com/",
+    "checked_at_utc": "2026-10-26T06:50:09.760608+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://yalatourism.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "alyamanpharma.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://alyamanpharma.com/",
+    "checked_at_utc": "2026-10-26T06:50:12.484390+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@alyamanpharma.com",
+        "info@example.com",
+        "sale@alyamanpharma.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alyamanpharma.com/",
+        "https://alyamanpharma.com/images/slides/slider-mainbg-003.jpg",
+        "https://alyamanpharma.com/images/slides/slider-mainbg-004.jpg",
+        "https://alyamanpharma.com/images/single-img-05.jpg",
+        "https://alyamanpharma.com/images/single-img-06.jpg",
+        "https://alyamanpharma.com/images/single-img-07.jpg",
+        "https://alyamanpharma.com/images/country/country-01.jpg",
+        "https://alyamanpharma.com/images/country/country-01_icon_img.jpg",
+        "https://alyamanpharma.com/images/country/country-02.jpg",
+        "https://alyamanpharma.com/images/country/country-02_icon_img.jpg",
+        "https://alyamanpharma.com/images/country/country-03.jpg",
+        "https://alyamanpharma.com/images/country/country-05_icon_img.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/Yaman2016pharma",
+      "linkedin": ""
+    }
   }
 }
