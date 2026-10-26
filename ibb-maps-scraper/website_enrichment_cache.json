@@ -5517,5 +5517,27 @@
       "facebook": "https://www.facebook.com/Yaman2016pharma",
       "linkedin": ""
     }
+  },
+  "booking.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.booking.com/hotel/ye/fndq-rt-vyw-dn-lsyhy-art-view-aden.html",
+    "checked_at_utc": "2026-10-26T13:35:36.829368+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.booking.com/hotel/ye/fndq-rt-vyw-dn-lsyhy-art-view-aden.html"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
