@@ -5452,5 +5452,11 @@
       "facebook": "https://www.facebook.com/www.ust.edu",
       "linkedin": "https://www.linkedin.com/school/university-of-science-and-technology-yemen/"
     }
+  },
+  "46.182.243.2": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-26T01:00:57.633095+00:00"
   }
 }
