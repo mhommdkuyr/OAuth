@@ -5539,5 +5539,11 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "nabni-ye.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_http_403",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-27T08:28:34.558688+00:00"
   }
 }
