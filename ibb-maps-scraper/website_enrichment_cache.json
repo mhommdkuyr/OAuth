@@ -5545,5 +5545,10 @@
     "robots_status": "robots_http_403",
     "attempts": 1,
     "checked_at_utc": "2026-10-27T08:28:34.558688+00:00"
+  },
+  "aljabarpharmacy.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-27T20:44:41.620235+00:00"
   }
 }
