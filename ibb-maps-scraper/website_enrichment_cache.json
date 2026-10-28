@@ -5550,5 +5550,30 @@
     "status": "skipped_unsafe_url",
     "attempts": 1,
     "checked_at_utc": "2026-10-27T20:44:41.620235+00:00"
+  },
+  "hubaishifoods.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://hubaishifoods.com/",
+    "checked_at_utc": "2026-10-28T13:28:15.101952+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "impallari@gmail.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://img1.wsimg.com/isteam/ip/61da44e2-bd7d-4c50-af86-d3dbc012a121/blob-ae7d9d1.png",
+        "https://hubaishifoods.com/"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
