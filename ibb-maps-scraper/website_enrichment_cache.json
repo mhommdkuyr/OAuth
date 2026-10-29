@@ -5575,5 +5575,35 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "binalawico.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://binalawico.com/",
+    "checked_at_utc": "2026-10-29T10:34:28.907719+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@binalawico.com"
+      ],
+      "website_phones": [
+        "02359200"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://binalawico.com/",
+        "http://binalawico.com/img/logo.png",
+        "http://binalawico.com/img/play_app_store.png",
+        "http://binalawico.com/img/App_Store.png",
+        "http://binalawico.com/aboutus.html"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
   }
 }
