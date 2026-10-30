@@ -5605,5 +5605,38 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "fortrestye.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://fortrestye.com/",
+    "checked_at_utc": "2026-10-30T09:16:38.800630+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://fortrestye.com/uploads/logo2.svg",
+        "https://fortrestye.com/",
+        "https://fortrestye.com/frontend/assets/img/logo_loder2.png",
+        "https://fortrestye.com/frontend/assets/img/menu/menu_thumb_1_1.png",
+        "https://fortrestye.com/frontend/assets/img/menu/menu_thumb_1_2.png",
+        "https://fortrestye.com/frontend/assets/img/menu/menu_thumb_1_3.png",
+        "https://fortrestye.com/frontend/assets/img/menu/menu_thumb_1_4.png",
+        "https://fortrestye.com/frontend/assets/img/menu/menu_thumb_1_5.png",
+        "https://fortrestye.com/frontend/assets/img/menu/product_details_1_1.png",
+        "https://fortrestye.com/frontend/assets/img/menu/product_details_1_2.png",
+        "https://fortrestye.com/frontend/assets/img/menu/product_details_1_3.png",
+        "https://fortrestye.com/frontend/assets/img/menu/product_details_1_4.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/mzn",
+      "linkedin": ""
+    }
   }
 }
