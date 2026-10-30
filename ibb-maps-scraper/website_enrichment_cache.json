@@ -5733,5 +5733,90 @@
       "facebook": "",
       "linkedin": "https://www.linkedin.com/in/eAnwar"
     }
+  },
+  "ibnsammer.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ibnsammer.com/index.php/ar/",
+    "checked_at_utc": "2026-10-30T21:32:51.635572+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@ibnsammer.com"
+      ],
+      "website_phones": [
+        "+967777995799",
+        "+967777553196",
+        "+967101008543"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ibnsammer.com/index.php/ar/",
+        "https://ibnsammer.com/images/png.",
+        "https://ibnsammer.com/images/2.png",
+        "https://ibnsammer.com/images/2222.png",
+        "https://ibnsammer.com/images/1112.png",
+        "https://ibnsammer.com/images/2022/11/19/side2.png",
+        "https://ibnsammer.com/images/2022/11/19/side1.png",
+        "https://ibnsammer.com/images/2022/11/16/seeds.png",
+        "https://ibnsammer.com/images/2022/11/16/pesticides.jpg.png",
+        "https://ibnsammer.com/images/2022/11/16/fertilizer.png",
+        "https://ibnsammer.com/images/2022/11/16/seeding-2.png",
+        "https://ibnsammer.com/images/2022/11/19/ilsa.png"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "appsgeyser.io": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://appsgeyser.com/",
+    "checked_at_utc": "2026-10-30T21:32:53.764262+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "AppsGeyser",
+      "website_emails": [
+        "support@appsgeyser.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://appsgeyser.com/",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero-illustration.a3a23c51.webp&w=3840&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero-illustration.a3a23c51.webp&w=1920&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fcreate-app-screen.03ce53a0.png&w=3840&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fcreate-app-screen.03ce53a0.png&w=1920&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fcustomization-screen.3bc678d1.png&w=1920&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fcustomization-screen.3bc678d1.png&w=1080&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Finstall-your-app-screen.3ba37346.png&w=1080&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Finstall-your-app-screen.3ba37346.png&w=640&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpublish-app-screen.af0bf94c.png&w=1080&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpublish-app-screen.af0bf94c.png&w=640&q=75",
+        "https://appsgeyser.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpush-phone.420c4cc3.webp&w=1920&q=75"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/Appsgeyser/",
+      "linkedin": "https://www.linkedin.com/company/appsgeyser.com"
+    }
+  },
+  "zawamods.blogspot.com": {
+    "status": "http_429",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-30T21:32:55.461931+00:00"
+  },
+  "l.net": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-30T21:32:56.536884+00:00"
   }
 }
