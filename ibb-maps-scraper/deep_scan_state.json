@@ -15,7 +15,7 @@
     30
   ],
   "stage_index": 1,
-  "next_tile_index": 112,
+  "next_tile_index": 116,
   "completed_tiles": {
     "10:0": {
       "attempts": 1,
@@ -1288,6 +1288,30 @@
       "rows": 369,
       "completed_at_utc": "2026-10-29T22:28:37.014767+00:00",
       "file": "deep_scan_tiles/grid_15/tile_0111.csv"
+    },
+    "15:112": {
+      "attempts": 1,
+      "rows": 356,
+      "completed_at_utc": "2026-10-30T02:06:42.665676+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0112.csv"
+    },
+    "15:113": {
+      "attempts": 1,
+      "rows": 377,
+      "completed_at_utc": "2026-10-30T02:16:50.891139+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0113.csv"
+    },
+    "15:114": {
+      "attempts": 1,
+      "rows": 360,
+      "completed_at_utc": "2026-10-30T02:26:59.119879+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0114.csv"
+    },
+    "15:115": {
+      "attempts": 1,
+      "rows": 371,
+      "completed_at_utc": "2026-10-30T02:37:07.345887+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0115.csv"
     }
   },
   "attempts": {
@@ -1502,7 +1526,11 @@
     "15:108": 1,
     "15:109": 1,
     "15:110": 1,
-    "15:111": 1
+    "15:111": 1,
+    "15:112": 1,
+    "15:113": 1,
+    "15:114": 1,
+    "15:115": 1
   },
   "failed_tiles": {},
   "overpass_complete": true,
@@ -1512,21 +1540,21 @@
   "target_reached": false,
   "scan_complete": false,
   "scan_status": "grid_15_in_progress",
-  "batch_runs": 52,
+  "batch_runs": 53,
   "last_batch_tiles": [
-    "15:108",
-    "15:109",
-    "15:110",
-    "15:111"
+    "15:112",
+    "15:113",
+    "15:114",
+    "15:115"
   ],
-  "last_batch_rows": 1507,
+  "last_batch_rows": 1464,
   "last_batch_errors": [],
   "started_at_utc": "2026-10-20T07:26:38.663001+00:00",
-  "updated_at_utc": "2026-10-29T22:28:51.769958+00:00",
+  "updated_at_utc": "2026-10-30T02:37:21.186368+00:00",
   "last_batch_successful_tiles": 4,
   "overpass_rows": 924,
-  "last_batch_finished_at_utc": "2026-10-29T22:28:37.274831+00:00",
-  "projected_unique_records": 6192,
+  "last_batch_finished_at_utc": "2026-10-30T02:37:07.609513+00:00",
+  "projected_unique_records": 6206,
   "gosom_completed_at_utc": "2026-10-20T09:01:33.517589+00:00",
   "current_stage_finished_at_utc": "2026-10-24T11:35:14.038240+00:00",
   "permanently_failed_tiles": []
