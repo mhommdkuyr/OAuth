@@ -5638,5 +5638,100 @@
       "facebook": "https://www.facebook.com/mzn",
       "linkedin": ""
     }
+  },
+  "yemen2020.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.yemen2020.com/",
+    "checked_at_utc": "2026-10-30T16:35:00.551183+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "السوق العقاري اليمن",
+      "website_emails": [],
+      "website_phones": [
+        "+967770770662",
+        "+967770770663"
+      ],
+      "website_address": "شارع 24 المتفرع من شارع الخمسين بإتجاه صاله القصور البيضاء, صنعاء, YE",
+      "website_opening_hours": "{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"], \"opens\": \"00:00\", \"closes\": \"23:59\"}",
+      "website_latitude": "15.27299716",
+      "website_longitude": "44.22988951",
+      "website_images": [
+        "https://yemen2020.com/images/LogoMedium.png",
+        "https://www.yemen2020.com/",
+        "https://yemen2020.com/images/logomedium.png",
+        "https://www.yemen2020.com/images/OfficeImage000.webp",
+        "https://www.yemen2020.com/images/OfficeImage001.webp",
+        "https://www.yemen2020.com/images/OfficeImage002.webp",
+        "https://www.yemen2020.com/images/OfficeImage003.webp",
+        "https://www.yemen2020.com/images/OfficeImage004.webp",
+        "https://www.yemen2020.com/images/OfficeImage005.webp",
+        "https://www.yemen2020.com/images/OfficeImage006.webp",
+        "https://www.yemen2020.com/images/OfficeImage007.webp",
+        "https://www.yemen2020.com/images/OfficeImage008.webp"
+      ],
+      "instagram": "https://instagram.com/yemenat123?igshid=NTA5ZTk1NT",
+      "facebook": "https://www.facebook.com/yemenat2020",
+      "linkedin": ""
+    }
+  },
+  "abunshwan.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://abunshwan.com/",
+    "checked_at_utc": "2026-10-30T16:35:02.323154+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://abunshwan.com/",
+        "https://abunshwan.com/wp-content/uploads/2024/01/cropped-شعار-ابو-نشوان-للصرافة-والتحويلات-123-250x82.png",
+        "https://abunshwan.com/wp-content/uploads/2024/01/cropped-شعار-ابو-نشوان-للصرافة-والتحويلات-123.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/upt-1.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/west.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/shift-2.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/STC.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/MONYGRAM.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/RIA-1.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/QUCKPAY.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/ERSAL.png",
+        "https://abunshwan.com/wp-content/uploads/2023/11/INMAA.png"
+      ],
+      "instagram": "https://www.instagram.com/AbuNashwanExchange/",
+      "facebook": "https://www.facebook.com/AbuNashwanExchange/",
+      "linkedin": ""
+    }
+  },
+  "anwar.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://anwar.com/",
+    "checked_at_utc": "2026-10-30T16:35:07.062320+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "http://anwar.com/",
+        "https://anwar.com/wp-content/uploads/2022/09/9727f325-4c2c-437d-b729-1214b6401a12-700x394.jpg",
+        "https://anwar.com/wp-content/uploads/2022/09/about-og-image-1200x630.jpg.twimg_.768-700x367.jpg",
+        "https://anwar.com/wp-content/uploads/2022/09/How-To-Organize-Email-700x393.jpg",
+        "https://anwar.com/contact-me/"
+      ],
+      "instagram": "https://instagram.com/eGGsEsports",
+      "facebook": "",
+      "linkedin": "https://www.linkedin.com/in/eAnwar"
+    }
   }
 }
