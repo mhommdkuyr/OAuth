@@ -6238,8 +6238,8 @@
   "play.google.com": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 2,
-    "checked_at_utc": "2026-10-31T13:43:21.936444+00:00"
+    "attempts": 3,
+    "checked_at_utc": "2026-10-31T19:12:00.110040+00:00"
   },
   "kc-ye.com": {
     "status": "ok",
@@ -6273,5 +6273,46 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "alkamelfood.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.alkamelfood.com/",
+    "checked_at_utc": "2026-10-31T19:12:02.995529+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "+(967) 1 235543"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.alkamelfood.com/uploads/settings/16624038394326.png",
+        "https://www.alkamelfood.com/",
+        "https://www.alkamelfood.com/uploads/settings/16636918629281.png",
+        "https://www.alkamelfood.com/uploads/banners/16680112262350.jpg",
+        "https://www.alkamelfood.com/uploads/banners/16625714378778.jpg",
+        "https://www.alkamelfood.com/uploads/banners/16630930533279.jpg",
+        "https://www.alkamelfood.com/uploads/banners/16631726285731.jpg",
+        "https://www.alkamelfood.com/uploads/banners/16630914087352.jpg",
+        "https://www.alkamelfood.com/uploads/topics/16639592014632.jpg",
+        "https://www.alkamelfood.com/uploads/topics/16639592554339.png",
+        "https://www.alkamelfood.com/uploads/topics/16639593379796.png",
+        "https://www.alkamelfood.com/uploads/topics/16639594047754.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/alkamelfood/",
+      "linkedin": ""
+    }
+  },
+  "hefdhallahhasan.com": {
+    "status": "robots_disallowed",
+    "robots_status": "robots_unavailable_skipped",
+    "attempts": 1,
+    "checked_at_utc": "2026-10-31T19:12:12.495525+00:00"
   }
 }
