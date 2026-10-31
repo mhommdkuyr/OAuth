@@ -5809,14 +5809,230 @@
     }
   },
   "zawamods.blogspot.com": {
-    "status": "http_429",
-    "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-30T21:32:55.461931+00:00"
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://zawamods.blogspot.com/",
+    "checked_at_utc": "2026-10-31T01:26:16.308384+00:00",
+    "attempts": 2,
+    "data": {
+      "website_name": "واتساب زيد أبوراس",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipDZL3gjHl2JKKReKGJ93iXSIFtQ-zc9-BFBCWbNvvq8nzMgQXOKeV8vXd-HJQluQaXMhzJ_2H5PKClJqnFy65TqlpJf4dmwcx6cu5zSn_rXs61fIkhU58_ewse6CntO3RWAEQS2YLzlE/s1600/alternate.png",
+        "https://zawamods.blogspot.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjohEC0GYoFZN7RcPBQwUDgGrkeAnh8dA083083YbUWhtIVFMjB8PxECmmoLPbjhsw84di-4ObqejNB37S8jHj9UI_FnjeZpjXcp0RxbLKGn3tfoIpmN4H3Mom5SEfVDFKpo1SjH_vxztuv/s1600/1590335447548.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiyqK2bKVDDHXMEbKDs6h6--0Uu-fIObSuoS8tW9oWyK1x3DuqQ8oPlizGfdo2ehWBaGr1__s3f_2041YSNDSosgTwDF4jqZvlXEYrxKkUm1gWU059fvh3YczUakHkbf4ibVDERkmahO5Nf4U1r4qplpU5KewBed4rfckYkNdZhxfJWmFTjDW7YhTWWn0/s72-c/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A7%D9%A0%D9%A3.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn_lsK6gSxp4g4ZhIxKq8OktTTNTqeAMmVXVLLJcbnhSGmkaLrzQyI8WQwL1hTSsPE6_Ld_DtHac5maVqs5sby3DEl76nd9ovMva24hKIgacEL6LD7ly5ItBqpStYPhaTKlWbovS3lu5oNXDgv_U5xXxZ1W4fI6vaBYNkenxx7EdJ4XkBDKHGYKePjiXw/s72-c/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A4%D9%A3%D9%A4.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC5ZYxuD4-Rz284c3EJQtyY88Bqin2ABTM0enzmq7gr50nXwCNMlniajDzVdcBVQoRo1in-UqSebPTwvIqGXvB9o8nevnWvjLCUcFU_dvqr-JzlsKo04JO_vB4k5IxK8BZkSGzMEqOA7d1D2xtMDlsRugT3k0NbzIEytFC-2lqv7JkyBufQhRG0vEauYM/s72-c/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A2%D9%A2%D9%A7.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc1o3MfopgwwsPkNEri03818zIOrPjZHmbWQnoJxuMT77q2sbRDKprEqT_aLzGj1WbtjgmkKuoaIp4NxS_ilV-F9WH4vu9Xyh_9PAPXV0cVKkmKQr9VKhWsJ9dDlVitZM6_hDe5VahlQrh6d9addkcQrMgw2CYgiwLOS0nZe3-4E7u2KUUWD2CokiUHUE/s72-c/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A5%D9%A6%D9%A1%D9%A4.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiyqK2bKVDDHXMEbKDs6h6--0Uu-fIObSuoS8tW9oWyK1x3DuqQ8oPlizGfdo2ehWBaGr1__s3f_2041YSNDSosgTwDF4jqZvlXEYrxKkUm1gWU059fvh3YczUakHkbf4ibVDERkmahO5Nf4U1r4qplpU5KewBed4rfckYkNdZhxfJWmFTjDW7YhTWWn0/w72-h72-p-k-no-nu/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A7%D9%A0%D9%A3.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC5ZYxuD4-Rz284c3EJQtyY88Bqin2ABTM0enzmq7gr50nXwCNMlniajDzVdcBVQoRo1in-UqSebPTwvIqGXvB9o8nevnWvjLCUcFU_dvqr-JzlsKo04JO_vB4k5IxK8BZkSGzMEqOA7d1D2xtMDlsRugT3k0NbzIEytFC-2lqv7JkyBufQhRG0vEauYM/w72-h72-p-k-no-nu/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A2%D9%A2%D9%A7.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc1o3MfopgwwsPkNEri03818zIOrPjZHmbWQnoJxuMT77q2sbRDKprEqT_aLzGj1WbtjgmkKuoaIp4NxS_ilV-F9WH4vu9Xyh_9PAPXV0cVKkmKQr9VKhWsJ9dDlVitZM6_hDe5VahlQrh6d9addkcQrMgw2CYgiwLOS0nZe3-4E7u2KUUWD2CokiUHUE/w72-h72-p-k-no-nu/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A5%D9%A6%D9%A1%D9%A4.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn_lsK6gSxp4g4ZhIxKq8OktTTNTqeAMmVXVLLJcbnhSGmkaLrzQyI8WQwL1hTSsPE6_Ld_DtHac5maVqs5sby3DEl76nd9ovMva24hKIgacEL6LD7ly5ItBqpStYPhaTKlWbovS3lu5oNXDgv_U5xXxZ1W4fI6vaBYNkenxx7EdJ4XkBDKHGYKePjiXw/w72-h72-p-k-no-nu/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A4%D9%A3%D9%A4.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiyqK2bKVDDHXMEbKDs6h6--0Uu-fIObSuoS8tW9oWyK1x3DuqQ8oPlizGfdo2ehWBaGr1__s3f_2041YSNDSosgTwDF4jqZvlXEYrxKkUm1gWU059fvh3YczUakHkbf4ibVDERkmahO5Nf4U1r4qplpU5KewBed4rfckYkNdZhxfJWmFTjDW7YhTWWn0/w300-h200-p-k-no-nu/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A6%D9%A1%D9%A9_%D9%A0%D9%A7%D9%A4%D9%A7%D9%A0%D9%A3.jpg"
+      ],
+      "instagram": "https://www.instagram.com/zaid_aburas",
+      "facebook": "https://www.facebook.com/2aid.aburas",
+      "linkedin": ""
+    }
   },
   "l.net": {
     "status": "skipped_unsafe_url",
     "attempts": 1,
     "checked_at_utc": "2026-10-30T21:32:56.536884+00:00"
+  },
+  "alsanfanii.snftjd.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://alsanfanii.snftjd.com/",
+    "checked_at_utc": "2026-10-31T01:26:20.546550+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "السنفاني للتجارة والدواجن",
+      "website_emails": [
+        "",
+        "info@snftjd.com"
+      ],
+      "website_phones": [
+        "+967772503333",
+        "+967711250555",
+        "+96704505555",
+        "+96704505000",
+        "04505000"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alsanfanii.snftjd.com/images/social-preview.jpg",
+        "https://alsanfanii.snftjd.com/",
+        "https://alsanfanii.snftjd.com/logo-display.png",
+        "https://alsanfanii.snftjd.com/images/approved/building-hero-mobile-540.avif",
+        "https://alsanfanii.snftjd.com/images/approved/building-hero-mobile-540.webp",
+        "https://alsanfanii.snftjd.com/images/approved/building-hero-960.avif",
+        "https://alsanfanii.snftjd.com/images/approved/building-hero-960.webp",
+        "https://alsanfanii.snftjd.com/images/approved/building-hero-1920.webp",
+        "https://alsanfanii.snftjd.com/images/approved/yarem-valley-content-800.avif",
+        "https://alsanfanii.snftjd.com/images/approved/yarem-valley-content-800.webp",
+        "https://alsanfanii.snftjd.com/images/approved/yarem-valley-content-1600.webp",
+        "https://alsanfanii.snftjd.com/about/"
+      ],
+      "instagram": "https://instagram.com/alsanfanii",
+      "facebook": "https://facebook.com/alsanfanii",
+      "linkedin": ""
+    }
+  },
+  "yhcrental.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.yhcrental.com/",
+    "checked_at_utc": "2026-10-31T01:26:21.996746+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "يمن الحضارات لتاجير السيارات",
+      "website_emails": [
+        "info@yhcrental.com"
+      ],
+      "website_phones": [
+        "+undefined-777622746",
+        "+undefined-772021202",
+        "+undefined-784604444"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://files.cdn-files-a.com/uploads/8295631/800_gi-67b6217828582.jpg",
+        "https://www.yhcrental.com/",
+        "https://files.cdn-files-a.com/uploads/8295631/400_filter_nobg_675b461f5cd7f.png",
+        "https://images.cdn-files-a.com/uploads/8295631/2000_6611e7d7db3f8-thumbnail.jpg",
+        "https://images.cdn-files-a.com/uploads/8295631/2000_660f747bbd67e-thumbnail.jpg",
+        "https://images.cdn-files-a.com/uploads/8295631/2000_64a9b620566de-thumbnail.jpg",
+        "https://images.cdn-files-a.com/uploads/8295631/2000_660e125b187ff-thumbnail.jpg",
+        "https://cdn-cms-s-8-4.f-static.net/files/images/google_map_white_small.png?v=vc1793298158",
+        "https://cdn-cms-s-8-4.f-static.net/files/images/waze_white_small.png?v=vc1793298158",
+        "https://cdn-cms-s-8-4.f-static.net/files/images/moovit_white_small.png?v=vc1793298158"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/yhcrental",
+      "linkedin": "https://www.linkedin.com/company/yhcrental/"
+    }
+  },
+  "universalyemen.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://universalyemen.com/en",
+    "checked_at_utc": "2026-10-31T01:26:25.897949+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Universal Yemen",
+      "website_emails": [
+        "info@universalyemen.com"
+      ],
+      "website_phones": [
+        "+9671440305"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://universalyemen.com/website/images/logo-blue-h.png",
+        "https://universalyemen.com/en",
+        "https://universalyemen.com/website/images/logo-white-h.png",
+        "https://universalyemen.com/files/galleries/sliders/15624_1680591455_40-web-banner-without-building-01-01.jpg",
+        "https://universalyemen.com/files/galleries/sliders/82845_1676562151_ezgif.com-gif-maker.jpg",
+        "https://universalyemen.com/files/galleries/sliders/17540_1660065323_50475_1615453437_hertz-counter.jpg",
+        "https://universalyemen.com/files/galleries/sliders/41617_1676562194_ezgif.com-gif-maker(1).jpg",
+        "https://universalyemen.com/files/galleries/sliders/89996_1676562037_ezgif.com-gif-maker(2).jpg",
+        "https://universalyemen.com/files/galleries/sliders/37632_1676562248_ezgif.com-gif-maker(4).jpg",
+        "https://universalyemen.com/files/galleries/pages/36235_1754380977_ezgif.com-optijpeg.jpg",
+        "https://universalyemen.com/files/large/galleries/activities/71912_1791388324_un sm news44.jpg",
+        "https://universalyemen.com/files/large/galleries/activities/95889_1791177386_un sm news44.jpg"
+      ],
+      "instagram": "https://www.instagram.com/universal.yemen",
+      "facebook": "https://www.facebook.com/Universalyemen",
+      "linkedin": "https://www.linkedin.com/company/universalyemen"
+    }
+  },
+  "ulcyemen.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://ulcyemen.com/ar",
+    "checked_at_utc": "2026-10-31T01:26:29.313577+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "يونيفرسال اليمن للدعم اللوجستي والمقاولات المحدودة ",
+      "website_emails": [
+        "info@ulcyemen.com"
+      ],
+      "website_phones": [
+        "+967 1 441103",
+        "+967-1-441103"
+      ],
+      "website_address": "شارع الستين حدة - جولة المصباحي - خلف معرض بازرعة صنعاء الجمهورية اليمنية, صنعاء, YE",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://ulcyemen.com/website/images/logo.png",
+        "https://ulcyemen.com/ar",
+        "https://ulcyemen.com/website/images/ulc-logo-color.svg",
+        "https://ulcyemen.com/website/images/ulc-logo-color.png",
+        "https://ulcyemen.com/website/images/ulc-logo-colore.svg",
+        "https://ulcyemen.com/website/images/service.png",
+        "https://ulcyemen.com/files/galleries/clients/1637498684_01png.png",
+        "https://ulcyemen.com/files/galleries/clients/1637498707_02png.png",
+        "https://ulcyemen.com/files/galleries/clients/1637498773_03png.png",
+        "https://ulcyemen.com/files/galleries/clients/1637498789_04png.png",
+        "https://ulcyemen.com/files/galleries/clients/1637498812_05png.png",
+        "https://ulcyemen.com/files/galleries/clients/1637498833_06png.png"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/ulcyemen/",
+      "linkedin": "https://www.linkedin.com/company/ulcyemen"
+    }
+  },
+  "ycic.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://www.ycic.com/",
+    "checked_at_utc": "2026-10-31T01:26:33.117968+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "crm@ycic.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://www.ycic.com/",
+        "https://www.ycic.com/images/logo-light.png",
+        "https://www.ycic.com/images/Yemen-flag.png",
+        "https://www.ycic.com/images/UK-flag.png",
+        "https://www.ycic.com/images/home-slider.mp4",
+        "https://www.ycic.com/admin/images/1624363365_089378600.jpg",
+        "https://www.ycic.com/admin/images/1582789266_041930400.jpg",
+        "https://www.ycic.com/admin/images/1582789291_090000000.jpg",
+        "https://www.ycic.com/admin/images/1582789249_067874200.jpg",
+        "https://www.ycic.com/images/lap.jpg",
+        "https://www.ycic.com/images/piolt.jpg",
+        "https://www.ycic.com/images/piolt2.jpg"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/1abuwalad/",
+      "linkedin": ""
+    }
   }
 }
