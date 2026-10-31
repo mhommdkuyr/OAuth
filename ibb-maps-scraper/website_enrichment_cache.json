@@ -6203,16 +6203,43 @@
     }
   },
   "al-jamel.com": {
-    "status": "http_429",
-    "robots_status": "robots_not_found",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-31T07:40:11.578850+00:00"
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.al-jamel.com/",
+    "checked_at_utc": "2026-10-31T13:43:20.787447+00:00",
+    "attempts": 2,
+    "data": {
+      "website_name": "مؤسسة الجمل للمنظفات (منظفات تيرا)",
+      "website_emails": [],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3jIriEUdc2MkFMi81RwFvi2AqfEBXaeMbm9Hy8pfgHZm3zyUTIZL9_bZvMsBIJbi4jmV4MtX7hZG6P0co4GZyg8S1kBLxuGwSvk7gnD94ZbzX-X2w4e2kXEUtKiyf6BJgPqhuI7apuy8/s320/%25D8%25B4%25D8%25B9%25D8%25A7%25D8%25B1-%25D8%25AA%25D9%258A%25D8%25B1%25D8%25A7---%25D9%2585%25D8%25B1%25D8%25A8%25D8%25B9.jpg",
+        "https://www.al-jamel.com/",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQ857mhhsmRNc9ZDLr8wCRNlEKL40iorZPCod2MQdbbtGuFLwQ8FV4l-IVmtjyRbYEWInZmzAjXHzCUgkxCFK9HGikH5wt54qn0irTk2q13M5vTNm_Dq-LaCJqYYjLQ6ID0tzjDUQhqukeYGTFHqsJ7UKUfsIPZQbHpuL5rEm-P4LNN8XmuC0qtgvAPio/w1200-h630-p-k-no-nu/%D8%AA%D9%8A%D8%B1%D8%A7%2016-02-2025.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIzGn05gv9i9QatgEwfasm2XynCfYANPJ4psN_kFjVEaqSbddegSilfT3spP-6GyvSEXR2J8UYBPavwX4kkHp_sB-xcKyHtNjB2k0Dw7fQbiFz6lJ2lO37sHwM7QbOCiIuEptEp-KSSe1lPXBeLXRAD3M7O9RBjRuhTtiC8XvYfmJUFGpUsWyQfWWb1QU9/w1200-h630-p-k-no-nu/%D8%AA%D9%8A%D8%B1%D8%A7%2009-10-2024.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaTluB4sK1vwx_34sZV3-5euBXdKt_RQsEWgrKwxSOWsstjcY7Sv81domuGZW3zYdsAGuweao61YjvX58DFOU6lEKQzaJxzSszHNX82eQ4sYoaufCMO_8RUYbP8oiVE_4_pcOJis3ntHBefA_r7lTxme3Ai50NGQeK3aN9slJhkHv321hhDMtoitynMhG4/w1200-h630-p-k-no-nu/%D8%AA%D9%8A%D8%B1%D8%A7%2013-10-2024.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajF6tlxj5lFvOzXY8lSpoFLYN9dmVJHoEE-ieZumF1xjxMQ4YwPnli_2BwkLQ-xSqyCX4aqcFtemkIh9sT2hxV-VVMbJUxwJgOEl-q8Fc1beRH5XWmGEubBX05XXXE1xWOvQPdTx5lYdgheIvEOYqd2qU7sQoDNt08cydVxK5t6yZ0I67cQSquyRYICJB/w1200-h630-p-k-no-nu/%D8%AA%D9%8A%D8%B1%D8%A7%2020-10-2024.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHhsDB8H18Ow_-Kvj_Eqx39aIc7gqmZ_7rFkq-j_kcpEdRvurqIY_xvspDLoJ2Mu1z_kLwSfOJEvNrfY-BQcRfbIiy0G1gVYje6LW_6E1g-8Hfo0lft_XUZntXN9738TCsiFf1tdQCd8/s270/LOGO1.png",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhq2R5kvdyZo0LdlXSpydJcK8ISf7NQwM5SPFLrhArKLq3fVexcwQNom1JXRjR_NL1heEQK2awBPsIxx2f-_PiUqRmmOdcAn_TnTFiweTLDVtCIVQp5Y3iqdFRECH1AJPuxU2yjlfVgr6rldGjIhJce_CHv2cst7E1bzIxtOK3BsdV6d-QMB3CCg6rrsA=s1600",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhq2R5kvdyZo0LdlXSpydJcK8ISf7NQwM5SPFLrhArKLq3fVexcwQNom1JXRjR_NL1heEQK2awBPsIxx2f-_PiUqRmmOdcAn_TnTFiweTLDVtCIVQp5Y3iqdFRECH1AJPuxU2yjlfVgr6rldGjIhJce_CHv2cst7E1bzIxtOK3BsdV6d-QMB3CCg6rrsA=w120",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEga41-l6s1_iyqCZ1iJ9GTKKnRUsVtUtqFORBWsYfOsVyKc_G9IQTZfZdTTBPRV99PaBulkAW9J0Fkm7KYXnhgBJ5uPWth3_BR6UKlBwhGtNltlHTw3cJinRym34eX3N0ogllP8ot8BwhyWJx73JUSVJRf9Z7Y3f9G8RElwPJuu0wTmxL35iGTo9ac2JzSM=s1080",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEga41-l6s1_iyqCZ1iJ9GTKKnRUsVtUtqFORBWsYfOsVyKc_G9IQTZfZdTTBPRV99PaBulkAW9J0Fkm7KYXnhgBJ5uPWth3_BR6UKlBwhGtNltlHTw3cJinRym34eX3N0ogllP8ot8BwhyWJx73JUSVJRf9Z7Y3f9G8RElwPJuu0wTmxL35iGTo9ac2JzSM=w120",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhR5cmWYAgOVOFOCj32n9nVWNxJNJswcfevq2wncEgVno3lM85W2GlN1WkOcEdjUAplnNTKodAj9DEidMKA748vuNCGU3qUU3DQmjRQ-8bWrDbFH2S6t9n-N1RRHFCMw0DfqqFQLu_j-SpF9AFdBEo1tdtDoXqJlwvlMGnDAV91Y5jrRera4Va_4VEN1w=s1600"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/aljamel.tera",
+      "linkedin": ""
+    }
   },
   "play.google.com": {
     "status": "http_404",
     "robots_status": "robots_ok",
-    "attempts": 1,
-    "checked_at_utc": "2026-10-31T07:40:12.760649+00:00"
+    "attempts": 2,
+    "checked_at_utc": "2026-10-31T13:43:21.936444+00:00"
   },
   "kc-ye.com": {
     "status": "ok",
