@@ -6442,5 +6442,191 @@
       "facebook": "https://www.facebook.com/wejhatak",
       "linkedin": ""
     }
+  },
+  "physiocareye.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://www.physiocareye.com/",
+    "checked_at_utc": "2026-11-01T09:54:30.417518+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "فيزيو كير يمن",
+      "website_emails": [
+        "info@physiocareye.com"
+      ],
+      "website_phones": [
+        "770199997",
+        "770399997",
+        "+967770199997"
+      ],
+      "website_address": "شارع الزبيري – عمارة نيو سكان, صنعاء, YE",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://physiocareye.com/assets/images/logo.png",
+        "https://www.physiocareye.com/",
+        "https://physiocareye.com/assets/images/hero-physio.webp",
+        "https://physiocareye.com/assets/images/physiotherapy-hero.jpg",
+        "https://physiocareye.com/assets/images/dental-hero.jpg",
+        "https://physiocareye.com/assets/images/dermatology-hero.jpg",
+        "https://physiocareye.com/assets/images/about.jpg",
+        "https://physiocareye.com/assets/uploads/posts/696aee38a71fe_1768615480.jpg"
+      ],
+      "instagram": "https://instagram.com/physiocareye",
+      "facebook": "https://facebook.com/physiocareye",
+      "linkedin": ""
+    }
+  },
+  "albarakahouse.com": {
+    "status": "ok",
+    "robots_status": "robots_not_found",
+    "final_url": "https://albarakahouse.com/",
+    "checked_at_utc": "2026-11-01T09:54:35.407298+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [],
+      "website_phones": [
+        "780705020",
+        "01693095",
+        "01694131"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://albarakahouse.com/",
+        "https://albarakahouse.com/section1.jpeg",
+        "https://albarakahouse.com/section2.jpg",
+        "https://albarakahouse.com/section3.jpg",
+        "https://albarakahouse.com/section4.avif"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "extra.yemoney.net": {
+    "status": "http_302",
+    "robots_status": "robots_not_found",
+    "attempts": 1,
+    "checked_at_utc": "2026-11-01T09:54:44.507913+00:00"
+  },
+  "harongarallah.com": {
+    "status": "skipped_unsafe_url",
+    "attempts": 1,
+    "checked_at_utc": "2026-11-01T09:54:45.579625+00:00"
+  },
+  "meccamall.store": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://meccamall.store/",
+    "checked_at_utc": "2026-11-01T09:54:47.067345+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@matjar.com"
+      ],
+      "website_phones": [
+        "01211133",
+        "776000222",
+        "https://wa.me/c/967776000226"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://meccamall.store/",
+        "https://meccamall.store/uploads/banners/image_2026_04_07_08_24_16.png",
+        "https://meccamall.store/uploads/banners/image_2025_02_05_21_58_41.jpg",
+        "https://meccamall.store/uploads/banners/image_2025_02_05_21_59_07.jpg",
+        "https://meccamall.store/uploads/banners/image_2025_02_05_22_00_15.jpg",
+        "https://meccamall.store/uploads/banners/image_2025_02_05_21_59_56.jpg",
+        "https://meccamall.store/uploads/banners/image_2025_04_19_16_03_35.png",
+        "https://meccamall.store/uploads/stores/logo_2025_01_01_16_34_39.png",
+        "https://meccamall.store/uploads/stores/logo_2025_01_15_20_07_16.png",
+        "https://meccamall.store/uploads/stores/logo_2025_01_18_13_38_41.png",
+        "https://meccamall.store/uploads/stores/logo_2025_01_21_08_36_35.png",
+        "https://meccamall.store/uploads/stores/logo_2025_02_16_06_14_10.png"
+      ],
+      "instagram": "https://www.instagram.com/mecca.mallye",
+      "facebook": "https://www.facebook.com/Mecca.Mallye/",
+      "linkedin": ""
+    }
+  },
+  "onesim.tech": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://onesim.tech/en",
+    "checked_at_utc": "2026-11-01T09:54:51.846875+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "support@onesim.tech",
+        "business@onesim.tech",
+        "security@onesim.tech",
+        "your@email.com"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://onesim.tech/og-image.svg",
+        "https://onesim.tech/en",
+        "https://onesim.tech/en/about"
+      ],
+      "instagram": "",
+      "facebook": "",
+      "linkedin": ""
+    }
+  },
+  "yemenihoneyworld.com": {
+    "status": "http_403",
+    "robots_status": "robots_ok",
+    "attempts": 1,
+    "checked_at_utc": "2026-11-01T09:54:53.405979+00:00"
+  },
+  "taizmall.websites.co.in": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "http://taizmall.com.free/",
+    "checked_at_utc": "2026-11-01T09:54:58.168547+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "Ťâiž Mâĺĺ تـعـز مــول",
+      "website_emails": [],
+      "website_phones": [
+        "+967*********2471",
+        "+967*********4548"
+      ],
+      "website_address": "https://maps.app.goo.gl/Ps7BLbX66YaHdq9S6, Taiz, Shabwah, 2896, Yemen",
+      "website_opening_hours": "[{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"], \"opens\": \"10:00\", \"closes\": \"19:00\"}]",
+      "website_latitude": "13.5752",
+      "website_longitude": "44.0215",
+      "website_images": [
+        "https://taizmall.com.free/files/2268045/business/logo/logo-1659317270.jpeg",
+        "http://taizmall.com.free/",
+        "https://taizmall.com.free/files/2268045/media/818084/taaz-mol-taiz-mall_1745003293jlR2d5.jpeg",
+        "https://taizmall.com.free/fitnessclub/img/defaults/menu.webp",
+        "https://taizmall.com.free/files/2268045/business/logo/logo-1659317270.jpeg?v=1547606385",
+        "https://taizmall.com.free/files/2268045/business/logo/logo-1659317270.jpeg?v=1683577286",
+        "https://taizmall.com.free/files/2268045/carousel/20250427040616898497ODtVr",
+        "https://taizmall.com.free/files/2268045/carousel/20250427040612266535F38e9",
+        "https://taizmall.com.free/files/2268045/carousel/202504270405578545361DEm8",
+        "https://taizmall.com.free/files/2268045/carousel/20250427040554326978GlRPl",
+        "https://taizmall.com.free/files/2268045/carousel/20250427040246681531VKNdK",
+        "https://taizmall.com.free/files/2268045/carousel/20250427040153864352YUPfg"
+      ],
+      "instagram": "https://www.instagram.com/taiz_mall/#",
+      "facebook": "https://www.facebook.com/TaizMall",
+      "linkedin": ""
+    }
   }
 }
