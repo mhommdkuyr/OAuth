@@ -6375,5 +6375,72 @@
       "facebook": "",
       "linkedin": ""
     }
+  },
+  "alarabuni.edu.ye": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://alarabuni.edu.ye/",
+    "checked_at_utc": "2026-11-01T02:52:56.543507+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "جامعة العرب",
+      "website_emails": [
+        "info@alarabuni.edu.ye"
+      ],
+      "website_phones": [],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://alarabuni.edu.ye/frontend/img/about-img.png",
+        "https://alarabuni.edu.ye/",
+        "https://alarabuni.edu.ye/frontend/img/logo.png",
+        "https://alarabuni.edu.ye/storage/colleges/college_6.png",
+        "https://alarabuni.edu.ye/storage/colleges/college_4.png",
+        "https://alarabuni.edu.ye/storage/colleges/college_3.png",
+        "https://alarabuni.edu.ye/storage/colleges/college_5.png",
+        "https://alarabuni.edu.ye/storage/posts/post_303.jpg",
+        "https://alarabuni.edu.ye/storage/posts/post_302.jpg",
+        "https://alarabuni.edu.ye/storage/posts/post_301.jpg",
+        "https://alarabuni.edu.ye/storage/posts/post_300.jpg",
+        "https://alarabuni.edu.ye/storage/memberships/membership_5.jpg"
+      ],
+      "instagram": "https://www.instagram.com/alarabuni/",
+      "facebook": "https://www.facebook.com/alarabuni/",
+      "linkedin": ""
+    }
+  },
+  "wejhataktravel.com": {
+    "status": "ok",
+    "robots_status": "robots_ok",
+    "final_url": "https://wejhataktravel.com/",
+    "checked_at_utc": "2026-11-01T02:53:02.724132+00:00",
+    "attempts": 1,
+    "data": {
+      "website_name": "",
+      "website_emails": [
+        "info@wejhataktravel.com"
+      ],
+      "website_phones": [
+        "00967771772883",
+        "00967737453666",
+        "0096778066566",
+        "00967651779"
+      ],
+      "website_address": "",
+      "website_opening_hours": "",
+      "website_latitude": "",
+      "website_longitude": "",
+      "website_images": [
+        "https://wejhataktravel.com/wp-content/uploads/2024/01/Wejhatak-logo1‏.jpg",
+        "https://wejhataktravel.com/",
+        "https://i0.wp.com/wejhataktravel.com/wp-content/uploads/2024/01/Wejhatak-logo1%E2%80%8F.jpg?resize=300%2C147&ssl=1",
+        "https://wejhataktravel.com/about-us/"
+      ],
+      "instagram": "",
+      "facebook": "https://www.facebook.com/wejhatak",
+      "linkedin": ""
+    }
   }
 }

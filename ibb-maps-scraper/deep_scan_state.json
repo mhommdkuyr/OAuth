@@ -15,7 +15,7 @@
     30
   ],
   "stage_index": 1,
-  "next_tile_index": 147,
+  "next_tile_index": 150,
   "completed_tiles": {
     "10:0": {
       "attempts": 1,
@@ -1492,6 +1492,30 @@
       "rows": 999,
       "completed_at_utc": "2026-10-31T22:58:06.965337+00:00",
       "file": "deep_scan_tiles/grid_15/tile_0145.csv"
+    },
+    "15:146": {
+      "attempts": 2,
+      "rows": 1243,
+      "completed_at_utc": "2026-11-01T02:21:20.931705+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0146.csv"
+    },
+    "15:147": {
+      "attempts": 1,
+      "rows": 1291,
+      "completed_at_utc": "2026-11-01T02:31:29.298050+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0147.csv"
+    },
+    "15:148": {
+      "attempts": 1,
+      "rows": 1268,
+      "completed_at_utc": "2026-11-01T02:41:53.683098+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0148.csv"
+    },
+    "15:149": {
+      "attempts": 1,
+      "rows": 1289,
+      "completed_at_utc": "2026-11-01T02:52:34.086432+00:00",
+      "file": "deep_scan_tiles/grid_15/tile_0149.csv"
     }
   },
   "attempts": {
@@ -1741,15 +1765,12 @@
     "15:143": 1,
     "15:144": 1,
     "15:145": 1,
-    "15:146": 1
+    "15:146": 2,
+    "15:147": 1,
+    "15:148": 1,
+    "15:149": 1
   },
-  "failed_tiles": {
-    "15:146": {
-      "attempts": 1,
-      "last_error": "Engine job 04cec418-b966-41e4-ab33-07ece2f5fd9d did not finish before polling deadline",
-      "at_utc": "2026-10-31T23:14:07.371989+00:00"
-    }
-  },
+  "failed_tiles": {},
   "overpass_complete": true,
   "overpass_last_error": "",
   "gosom_complete": true,
@@ -1757,27 +1778,21 @@
   "target_reached": false,
   "scan_complete": false,
   "scan_status": "grid_15_in_progress",
-  "batch_runs": 61,
+  "batch_runs": 62,
   "last_batch_tiles": [
-    "15:143",
-    "15:144",
-    "15:145",
-    "15:146"
+    "15:146",
+    "15:147",
+    "15:148",
+    "15:149"
   ],
-  "last_batch_rows": 2898,
-  "last_batch_errors": [
-    {
-      "tile": "15:146",
-      "attempt": 1,
-      "error": "Engine job 04cec418-b966-41e4-ab33-07ece2f5fd9d did not finish before polling deadline"
-    }
-  ],
+  "last_batch_rows": 5091,
+  "last_batch_errors": [],
   "started_at_utc": "2026-10-20T07:26:38.663001+00:00",
-  "updated_at_utc": "2026-10-31T23:14:42.748755+00:00",
-  "last_batch_successful_tiles": 3,
+  "updated_at_utc": "2026-11-01T02:53:08.388124+00:00",
+  "last_batch_successful_tiles": 4,
   "overpass_rows": 924,
-  "last_batch_finished_at_utc": "2026-10-31T23:14:07.843289+00:00",
-  "projected_unique_records": 6866,
+  "last_batch_finished_at_utc": "2026-11-01T02:52:34.593207+00:00",
+  "projected_unique_records": 7124,
   "gosom_completed_at_utc": "2026-10-20T09:01:33.517589+00:00",
   "current_stage_finished_at_utc": "2026-10-24T11:35:14.038240+00:00",
   "permanently_failed_tiles": []
