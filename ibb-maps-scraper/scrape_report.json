@@ -1,189 +1,189 @@
 {
-  "run_id": "42399105054",
-  "generated_at_utc": "2026-11-07T18:45:02.621275+00:00",
+  "run_id": "42417401962",
+  "generated_at_utc": "2026-11-07T22:29:50.441672+00:00",
   "city": "Ibb, Yemen",
   "grid_size": "4",
-  "previous_database_rows": 4365,
-  "mahanaicoach_rows_this_run": 8436,
+  "previous_database_rows": 4344,
+  "mahanaicoach_rows_this_run": 8206,
   "gosom_rows_available": 1307,
   "openstreetmap_rows_available": 924,
-  "current_batch_mahanaicoach_rows": 8436,
-  "recovery_tile_rows_available": 8436,
-  "current_sources_rows_before_deduplication": 19103,
-  "new_unique_rows_added": 78,
-  "final_unique_rows": 4344,
-  "duplicate_rows_collapsed_in_this_merge": 19124,
+  "current_batch_mahanaicoach_rows": 8206,
+  "recovery_tile_rows_available": 8206,
+  "current_sources_rows_before_deduplication": 18643,
+  "new_unique_rows_added": 82,
+  "final_unique_rows": 4341,
+  "duplicate_rows_collapsed_in_this_merge": 18646,
   "coverage_note": "Best-effort collection, not a certified complete census. Search limits, geocoding boundaries, rate limits, query language and changing listings may omit places.",
   "field_coverage": {
     "name": {
-      "filled": 4342,
-      "total": 4344,
+      "filled": 4339,
+      "total": 4341,
       "percent": 99.95
     },
     "phone": {
-      "filled": 1783,
-      "total": 4344,
-      "percent": 41.05
+      "filled": 1799,
+      "total": 4341,
+      "percent": 41.44
     },
     "email": {
       "filled": 56,
-      "total": 4344,
+      "total": 4341,
       "percent": 1.29
     },
     "website": {
       "filled": 163,
-      "total": 4344,
+      "total": 4341,
       "percent": 3.75
     },
     "category": {
-      "filled": 4329,
-      "total": 4344,
+      "filled": 4326,
+      "total": 4341,
       "percent": 99.65
     },
     "address": {
-      "filled": 4333,
-      "total": 4344,
-      "percent": 99.75
+      "filled": 4331,
+      "total": 4341,
+      "percent": 99.77
     },
     "rating": {
-      "filled": 3447,
-      "total": 4344,
-      "percent": 79.35
+      "filled": 3444,
+      "total": 4341,
+      "percent": 79.34
     },
     "review_count": {
-      "filled": 3447,
-      "total": 4344,
-      "percent": 79.35
+      "filled": 3444,
+      "total": 4341,
+      "percent": 79.34
     },
     "google_maps_url": {
-      "filled": 4344,
-      "total": 4344,
+      "filled": 4341,
+      "total": 4341,
       "percent": 100.0
     },
     "latitude": {
-      "filled": 4344,
-      "total": 4344,
+      "filled": 4341,
+      "total": 4341,
       "percent": 100.0
     },
     "longitude": {
-      "filled": 4344,
-      "total": 4344,
+      "filled": 4341,
+      "total": 4341,
       "percent": 100.0
     },
     "place_id": {
-      "filled": 4344,
-      "total": 4344,
+      "filled": 4341,
+      "total": 4341,
       "percent": 100.0
     },
     "opening_hours": {
-      "filled": 1919,
-      "total": 4344,
-      "percent": 44.18
+      "filled": 1938,
+      "total": 4341,
+      "percent": 44.64
     },
     "thumbnail": {
-      "filled": 2103,
-      "total": 4344,
-      "percent": 48.41
+      "filled": 2115,
+      "total": 4341,
+      "percent": 48.72
     },
     "images": {
-      "filled": 207,
-      "total": 4344,
-      "percent": 4.77
+      "filled": 215,
+      "total": 4341,
+      "percent": 4.95
     },
     "photo_urls": {
-      "filled": 2115,
-      "total": 4344,
-      "percent": 48.69
+      "filled": 2127,
+      "total": 4341,
+      "percent": 49.0
     },
     "website_images": {
-      "filled": 72,
-      "total": 4344,
-      "percent": 1.66
+      "filled": 73,
+      "total": 4341,
+      "percent": 1.68
     },
     "website_phones": {
       "filled": 28,
-      "total": 4344,
-      "percent": 0.64
+      "total": 4341,
+      "percent": 0.65
     },
     "website_address": {
       "filled": 11,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.25
     },
     "website_opening_hours": {
       "filled": 5,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.12
     },
     "instagram": {
-      "filled": 33,
-      "total": 4344,
-      "percent": 0.76
+      "filled": 34,
+      "total": 4341,
+      "percent": 0.78
     },
     "facebook": {
-      "filled": 45,
-      "total": 4344,
-      "percent": 1.04
+      "filled": 47,
+      "total": 4341,
+      "percent": 1.08
     },
     "linkedin": {
-      "filled": 14,
-      "total": 4344,
-      "percent": 0.32
+      "filled": 16,
+      "total": 4341,
+      "percent": 0.37
     },
     "street_view_url": {
       "filled": 0,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.0
     },
     "owner": {
-      "filled": 3242,
-      "total": 4344,
-      "percent": 74.63
+      "filled": 3231,
+      "total": 4341,
+      "percent": 74.43
     },
     "menu": {
       "filled": 0,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.0
     },
     "order_online": {
       "filled": 6,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.14
     },
     "reservations": {
       "filled": 1,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.02
     },
     "price_range": {
       "filled": 0,
-      "total": 4344,
+      "total": 4341,
       "percent": 0.0
     },
     "about": {
-      "filled": 250,
-      "total": 4344,
-      "percent": 5.76
+      "filled": 247,
+      "total": 4341,
+      "percent": 5.69
     }
   },
   "output_column_count": 56,
   "additional_fields_beyond_eight_core": 48,
-  "records_with_all_eight_core_fields": 30,
+  "records_with_all_eight_core_fields": 31,
   "source_row_counts": {
-    "mahanaicoach_batch": 8436,
+    "mahanaicoach_batch": 8206,
     "gosom_available": 1307,
     "openstreetmap_available": 924
   },
   "source_engine_counts": {
     "gosom;mahanaicoach;openstreetmap": 2,
-    "gosom": 702,
-    "mahanaicoach": 2623,
-    "gosom;mahanaicoach": 123,
+    "gosom": 724,
+    "mahanaicoach": 2599,
+    "gosom;mahanaicoach": 122,
     "openstreetmap": 893,
     "mahanaicoach;openstreetmap": 1
   },
   "collection_method": "Resumable spatial Google Maps batches plus public OpenStreetMap supplement and public-website enrichment; no proxy rotation configured.",
-  "records_with_any_photo_url": 2115,
+  "records_with_any_photo_url": 2127,
   "website_enrichment": {
     "cached_hosts": 278,
     "successful_hosts": 192,
